@@ -2610,7 +2610,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Assassin's Creed® Origins",
+    "title": "Assassin's Creed Origins",
     "titleId": "502034863",
     "isTitleBased": true
   },
@@ -4295,7 +4295,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Assassin's Creed® Odyssey",
+    "title": "Assassin's Creed Odyssey",
     "titleId": "964818375",
     "isTitleBased": true
   },
@@ -10425,7 +10425,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Assassin's Creed® Valhalla",
+    "title": "Assassin's Creed Valhalla",
     "titleId": "1728105232",
     "isTitleBased": true
   },
@@ -24232,7 +24232,7 @@
   {
     "title": "Lost Twins 2",
     "titleId": "1974888367",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Mowin' & Throwin'",
@@ -39520,7 +39520,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Little Nightmares II",
+    "title": "Little Nightmares II Enhanced Edition",
     "titleId": "627891457",
     "isTitleBased": true
   },
@@ -45310,7 +45310,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Cooking City: Happy Summer Carnival",
+    "title": "Cooking City: Pet Park",
     "titleId": "2132010806",
     "isTitleBased": false
   },
@@ -52560,7 +52560,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Assassin’s Creed Shadows",
+    "title": "Assassin's Creed Shadows",
     "titleId": "1738914043",
     "isTitleBased": true
   },
@@ -52617,7 +52617,7 @@
   {
     "title": "METAL GEAR SOLID Δ: SNAKE EATER",
     "titleId": "1751185882",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Monster Hunter Wilds",
@@ -52717,7 +52717,7 @@
   {
     "title": "Mafia: The Old Country",
     "titleId": "1853524575",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Windows Edition",
@@ -56677,7 +56677,7 @@
   {
     "title": "Hell is Us",
     "titleId": "1902411725",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Double Dragon Revive",
@@ -58235,7 +58235,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Jump Ship",
+    "title": "Jump Space (formerly Jump Ship)",
     "titleId": "1946419297",
     "isTitleBased": false
   },
@@ -58420,14 +58420,14 @@
     "isTitleBased": true
   },
   {
-    "title": "Unsung Empires: The Cholas II Legacy of Rajendra Chola",
+    "title": "Son of Thanjai",
     "titleId": "1974713586",
     "isTitleBased": false
   },
   {
-    "title": "Karma: The Dark World",
+    "title": "KARMA: The Dark World",
     "titleId": "1673712997",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "SunnySide",
@@ -58665,7 +58665,7 @@
     "isTitleBased": false
   },
   {
-    "title": "VOID/BREAKER",
+    "title": "VOID/BREAKER (Game Preview)",
     "titleId": "2085652095",
     "isTitleBased": false
   },
@@ -58792,7 +58792,7 @@
   {
     "title": "UBOAT",
     "titleId": "1611397404",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Wheel World",
@@ -59022,7 +59022,7 @@
   {
     "title": "Discounty",
     "titleId": "1737926681",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Telebbit",
@@ -60852,12 +60852,12 @@
   {
     "title": "Delta Force",
     "titleId": "1854680102",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Black Myth: Wukong",
     "titleId": "1955966351",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Little Nightmares Enhanced Edition",
@@ -62007,7 +62007,7 @@
   {
     "title": "Void Crew",
     "titleId": "2119315223",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "KAKU - Ancient Seal",
@@ -62150,7 +62150,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Virtua Fighter 5 R.E.V.O.",
+    "title": "Virtua Fighter 5 R.E.V.O. World Stage",
     "titleId": "1959830280",
     "isTitleBased": false
   },
@@ -62172,7 +62172,7 @@
   {
     "title": "Republic of Pirates",
     "titleId": "1775673786",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Expanse: Osiris Reborn",
@@ -62257,7 +62257,7 @@
   {
     "title": "Noctuary",
     "titleId": "1995973613",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "A.I.L.A",
@@ -62292,7 +62292,7 @@
   {
     "title": "Gloomy Eyes",
     "titleId": "1841005271",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "STARSEEKER: Astroneer Expeditions",
@@ -62467,7 +62467,7 @@
   {
     "title": "HOTEL BARCELONA",
     "titleId": "1713780480",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Overpowered 1 - Mars Infestation",
@@ -62690,7 +62690,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Call of Duty®: Modern Warfare® II",
+    "title": "Call of Duty®: Modern Warfare® II Launcher",
     "titleId": "1959007243",
     "isTitleBased": true
   },
@@ -62700,7 +62700,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Call of Duty®: Modern Warfare® III",
+    "title": "Call of Duty®: Modern Warfare® III Launcher",
     "titleId": "2003727579",
     "isTitleBased": true
   },
@@ -62732,7 +62732,7 @@
   {
     "title": "Parking World",
     "titleId": "1953593267",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Toaplan Arcade Collection Vol. 2",
@@ -62942,7 +62942,7 @@
   {
     "title": "Bangman",
     "titleId": "2062637894",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "CritterGarden",
@@ -63570,7 +63570,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Dragon Snack",
+    "title": "Dragon Snack (Xbox Series)",
     "titleId": "1626229535",
     "isTitleBased": true
   },
@@ -64197,6 +64197,21 @@
   {
     "title": "Claim the Forest (Windows)",
     "titleId": "1963865580",
+    "isTitleBased": true
+  },
+  {
+    "title": "Run, Elric!",
+    "titleId": "1755641350",
+    "isTitleBased": true
+  },
+  {
+    "title": "Run, Elric! (XBOX SERIES)",
+    "titleId": "2007314399",
+    "isTitleBased": true
+  },
+  {
+    "title": "Shaman's Mask of the Rune Magic (Xbox One)",
+    "titleId": "1706860378",
     "isTitleBased": true
   }
 ]

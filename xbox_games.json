@@ -32955,7 +32955,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Tom Clancy's Splinter Cell® Double Agent™",
+    "title": "Tom Clancy’s Splinter Cell: Double Agent",
     "titleId": "197588887",
     "isTitleBased": false
   },
@@ -33100,7 +33100,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Tom Clancy’s Splinter Cell® Blacklist™",
+    "title": "Tom Clancy's Splinter Cell: Blacklist",
     "titleId": "207228625",
     "isTitleBased": false
   },
@@ -42760,7 +42760,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Tom Clancy's Splinter Cell® Chaos Theory™",
+    "title": "Tom Clancy's Splinter Cell: Chaos Theory",
     "titleId": "210789396",
     "isTitleBased": false
   },
@@ -45950,7 +45950,7 @@
     "isTitleBased": false
   },
   {
-    "title": "City Island 5",
+    "title": "City Island 5 - Tycoon Building Offline Sim Game",
     "titleId": "1861056451",
     "isTitleBased": false
   },
@@ -58365,7 +58365,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Yet Another Zombie Survivors",
+    "title": "Yet Another Zombie Survivors (Game Preview)",
     "titleId": "1886146911",
     "isTitleBased": false
   },
@@ -59162,7 +59162,7 @@
   {
     "title": "Chip ‘n Clawz vs. The Brainioids",
     "titleId": "2137663855",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Atama",
@@ -59228,11 +59228,6 @@
     "title": "Out of Sight",
     "titleId": "1688249349",
     "isTitleBased": true
-  },
-  {
-    "title": "We Sing",
-    "titleId": "772377518",
-    "isTitleBased": false
   },
   {
     "title": "ASTROKINGS: Galactic Survival",
@@ -61792,12 +61787,12 @@
   {
     "title": "NBA 2K26 for Xbox Series X|S",
     "titleId": "1870487792",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "NBA 2K26 for Xbox One",
     "titleId": "1696697876",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The End Of The Age (Windows)",
@@ -61955,9 +61950,9 @@
     "isTitleBased": true
   },
   {
-    "title": "skate.",
+    "title": "skate.™",
     "titleId": "2106683993",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Lorn's Lure",
@@ -62377,7 +62372,7 @@
   {
     "title": "Adventure of Samsara",
     "titleId": "1934333900",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Vampire Therapist",
@@ -62722,7 +62717,7 @@
   {
     "title": "LEGO® Voyagers",
     "titleId": "1819998160",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Planet of Lana II",
@@ -63680,7 +63675,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Snack and Quack",
+    "title": "Snack and Quack (Xbox Series)",
     "titleId": "1648364111",
     "isTitleBased": true
   },
@@ -64212,6 +64207,241 @@
   {
     "title": "Shaman's Mask of the Rune Magic (Xbox One)",
     "titleId": "1706860378",
+    "isTitleBased": true
+  },
+  {
+    "title": "Void Source (Windows)",
+    "titleId": "1988172142",
+    "isTitleBased": true
+  },
+  {
+    "title": "Void Source",
+    "titleId": "1909746994",
+    "isTitleBased": true
+  },
+  {
+    "title": "Goblin Gold Hunt (Xbox One)",
+    "titleId": "1743438450",
+    "isTitleBased": true
+  },
+  {
+    "title": "Void Source (Xbox One)",
+    "titleId": "2077720820",
+    "isTitleBased": true
+  },
+  {
+    "title": "Carnival Survivors The Parade",
+    "titleId": "2006671670",
+    "isTitleBased": true
+  },
+  {
+    "title": "Goblin Gold Hunt (Xbox Series X/S)",
+    "titleId": "1665690860",
+    "isTitleBased": true
+  },
+  {
+    "title": "Captain Bones",
+    "titleId": "1677710402",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sugardew Island",
+    "titleId": "1815065288",
+    "isTitleBased": true
+  },
+  {
+    "title": "We Sing",
+    "titleId": "772377518",
+    "isTitleBased": false
+  },
+  {
+    "title": "DETECTIVE - Scene Crime",
+    "titleId": "1750169445",
+    "isTitleBased": true
+  },
+  {
+    "title": "Double Dangerous",
+    "titleId": "2119147388",
+    "isTitleBased": true
+  },
+  {
+    "title": "Kairobotica",
+    "titleId": "1993593323",
+    "isTitleBased": true
+  },
+  {
+    "title": "Mirage: Ignis Fatuus",
+    "titleId": "1730541307",
+    "isTitleBased": true
+  },
+  {
+    "title": "Luppy (Xbox Series)",
+    "titleId": "2019884684",
+    "isTitleBased": true
+  },
+  {
+    "title": "Gang Blast",
+    "titleId": "1983573482",
+    "isTitleBased": true
+  },
+  {
+    "title": "Ash Pines: The Motel",
+    "titleId": "1644916896",
+    "isTitleBased": true
+  },
+  {
+    "title": "Detail Detective",
+    "titleId": "1929887286",
+    "isTitleBased": true
+  },
+  {
+    "title": "Luppy",
+    "titleId": "2046808542",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Strange City",
+    "titleId": "2081733071",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 SCRAMBLED EGG",
+    "titleId": "1675275666",
+    "isTitleBased": true
+  },
+  {
+    "title": "Bubsy 4D",
+    "titleId": "1697279233",
+    "isTitleBased": false
+  },
+  {
+    "title": "Wildekin",
+    "titleId": "1994758797",
+    "isTitleBased": false
+  },
+  {
+    "title": "Deer & Boy",
+    "titleId": "1704427307",
+    "isTitleBased": false
+  },
+  {
+    "title": "Wizordum",
+    "titleId": "1743460039",
+    "isTitleBased": false
+  },
+  {
+    "title": "Not Not 2 - A Brain Challenge",
+    "titleId": "1737854273",
+    "isTitleBased": true
+  },
+  {
+    "title": "Goat Out Of Hell (Xbox One)",
+    "titleId": "1926555180",
+    "isTitleBased": true
+  },
+  {
+    "title": "Stylist Girl",
+    "titleId": "1770044397",
+    "isTitleBased": true
+  },
+  {
+    "title": "Deep Rock Galactic: Survivor",
+    "titleId": "2076120890",
+    "isTitleBased": true
+  },
+  {
+    "title": "Scar-Lead Salvation",
+    "titleId": "2078163849",
+    "isTitleBased": true
+  },
+  {
+    "title": "Lumo 2",
+    "titleId": "1845341024",
+    "isTitleBased": true
+  },
+  {
+    "title": "I Hate This Place",
+    "titleId": "1844605798",
+    "isTitleBased": false
+  },
+  {
+    "title": "Sokomine",
+    "titleId": "1686834411",
+    "isTitleBased": true
+  },
+  {
+    "title": "Platypus Reclayed",
+    "titleId": "1662154584",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sokomine (Xbox One)",
+    "titleId": "2146019518",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sokomine (Windows)",
+    "titleId": "1820889530",
+    "isTitleBased": true
+  },
+  {
+    "title": "Goat Out Of Hell",
+    "titleId": "2076934154",
+    "isTitleBased": true
+  },
+  {
+    "title": "Goat Out Of Hell (Windows)",
+    "titleId": "1901326326",
+    "isTitleBased": true
+  },
+  {
+    "title": "Heading Out",
+    "titleId": "1627601214",
+    "isTitleBased": true
+  },
+  {
+    "title": "Run, Elric! (Windows)",
+    "titleId": "2100473998",
+    "isTitleBased": true
+  },
+  {
+    "title": "Kitten Island 2 (Xbox Series)",
+    "titleId": "1883121287",
+    "isTitleBased": true
+  },
+  {
+    "title": "Kitten Island 2",
+    "titleId": "1645882991",
+    "isTitleBased": true
+  },
+  {
+    "title": "Kitten Island 2 (Windows)",
+    "titleId": "2044046713",
+    "isTitleBased": true
+  },
+  {
+    "title": "Goblin Gold Hunt (Windows)",
+    "titleId": "2058706507",
+    "isTitleBased": true
+  },
+  {
+    "title": "Lost Eidolons: Veil of the Witch - Original Soundtrack",
+    "titleId": "1611319198",
+    "isTitleBased": false
+  },
+  {
+    "title": "Space Adventure Cobra - The Awakening",
+    "titleId": "1627345546",
+    "isTitleBased": true
+  },
+  {
+    "title": "Luppy (Windows)",
+    "titleId": "1781027452",
+    "isTitleBased": true
+  },
+  {
+    "title": "Gears of War: Reloaded",
+    "titleId": "1829869520",
     "isTitleBased": true
   }
 ]

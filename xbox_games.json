@@ -45950,7 +45950,7 @@
     "isTitleBased": false
   },
   {
-    "title": "City Island 5 - Tycoon Building Offline Sim Game",
+    "title": "City Island 5",
     "titleId": "1861056451",
     "isTitleBased": false
   },
@@ -53047,7 +53047,7 @@
   {
     "title": "Cronos: The New Dawn",
     "titleId": "1631581287",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Dune: Awakening",
@@ -58717,7 +58717,7 @@
   {
     "title": "Daemon X Machina: Titanic Scion",
     "titleId": "1935688591",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Soulstone Survivors",
@@ -59097,7 +59097,7 @@
   {
     "title": "Bubsy in: The Purrfect Collection",
     "titleId": "2092197904",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Nirvana Noir",
@@ -59187,7 +59187,7 @@
   {
     "title": "Fling to the Finish",
     "titleId": "2093758729",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Beastie Bay DX",
@@ -64012,7 +64012,7 @@
   {
     "title": "Pilot Sports (Xbox Series)",
     "titleId": "1958439929",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Red Cape Knight",
@@ -64385,7 +64385,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Goat Out Of Hell",
+    "title": "Goat Out Of Hell (Xbox Series)",
     "titleId": "2076934154",
     "isTitleBased": true
   },
@@ -64542,6 +64542,21 @@
   {
     "title": "Green Soldiers Heroes: Extreme Bikers",
     "titleId": "2080856071",
+    "isTitleBased": true
+  },
+  {
+    "title": "Friends vs Friends",
+    "titleId": "2043510457",
+    "isTitleBased": true
+  },
+  {
+    "title": "Nachtmahr",
+    "titleId": "2084735474",
+    "isTitleBased": true
+  },
+  {
+    "title": "Journey of Johann: Snowy Mountain (Windows)",
+    "titleId": "1878145682",
     "isTitleBased": true
   }
 ]

@@ -52772,7 +52772,7 @@
   {
     "title": "Hollow Knight: Silksong",
     "titleId": "1668241504",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "TRANSFORMERS: Galactic Trials",
@@ -58235,7 +58235,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Jump Space (formerly Jump Ship)",
+    "title": "Jump Space (Game Preview)",
     "titleId": "1946419297",
     "isTitleBased": false
   },
@@ -63087,7 +63087,7 @@
   {
     "title": "Compass of Destiny: Istanbul",
     "titleId": "2110345579",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "INAYAH - Life after Gods",
@@ -63755,7 +63755,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Claim the Forest",
+    "title": "Claim the Forest (Xbox Series)",
     "titleId": "2031425043",
     "isTitleBased": true
   },
@@ -63862,7 +63862,7 @@
   {
     "title": "Becastled",
     "titleId": "2138218417",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Darksiders 4",
@@ -63872,7 +63872,7 @@
   {
     "title": "Gunsmith Simulator",
     "titleId": "2022315423",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Liminal Point",
@@ -63887,7 +63887,7 @@
   {
     "title": "DeTechtive 2112",
     "titleId": "2018161010",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Active Matter",
@@ -64365,7 +64365,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Sokomine",
+    "title": "Sokomine (Xbox Series)",
     "titleId": "1686834411",
     "isTitleBased": true
   },
@@ -64557,6 +64557,46 @@
   {
     "title": "Journey of Johann: Snowy Mountain (Windows)",
     "titleId": "1878145682",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cataclismo",
+    "titleId": "1962619691",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sokocat: Islands - Remastered",
+    "titleId": "1812529924",
+    "isTitleBased": true
+  },
+  {
+    "title": "Lara Croft and the Guardian of Light (PC)",
+    "titleId": "1902038615",
+    "isTitleBased": true
+  },
+  {
+    "title": "Smoots Crazy Wave",
+    "titleId": "1792644757",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 MACH BREAKERS",
+    "titleId": "1689369156",
+    "isTitleBased": true
+  },
+  {
+    "title": "Jaden & Jasmine: The Curse of Deception",
+    "titleId": "1648258499",
+    "isTitleBased": true
+  },
+  {
+    "title": "Baki Hanma: Blood Arena",
+    "titleId": "1619305462",
+    "isTitleBased": true
+  },
+  {
+    "title": "Trasmoz Legends",
+    "titleId": "2034488473",
     "isTitleBased": true
   }
 ]

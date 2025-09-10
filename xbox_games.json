@@ -3665,6 +3665,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Minecraft: Xbox 360 Edition",
+    "titleId": "1480659447",
+    "isTitleBased": false
+  },
+  {
     "title": "Phantom Breaker:Battle Grounds",
     "titleId": "1480659549",
     "isTitleBased": false
@@ -3672,6 +3677,11 @@
   {
     "title": "Syberia",
     "titleId": "1480659973",
+    "isTitleBased": false
+  },
+  {
+    "title": "Minecraft: Xbox 360 Edition",
+    "titleId": "1480660023",
     "isTitleBased": false
   },
   {
@@ -3705,8 +3715,18 @@
     "isTitleBased": false
   },
   {
+    "title": "Minecraft: Story Mode",
+    "titleId": "1480660126",
+    "isTitleBased": false
+  },
+  {
     "title": "The Walking Dead: Michonne - Episode 1",
     "titleId": "1480660146",
+    "isTitleBased": false
+  },
+  {
+    "title": "Minecraft: Story Mode - Season Two",
+    "titleId": "1480660166",
     "isTitleBased": false
   },
   {
@@ -22210,6 +22230,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Beef (Beta)",
+    "titleId": "1854903885",
+    "isTitleBased": false
+  },
+  {
     "title": "Mr. Brocco and Co.",
     "titleId": "1854983612",
     "isTitleBased": true
@@ -36623,6 +36648,11 @@
     "title": "Reflection of Mine",
     "titleId": "2044361342",
     "isTitleBased": true
+  },
+  {
+    "title": "Minecraft for PlayStation®",
+    "titleId": "2044456598",
+    "isTitleBased": false
   },
   {
     "title": "Firework (Windows)",

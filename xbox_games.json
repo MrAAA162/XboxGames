@@ -13530,7 +13530,7 @@
     "isTitleBased": true
   },
   {
-    "title": "まものろKAI！ ～まもるクンは呪われてしまった！～",
+    "title": "Mamorukun ReCurse!",
     "titleId": "1726562887",
     "isTitleBased": true
   },
@@ -17090,7 +17090,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Lightyear Frontier (Game Preview)",
+    "title": "Lightyear Frontier",
     "titleId": "1771989345",
     "isTitleBased": true
   },
@@ -19367,7 +19367,7 @@
   {
     "title": "Labyrinthine - Console Edition",
     "titleId": "1799885509",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Witcher 3: Wild Hunt",
@@ -36985,7 +36985,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Roblox",
+    "title": "Roblox - Not Supported",
     "titleId": "2021110805",
     "isTitleBased": false
   },

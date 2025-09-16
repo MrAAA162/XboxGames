@@ -4775,6 +4775,11 @@
     "isTitleBased": true
   },
   {
+    "title": "It Takes Two",
+    "titleId": "1619800623",
+    "isTitleBased": false
+  },
+  {
     "title": "Kraken Odyssey",
     "titleId": "1619851133",
     "isTitleBased": true
@@ -5308,6 +5313,11 @@
     "title": "Garfield Kart 2 - All You Can Drift",
     "titleId": "1627060313",
     "isTitleBased": true
+  },
+  {
+    "title": "ASTROKINGS: Galactic Survival",
+    "titleId": "1627070400",
+    "isTitleBased": false
   },
   {
     "title": "A Tale For Anna",
@@ -6263,6 +6273,11 @@
     "title": "Golem Gates",
     "titleId": "1638283108",
     "isTitleBased": true
+  },
+  {
+    "title": "Haunted House Renovator",
+    "titleId": "1638356846",
+    "isTitleBased": false
   },
   {
     "title": "Circus Interstellar",
@@ -9275,6 +9290,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Baseless",
+    "titleId": "1675605528",
+    "isTitleBased": true
+  },
+  {
     "title": "ACA NEOGEO SAMURAI SHODOWN III",
     "titleId": "1675736902",
     "isTitleBased": true
@@ -9637,6 +9657,11 @@
   {
     "title": "Backrooms Level X",
     "titleId": "1680129182",
+    "isTitleBased": false
+  },
+  {
+    "title": "FATAL FRAME II: Crimson Butterfly REMAKE",
+    "titleId": "1680223788",
     "isTitleBased": false
   },
   {
@@ -11460,6 +11485,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Rogue Prince of Persia™",
+    "titleId": "1701954469",
+    "isTitleBased": false
+  },
+  {
     "title": "Tourist Bus Simulator",
     "titleId": "1702020699",
     "isTitleBased": true
@@ -12122,6 +12152,11 @@
   {
     "title": "Super Mega Baseball™ 4",
     "titleId": "1709883356",
+    "isTitleBased": false
+  },
+  {
+    "title": "Our Adventurer Guild",
+    "titleId": "1709997248",
     "isTitleBased": false
   },
   {
@@ -12928,6 +12963,11 @@
     "title": "TERMINATOR: RESISTANCE - COMPLETE EDITION",
     "titleId": "1719207328",
     "isTitleBased": true
+  },
+  {
+    "title": "Far Cry® 5",
+    "titleId": "1719209705",
+    "isTitleBased": false
   },
   {
     "title": "ACA NEOGEO THE KING OF FIGHTERS 2003 for Windows",
@@ -14815,6 +14855,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Wizordum",
+    "titleId": "1743460039",
+    "isTitleBased": true
+  },
+  {
     "title": "ACA NEOGEO MAGICAL DROP III",
     "titleId": "174349332",
     "isTitleBased": false
@@ -15233,6 +15278,11 @@
     "title": "The Jackbox Party Pack 6",
     "titleId": "1748769487",
     "isTitleBased": true
+  },
+  {
+    "title": "Super Mega Baseball 3",
+    "titleId": "1748860795",
+    "isTitleBased": false
   },
   {
     "title": "DYNABLASTER",
@@ -16575,6 +16625,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Book of Demons",
+    "titleId": "1765276407",
+    "isTitleBased": false
+  },
+  {
     "title": "3D Billiards - Pool & Snooker - Remastered",
     "titleId": "1765279855",
     "isTitleBased": true
@@ -16663,6 +16718,11 @@
     "title": "Helix Jump",
     "titleId": "1766317194",
     "isTitleBased": true
+  },
+  {
+    "title": "Battle Bandits",
+    "titleId": "1766372818",
+    "isTitleBased": false
   },
   {
     "title": "Antigraviator",
@@ -17090,7 +17150,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Lightyear Frontier",
+    "title": "Lightyear Frontier (Game Preview)",
     "titleId": "1771989345",
     "isTitleBased": true
   },
@@ -17372,6 +17432,11 @@
   {
     "title": "Depersonalization",
     "titleId": "1775319200",
+    "isTitleBased": true
+  },
+  {
+    "title": "Potions: A Curious Tale",
+    "titleId": "1775343814",
     "isTitleBased": true
   },
   {
@@ -17713,6 +17778,11 @@
     "title": "Sclash",
     "titleId": "1779343248",
     "isTitleBased": true
+  },
+  {
+    "title": "Plants vs. Zombies Garden Warfare",
+    "titleId": "1779353833",
+    "isTitleBased": false
   },
   {
     "title": "Infernax",
@@ -18103,6 +18173,11 @@
     "title": "Aerial_Knight's Never Yield",
     "titleId": "1784931030",
     "isTitleBased": true
+  },
+  {
+    "title": "Fallout Tactics",
+    "titleId": "1784955885",
+    "isTitleBased": false
   },
   {
     "title": "Assault Suit Leynos 2 Saturn Tribute",
@@ -19430,6 +19505,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Bounty Star",
+    "titleId": "1801055182",
+    "isTitleBased": true
+  },
+  {
     "title": "Chefy-Chef",
     "titleId": "1801161885",
     "isTitleBased": true
@@ -20467,6 +20547,11 @@
   {
     "title": "FIFA 14",
     "titleId": "1813362885",
+    "isTitleBased": false
+  },
+  {
+    "title": "RiME: Windows Edition",
+    "titleId": "1813373184",
     "isTitleBased": false
   },
   {
@@ -22855,6 +22940,11 @@
     "isTitleBased": true
   },
   {
+    "title": "I Hate This Place",
+    "titleId": "1844605798",
+    "isTitleBased": false
+  },
+  {
     "title": "Noel the Mortal Fate",
     "titleId": "1844719361",
     "isTitleBased": true
@@ -23918,6 +24008,11 @@
     "title": "Kiting Cat",
     "titleId": "1858227815",
     "isTitleBased": true
+  },
+  {
+    "title": "Crisol: Theater of Idols",
+    "titleId": "1858458524",
+    "isTitleBased": false
   },
   {
     "title": "Pinball FX2 VR",
@@ -27000,6 +27095,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Hanoi Puzzles: Flip Match",
+    "titleId": "1896403037",
+    "isTitleBased": true
+  },
+  {
     "title": "Undernauts: Labyrinth of Yomi",
     "titleId": "1896443736",
     "isTitleBased": true
@@ -27923,6 +28023,11 @@
     "title": "Robolifter (For Windows 10)",
     "titleId": "1908614627",
     "isTitleBased": true
+  },
+  {
+    "title": "Tracks - The Train Set Game",
+    "titleId": "1908682878",
+    "isTitleBased": false
   },
   {
     "title": "NASCAR Heat 5",
@@ -33590,6 +33695,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Pathologic 3",
+    "titleId": "1979806051",
+    "isTitleBased": false
+  },
+  {
     "title": "Black Pieces Move First",
     "titleId": "1979895532",
     "isTitleBased": true
@@ -34173,6 +34283,11 @@
     "title": "Them's Fightin' Herds",
     "titleId": "1986869957",
     "isTitleBased": true
+  },
+  {
+    "title": "Dahlia View",
+    "titleId": "1986873837",
+    "isTitleBased": false
   },
   {
     "title": "Dark Steel Legends",
@@ -35140,6 +35255,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Truck Driver: The Dutch Connection",
+    "titleId": "1998195902",
+    "isTitleBased": true
+  },
+  {
     "title": "Sydney Hunter And The Curse Of The Mayan",
     "titleId": "1998256023",
     "isTitleBased": true
@@ -35458,6 +35578,11 @@
     "title": "Calturin",
     "titleId": "2002430446",
     "isTitleBased": true
+  },
+  {
+    "title": "Battle Chasers: Nightwar",
+    "titleId": "2002496407",
+    "isTitleBased": false
   },
   {
     "title": "Puzzle Quest 3",
@@ -36388,6 +36513,11 @@
     "title": "Machinetrix (Windows)",
     "titleId": "2014317048",
     "isTitleBased": true
+  },
+  {
+    "title": "Puzzledorf",
+    "titleId": "2014367423",
+    "isTitleBased": false
   },
   {
     "title": "One Gun Guy",
@@ -37570,6 +37700,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Junkyard Simulator",
+    "titleId": "2028720746",
+    "isTitleBased": true
+  },
+  {
     "title": "Bee Flowers: Royal Garden (Windows)",
     "titleId": "2028720830",
     "isTitleBased": true
@@ -37700,7 +37835,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Overthrown (Game Preview)",
+    "title": "Overthrown",
     "titleId": "2029650168",
     "isTitleBased": false
   },
@@ -38473,6 +38608,11 @@
     "title": "AeternoBlade II: Infinity",
     "titleId": "2038068683",
     "isTitleBased": true
+  },
+  {
+    "title": "Battlefield™ V Year 2 Edition",
+    "titleId": "2038106427",
+    "isTitleBased": false
   },
   {
     "title": "Paper Cut Mansion",
@@ -40300,6 +40440,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Immortals Fenyx Rising™",
+    "titleId": "2061107446",
+    "isTitleBased": false
+  },
+  {
     "title": "Marshmallow Marvin",
     "titleId": "2061258786",
     "isTitleBased": true
@@ -40620,6 +40765,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Aikyam",
+    "titleId": "2065706700",
+    "isTitleBased": false
+  },
+  {
     "title": "Horror Tale 2: Samantha",
     "titleId": "2065808119",
     "isTitleBased": true
@@ -40822,6 +40972,11 @@
   {
     "title": "Rust Console Edition - Public Test Branch",
     "titleId": "2068415611",
+    "isTitleBased": false
+  },
+  {
+    "title": "Crossing Souls",
+    "titleId": "2068547726",
     "isTitleBased": false
   },
   {
@@ -41560,6 +41715,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Where The Water Tastes Like Wine",
+    "titleId": "2077850149",
+    "isTitleBased": false
+  },
+  {
     "title": "Clone Drone in the Danger Zone",
     "titleId": "2077953041",
     "isTitleBased": true
@@ -42130,6 +42290,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Age of Empires Mobile: PC Edition",
+    "titleId": "2084317224",
+    "isTitleBased": false
+  },
+  {
     "title": "ValiDate: Struggling Singles in your Area",
     "titleId": "2084379503",
     "isTitleBased": true
@@ -42675,6 +42840,11 @@
     "isTitleBased": false
   },
   {
+    "title": "The Elder Scrolls III: Morrowind Game of the Year Edition (PC)",
+    "titleId": "2092675376",
+    "isTitleBased": false
+  },
+  {
     "title": "The Wild at Heart",
     "titleId": "2092946250",
     "isTitleBased": true
@@ -42845,6 +43015,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Far Cry® 6",
+    "titleId": "2095156950",
+    "isTitleBased": false
+  },
+  {
     "title": "Little League World Series Baseball 2022",
     "titleId": "2095219699",
     "isTitleBased": true
@@ -42913,6 +43088,11 @@
     "title": "Embr",
     "titleId": "2096319922",
     "isTitleBased": true
+  },
+  {
+    "title": "Apocalipsis",
+    "titleId": "2096381819",
+    "isTitleBased": false
   },
   {
     "title": "Overpowered 1 - Mars Infestation",
@@ -43510,9 +43690,9 @@
     "isTitleBased": false
   },
   {
-    "title": "THE STARBITES",
+    "title": "STARBITES",
     "titleId": "2102702550",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Peachy Boy",
@@ -43958,6 +44138,11 @@
     "title": "TIEBREAK: Official game of the ATP and WTA",
     "titleId": "2108611710",
     "isTitleBased": true
+  },
+  {
+    "title": "F1® 24",
+    "titleId": "2108667484",
+    "isTitleBased": false
   },
   {
     "title": "Ratyrinth",
@@ -44972,6 +45157,11 @@
   {
     "title": "Furi",
     "titleId": "212246852",
+    "isTitleBased": false
+  },
+  {
+    "title": "Halo: Spartan Strike",
+    "titleId": "2122543949",
     "isTitleBased": false
   },
   {
@@ -48515,7 +48705,7 @@
     "isTitleBased": true
   },
   {
-    "title": "ROBLOX",
+    "title": "Roblox - Xbox",
     "titleId": "342226876",
     "isTitleBased": false
   },

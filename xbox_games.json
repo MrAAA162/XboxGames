@@ -4627,7 +4627,7 @@
   {
     "title": "Ultimate Zombie Defense",
     "titleId": "1617989368",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Ballotron Coolbox",
@@ -7215,7 +7215,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Bulwark Evolution: Falconeer Chronicles",
+    "title": "Bulwark: Falconeer Chronicles",
     "titleId": "1648491052",
     "isTitleBased": true
   },
@@ -9777,7 +9777,7 @@
   {
     "title": "Dying Light: The Beast",
     "titleId": "1680544459",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "GUNBIRD",
@@ -24607,7 +24607,7 @@
   {
     "title": "Tormented Souls 2",
     "titleId": "1863466810",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Blacksmith Master (Game Preview)",
@@ -38477,7 +38477,7 @@
   {
     "title": "Creepy Redneck Dinosaur Mansion 3",
     "titleId": "2031534546",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Wilmot's Warehouse",

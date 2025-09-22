@@ -7215,7 +7215,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Bulwark: Falconeer Chronicles",
+    "title": "Bulwark Evolution: Falconeer Chronicles",
     "titleId": "1648491052",
     "isTitleBased": true
   },
@@ -9163,6 +9163,11 @@
     "title": "KARMA: The Dark World",
     "titleId": "1673712997",
     "isTitleBased": true
+  },
+  {
+    "title": "Close to the Sun.",
+    "titleId": "1673738872",
+    "isTitleBased": false
   },
   {
     "title": "Rain on Your Parade",
@@ -12322,6 +12327,11 @@
   {
     "title": "Aery - Path of Corruption",
     "titleId": "1710556492",
+    "isTitleBased": true
+  },
+  {
+    "title": "Judero",
+    "titleId": "1710618719",
     "isTitleBased": true
   },
   {
@@ -20695,6 +20705,11 @@
     "isTitleBased": true
   },
   {
+    "title": "PyroMind",
+    "titleId": "1812933709",
+    "isTitleBased": true
+  },
+  {
     "title": "Aztech Forgotten Gods",
     "titleId": "1812964567",
     "isTitleBased": false
@@ -22438,6 +22453,11 @@
     "title": "Akinakes (Xbox Series)",
     "titleId": "1835342321",
     "isTitleBased": true
+  },
+  {
+    "title": "The Elder Scrolls Adventures: Redguard",
+    "titleId": "1835373504",
+    "isTitleBased": false
   },
   {
     "title": "50 Cent: BotS (JP)",
@@ -31035,6 +31055,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Halo: Spartan Assault",
+    "titleId": "1941986744",
+    "isTitleBased": false
+  },
+  {
     "title": "WARSAW Console Edition",
     "titleId": "1942139816",
     "isTitleBased": true
@@ -39155,6 +39180,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Kentum",
+    "titleId": "2039051531",
+    "isTitleBased": false
+  },
+  {
     "title": "Pets at Work",
     "titleId": "2039061713",
     "isTitleBased": true
@@ -44857,7 +44887,7 @@
   {
     "title": "Sonic Racing: CrossWorlds",
     "titleId": "2111887267",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Raccoon is Hungry (Xbox One)",

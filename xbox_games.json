@@ -1800,7 +1800,7 @@
     "isTitleBased": false
   },
   {
-    "title": "FOR HONOR - Standard Edition",
+    "title": "FOR HONOR",
     "titleId": "1198088771",
     "isTitleBased": false
   },
@@ -6775,6 +6775,11 @@
     "isTitleBased": false
   },
   {
+    "title": "ENDLESS™ Legend 2 (Game Preview)",
+    "titleId": "1644006979",
+    "isTitleBased": false
+  },
+  {
     "title": "Pillars of Eternity 2: Deadfire - Ultimate Edition (PC)",
     "titleId": "1644028139",
     "isTitleBased": true
@@ -7362,6 +7367,11 @@
   {
     "title": "Wind Peaks",
     "titleId": "1650081686",
+    "isTitleBased": true
+  },
+  {
+    "title": "XIII A final Game of Tarot",
+    "titleId": "1650124673",
     "isTitleBased": true
   },
   {
@@ -10035,6 +10045,11 @@
     "isTitleBased": false
   },
   {
+    "title": "SWORN",
+    "titleId": "1684061010",
+    "isTitleBased": true
+  },
+  {
     "title": "Deadlink",
     "titleId": "1684075016",
     "isTitleBased": true
@@ -10640,6 +10655,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Kingdom Shell - White Temple Edition",
+    "titleId": "1691293873",
+    "isTitleBased": true
+  },
+  {
     "title": "Tour de France 2023",
     "titleId": "1691312526",
     "isTitleBased": true
@@ -11055,6 +11075,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Populous™",
+    "titleId": "1695425384",
+    "isTitleBased": false
+  },
+  {
     "title": "Headbangers: Rhythm Royale",
     "titleId": "1695499346",
     "isTitleBased": true
@@ -11430,6 +11455,11 @@
     "isTitleBased": true
   },
   {
+    "title": "MONSTER HUNTER STORIES 3: TWISTED REFLECTION",
+    "titleId": "1699829016",
+    "isTitleBased": false
+  },
+  {
     "title": "ACA NEOGEO ALPHA MISSION II for Windows",
     "titleId": "1699837949",
     "isTitleBased": true
@@ -11652,6 +11682,11 @@
   {
     "title": "Power Rangers: Battle for the Grid",
     "titleId": "1702524932",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hyper Team Recon",
+    "titleId": "1702560281",
     "isTitleBased": true
   },
   {
@@ -13585,6 +13620,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Demi and the Fractured Dream",
+    "titleId": "1725256597",
+    "isTitleBased": false
+  },
+  {
     "title": "Ikai",
     "titleId": "1725327690",
     "isTitleBased": true
@@ -14393,6 +14433,11 @@
     "title": "Honeycomb: The World Beyond",
     "titleId": "1735401164",
     "isTitleBased": false
+  },
+  {
+    "title": "Fit and Fry: Mise en Place (Xbox One)",
+    "titleId": "1735491386",
+    "isTitleBased": true
   },
   {
     "title": "Escape Dash Journey Windows",
@@ -15740,6 +15785,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Towa and the Guardians of the Sacred Tree",
+    "titleId": "1752529058",
+    "isTitleBased": true
+  },
+  {
     "title": "Primal Light",
     "titleId": "1752538538",
     "isTitleBased": true
@@ -16297,6 +16347,11 @@
   {
     "title": "Cafe Master Story",
     "titleId": "1759090078",
+    "isTitleBased": true
+  },
+  {
+    "title": "PAC-MAN WORLD 2 Re-PAC",
+    "titleId": "1759144821",
     "isTitleBased": true
   },
   {
@@ -17270,7 +17325,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Truck Driver Gold Edition",
+    "title": "Truck Driver - Gold Edition",
     "titleId": "1771327779",
     "isTitleBased": true
   },
@@ -19038,6 +19093,11 @@
     "title": "Moonlighter 2: The Endless Vault (Game Preview)",
     "titleId": "1792557898",
     "isTitleBased": false
+  },
+  {
+    "title": "Twilight Parade: Moonlit Mononoke",
+    "titleId": "1792591612",
+    "isTitleBased": true
   },
   {
     "title": "Lost Records: Bloom & Rage",
@@ -22070,6 +22130,11 @@
     "isTitleBased": true
   },
   {
+    "title": "SILENT HILL f",
+    "titleId": "1830825388",
+    "isTitleBased": true
+  },
+  {
     "title": "NIER",
     "titleId": "1830888469",
     "isTitleBased": false
@@ -22272,6 +22337,11 @@
   {
     "title": "MXGP 2019 - The Official Motocross Videogame",
     "titleId": "1833175061",
+    "isTitleBased": true
+  },
+  {
+    "title": "Ball Blast",
+    "titleId": "1833187714",
     "isTitleBased": true
   },
   {
@@ -23800,6 +23870,11 @@
     "isTitleBased": true
   },
   {
+    "title": "EA SPORTS FC™ 26 Xbox One",
+    "titleId": "1852068331",
+    "isTitleBased": false
+  },
+  {
     "title": "Cake Invaders",
     "titleId": "1852075771",
     "isTitleBased": true
@@ -23930,6 +24005,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arctic Awakening",
+    "titleId": "1853994299",
+    "isTitleBased": true
+  },
+  {
     "title": "Morkull Ragast's Rage",
     "titleId": "1854072494",
     "isTitleBased": true
@@ -24057,6 +24137,11 @@
   {
     "title": "Chop is Dish",
     "titleId": "1855613713",
+    "isTitleBased": true
+  },
+  {
+    "title": "DreamWorks Gabby’s Dollhouse: Ready to Party",
+    "titleId": "1855780914",
     "isTitleBased": true
   },
   {
@@ -24277,6 +24362,11 @@
   {
     "title": "Pinball FX2 VR",
     "titleId": "1858554654",
+    "isTitleBased": true
+  },
+  {
+    "title": "Emerald Huntress",
+    "titleId": "1858655629",
     "isTitleBased": true
   },
   {
@@ -26392,7 +26482,7 @@
   {
     "title": "Slime Rancher 2",
     "titleId": "1884079219",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Moonscars",
@@ -28010,6 +28100,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Minecraft Preview for Windows",
+    "titleId": "1904044383",
+    "isTitleBased": false
+  },
+  {
     "title": "Gambit Shifter",
     "titleId": "1904085227",
     "isTitleBased": true
@@ -28400,6 +28495,11 @@
     "isTitleBased": true
   },
   {
+    "title": "EA SPORTS FC™ 26 Xbox Series X|S",
+    "titleId": "1909324253",
+    "isTitleBased": false
+  },
+  {
     "title": "Robolifter",
     "titleId": "1909335763",
     "isTitleBased": true
@@ -28657,6 +28757,11 @@
   {
     "title": "RAIDOU Remastered: The Mystery of the Soulless Army",
     "titleId": "1912444422",
+    "isTitleBased": true
+  },
+  {
+    "title": "Interwoven Emotions",
+    "titleId": "1912451409",
     "isTitleBased": true
   },
   {
@@ -29580,6 +29685,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Fit and Fry: Mise en Place (Windows)",
+    "titleId": "1923724466",
+    "isTitleBased": true
+  },
+  {
     "title": "Arkan: The dog adventurer (Xbox Series X|S)",
     "titleId": "1923733347",
     "isTitleBased": true
@@ -29743,6 +29853,11 @@
     "title": "Darkestville Castle",
     "titleId": "1926303930",
     "isTitleBased": true
+  },
+  {
+    "title": "Yakuza Kiwami 3 & Dark Ties",
+    "titleId": "1926334123",
+    "isTitleBased": false
   },
   {
     "title": "PBA Pro Bowling",
@@ -29940,6 +30055,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Borderlands 4",
+    "titleId": "1928228122",
+    "isTitleBased": true
+  },
+  {
     "title": "Starsand",
     "titleId": "1928236996",
     "isTitleBased": true
@@ -30132,6 +30252,11 @@
   {
     "title": "Elasto Mania II",
     "titleId": "1930829133",
+    "isTitleBased": true
+  },
+  {
+    "title": "Piggly Pagly Boom",
+    "titleId": "1930843373",
     "isTitleBased": true
   },
   {
@@ -32645,6 +32770,11 @@
     "isTitleBased": true
   },
   {
+    "title": "XIII A Final Game of Tarot (Xbox One)",
+    "titleId": "1961974447",
+    "isTitleBased": true
+  },
+  {
     "title": "Cel Damage HD",
     "titleId": "1962218680",
     "isTitleBased": false
@@ -33445,6 +33575,11 @@
     "isTitleBased": true
   },
   {
+    "title": "XIII A Final Game of Tarot (windows)",
+    "titleId": "1971605002",
+    "isTitleBased": true
+  },
+  {
     "title": "Cris Tales",
     "titleId": "1971702433",
     "isTitleBased": true
@@ -33617,6 +33752,11 @@
   {
     "title": "Mad Streets",
     "titleId": "1973635123",
+    "isTitleBased": true
+  },
+  {
+    "title": "Bomb Kitten",
+    "titleId": "1973678603",
     "isTitleBased": true
   },
   {
@@ -33848,6 +33988,11 @@
     "title": "Path of Titans (Game Preview)",
     "titleId": "1976117247",
     "isTitleBased": false
+  },
+  {
+    "title": "Finding Paradise",
+    "titleId": "1976166421",
+    "isTitleBased": true
   },
   {
     "title": "Giant Machines 2017",
@@ -37230,6 +37375,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Emerald Huntress (Xbox One)",
+    "titleId": "2017711218",
+    "isTitleBased": true
+  },
+  {
     "title": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
     "titleId": "2017826215",
     "isTitleBased": true
@@ -37942,6 +38092,11 @@
   {
     "title": "For The King",
     "titleId": "2025884385",
+    "isTitleBased": true
+  },
+  {
+    "title": "Rudolph The Red Nosed Reindeer",
+    "titleId": "2025885075",
     "isTitleBased": true
   },
   {
@@ -38775,6 +38930,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Fit and Fry: Mise en Place (Xbox Series)",
+    "titleId": "2035237228",
+    "isTitleBased": true
+  },
+  {
     "title": "Turnip Boy Commits Tax Evasion",
     "titleId": "2035251227",
     "isTitleBased": true
@@ -39290,6 +39450,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Terminull Brigade™",
+    "titleId": "2040514027",
+    "isTitleBased": true
+  },
+  {
     "title": "Shadow Samurai Revenge",
     "titleId": "2040520199",
     "isTitleBased": true
@@ -39720,6 +39885,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Edgar Poe: Hidden Objects Game",
+    "titleId": "2044409240",
+    "isTitleBased": true
+  },
+  {
     "title": "Minecraft for PlayStation®",
     "titleId": "2044456598",
     "isTitleBased": false
@@ -40062,6 +40232,11 @@
   {
     "title": "Is this Game Trying to Kill Me? (Windows)",
     "titleId": "2049253800",
+    "isTitleBased": true
+  },
+  {
+    "title": "Puzzle Quest: Immortal Edition",
+    "titleId": "2049279350",
     "isTitleBased": true
   },
   {
@@ -41553,6 +41728,11 @@
     "title": "Repit",
     "titleId": "2069792634",
     "isTitleBased": true
+  },
+  {
+    "title": "Yakuza 0 Director's Cut",
+    "titleId": "2069910424",
+    "isTitleBased": false
   },
   {
     "title": "While the Iron's Hot",
@@ -44940,6 +45120,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Nicktoons & The Dice of Destiny",
+    "titleId": "2112950649",
+    "isTitleBased": true
+  },
+  {
     "title": "Witch of the Meta Loop",
     "titleId": "2112958520",
     "isTitleBased": true
@@ -45708,6 +45893,11 @@
     "title": "Winter Burrow",
     "titleId": "2122392131",
     "isTitleBased": false
+  },
+  {
+    "title": "Bratz® Rhythm & Style",
+    "titleId": "2122418461",
+    "isTitleBased": true
   },
   {
     "title": "Furi",

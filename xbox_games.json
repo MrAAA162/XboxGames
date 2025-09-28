@@ -4430,6 +4430,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Emerald Huntress (Windows)",
+    "titleId": "1615466439",
+    "isTitleBased": true
+  },
+  {
     "title": "Hundred Bullets",
     "titleId": "1615555736",
     "isTitleBased": true
@@ -4563,6 +4568,11 @@
     "title": "DARKGEMS (Windows)",
     "titleId": "1617210035",
     "isTitleBased": true
+  },
+  {
+    "title": "The Mystery of Eldham",
+    "titleId": "1617237231",
+    "isTitleBased": false
   },
   {
     "title": "REANIMAL",
@@ -5255,6 +5265,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Liminal Department",
+    "titleId": "1625997162",
+    "isTitleBased": false
+  },
+  {
     "title": "Mel The Cat (Windows)",
     "titleId": "1626004065",
     "isTitleBased": true
@@ -5292,6 +5307,11 @@
   {
     "title": "Switch 'N' Shoot",
     "titleId": "1626294633",
+    "isTitleBased": true
+  },
+  {
+    "title": "Liquid Cat",
+    "titleId": "1626359755",
     "isTitleBased": true
   },
   {
@@ -5678,6 +5698,11 @@
     "title": "Ampersat",
     "titleId": "1630490243",
     "isTitleBased": true
+  },
+  {
+    "title": "Samurai Academy: Paws of Fury",
+    "titleId": "1630581172",
+    "isTitleBased": false
   },
   {
     "title": "Zombieland: Double Tap- Road Trip",
@@ -7630,6 +7655,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Guidus Zero",
+    "titleId": "1653389515",
+    "isTitleBased": true
+  },
+  {
     "title": "Party Jousting",
     "titleId": "1653423732",
     "isTitleBased": true
@@ -7873,6 +7903,11 @@
     "title": "Prominence Poker",
     "titleId": "165599118",
     "isTitleBased": false
+  },
+  {
+    "title": "Just a Little Purr Suit (Xbox One)",
+    "titleId": "1656041877",
+    "isTitleBased": true
   },
   {
     "title": "Outbreak: The New Nightmare Definitive Edition",
@@ -9330,6 +9365,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Liquid Cat (Windows)",
+    "titleId": "1675240956",
+    "isTitleBased": true
+  },
+  {
     "title": "Arcade Archives 2 SCRAMBLED EGG",
     "titleId": "1675275666",
     "isTitleBased": true
@@ -9363,6 +9403,11 @@
     "title": "Shalnor: Silverwind Saga",
     "titleId": "1675462485",
     "isTitleBased": true
+  },
+  {
+    "title": "GUNGRAVE G.O.R.E: BLOOD HEAT",
+    "titleId": "1675462788",
+    "isTitleBased": false
   },
   {
     "title": "Solos",
@@ -10235,6 +10280,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Monster Hunter Stories 2: Wings of Ruin",
+    "titleId": "1685499852",
+    "isTitleBased": false
+  },
+  {
     "title": "Shalnor Legends: Sacred Lands",
     "titleId": "1685514435",
     "isTitleBased": true
@@ -10552,6 +10602,11 @@
   {
     "title": "Pirate Trails (Xbox One)",
     "titleId": "1690147077",
+    "isTitleBased": true
+  },
+  {
+    "title": "Frozen Rune",
+    "titleId": "1690172627",
     "isTitleBased": true
   },
   {
@@ -11875,6 +11930,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Romancing SaGa 2: Revenge of the Seven",
+    "titleId": "1704946873",
+    "isTitleBased": true
+  },
+  {
     "title": "Paper Flight - Speed Rush",
     "titleId": "1704985822",
     "isTitleBased": true
@@ -12800,6 +12860,11 @@
     "isTitleBased": true
   },
   {
+    "title": "People of Note",
+    "titleId": "1715204609",
+    "isTitleBased": false
+  },
+  {
     "title": "Emergency Crew",
     "titleId": "1715282092",
     "isTitleBased": true
@@ -13475,6 +13540,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Just a Little Purr Suit (Windows)",
+    "titleId": "1723497344",
+    "isTitleBased": true
+  },
+  {
     "title": "DETECTIVE - The Motel",
     "titleId": "1723600568",
     "isTitleBased": true
@@ -13537,6 +13607,11 @@
   {
     "title": "METAGAL",
     "titleId": "1724248771",
+    "isTitleBased": true
+  },
+  {
+    "title": "Frozen Rune (Xbox Series)",
+    "titleId": "1724329827",
     "isTitleBased": true
   },
   {
@@ -21015,6 +21090,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Crystal Veins",
+    "titleId": "1816542854",
+    "isTitleBased": true
+  },
+  {
     "title": "Niche - a genetics survival game",
     "titleId": "1816592098",
     "isTitleBased": true
@@ -21823,6 +21903,11 @@
     "title": "Brunch Club",
     "titleId": "1827174995",
     "isTitleBased": true
+  },
+  {
+    "title": "CLAWPUNK",
+    "titleId": "1827212919",
+    "isTitleBased": false
   },
   {
     "title": "Birth",
@@ -24285,6 +24370,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Frozen Rune (Windows)",
+    "titleId": "1857674362",
+    "isTitleBased": true
+  },
+  {
     "title": "Call of Toys: Tower Defense!",
     "titleId": "1857703882",
     "isTitleBased": true
@@ -25065,6 +25155,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Tiny Archer (Xbox One)",
+    "titleId": "1866961798",
+    "isTitleBased": true
+  },
+  {
     "title": "Space Warlord Organ Trading Simulator",
     "titleId": "1867036629",
     "isTitleBased": true
@@ -25158,6 +25253,11 @@
     "title": "Aidan in Danger",
     "titleId": "1868532254",
     "isTitleBased": true
+  },
+  {
+    "title": "Relic Abyss",
+    "titleId": "1868571541",
+    "isTitleBased": false
   },
   {
     "title": "VED",
@@ -27125,6 +27225,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Runasaurus Rex: Origins (Windows)",
+    "titleId": "1891981031",
+    "isTitleBased": true
+  },
+  {
     "title": "Bloodwash",
     "titleId": "1892026097",
     "isTitleBased": true
@@ -27625,6 +27730,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Possessions - Perspective Puzzles",
+    "titleId": "1898013542",
+    "isTitleBased": false
+  },
+  {
     "title": "Gargoyles Remastered",
     "titleId": "1898042382",
     "isTitleBased": false
@@ -27738,6 +27848,11 @@
     "title": "Pocket Academy",
     "titleId": "1899618502",
     "isTitleBased": true
+  },
+  {
+    "title": "Super Fantasy Kingdom (Game Preview)",
+    "titleId": "1899691698",
+    "isTitleBased": false
   },
   {
     "title": "Genopanic",
@@ -29045,6 +29160,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Deus Ex Remastered",
+    "titleId": "1915790034",
+    "isTitleBased": false
+  },
+  {
     "title": "Golden Farm",
     "titleId": "1915815287",
     "isTitleBased": false
@@ -29635,6 +29755,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Morsels",
+    "titleId": "1923105414",
+    "isTitleBased": false
+  },
+  {
     "title": "Dead Rising 3",
     "titleId": "1923160643",
     "isTitleBased": false
@@ -29737,6 +29862,11 @@
   {
     "title": "Paw Paw Paw",
     "titleId": "1924295407",
+    "isTitleBased": true
+  },
+  {
+    "title": "Runasaurus Rex: Origins (Xbox One)",
+    "titleId": "1924486172",
     "isTitleBased": true
   },
   {
@@ -30838,6 +30968,11 @@
     "title": "Offroad Truck Simulator: Heavy Duty Challenge®",
     "titleId": "1938192462",
     "isTitleBased": false
+  },
+  {
+    "title": "Airborne Justice",
+    "titleId": "1938246744",
+    "isTitleBased": true
   },
   {
     "title": "Ctrl Alt Ego",
@@ -32147,6 +32282,11 @@
   {
     "title": "Bitmaster",
     "titleId": "1954375706",
+    "isTitleBased": true
+  },
+  {
+    "title": "Forklift Certified : Stacked and Loaded",
+    "titleId": "1954381453",
     "isTitleBased": true
   },
   {
@@ -33760,6 +33900,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Puff Up",
+    "titleId": "1973717551",
+    "isTitleBased": true
+  },
+  {
     "title": "Helheim Hassle",
     "titleId": "1973728003",
     "isTitleBased": true
@@ -33812,6 +33957,11 @@
   {
     "title": "Prehistoric Dude",
     "titleId": "1974279589",
+    "isTitleBased": true
+  },
+  {
+    "title": "Crystal Veins (XBOX SERIES)",
+    "titleId": "1974281696",
     "isTitleBased": true
   },
   {
@@ -34367,6 +34517,11 @@
   {
     "title": "Instant War: Ultimate Warfare",
     "titleId": "1981290513",
+    "isTitleBased": true
+  },
+  {
+    "title": "Just a Little Purr Suit (Xbox Series)",
+    "titleId": "1981325639",
     "isTitleBased": true
   },
   {
@@ -35830,6 +35985,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Project EVILBANE",
+    "titleId": "1998009533",
+    "isTitleBased": false
+  },
+  {
     "title": "R.B.I. Baseball 19",
     "titleId": "1998043773",
     "isTitleBased": true
@@ -36102,6 +36262,11 @@
   {
     "title": "Sticky Twig DASH!",
     "titleId": "2001173735",
+    "isTitleBased": true
+  },
+  {
+    "title": "Crystal Veins (Windows)",
+    "titleId": "2001337102",
     "isTitleBased": true
   },
   {
@@ -39075,6 +39240,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Master Lemon: The Quest for Iceland",
+    "titleId": "2036365170",
+    "isTitleBased": true
+  },
+  {
     "title": "Fission Superstar X",
     "titleId": "2036378877",
     "isTitleBased": true
@@ -39668,6 +39838,11 @@
     "title": "Wenjia",
     "titleId": "2042912163",
     "isTitleBased": true
+  },
+  {
+    "title": "CODE VEIN II - Digital Mini Artbook & Soundtrack",
+    "titleId": "2042930008",
+    "isTitleBased": false
   },
   {
     "title": "Atomicrops",
@@ -42355,6 +42530,11 @@
     "isTitleBased": false
   },
   {
+    "title": "An Elder Scrolls Legend: Battlespire",
+    "titleId": "2077155475",
+    "isTitleBased": false
+  },
+  {
     "title": "Perfect Ninja Painter (Windows)",
     "titleId": "2077266941",
     "isTitleBased": true
@@ -42628,6 +42808,11 @@
     "title": "Tin Hearts",
     "titleId": "2079669030",
     "isTitleBased": true
+  },
+  {
+    "title": "Forza Horizon 6",
+    "titleId": "2079757188",
+    "isTitleBased": false
   },
   {
     "title": "Streets of Rogue",
@@ -44350,6 +44535,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Whiskerwood (Game Preview)",
+    "titleId": "2102173616",
+    "isTitleBased": false
+  },
+  {
     "title": "Heretic + Hexen",
     "titleId": "2102232082",
     "isTitleBased": true
@@ -44987,6 +45177,11 @@
   {
     "title": "Compass of Destiny: Istanbul",
     "titleId": "2110345579",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tiny Archer",
+    "titleId": "2110707172",
     "isTitleBased": true
   },
   {
@@ -45970,6 +46165,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Liquid Cat (Xbox Series)",
+    "titleId": "2123210503",
+    "isTitleBased": true
+  },
+  {
     "title": "Crysis 2 Remastered",
     "titleId": "2123216194",
     "isTitleBased": false
@@ -46622,6 +46822,11 @@
   {
     "title": "Smelter",
     "titleId": "2131152839",
+    "isTitleBased": true
+  },
+  {
+    "title": "Monster Survivors",
+    "titleId": "2131173467",
     "isTitleBased": true
   },
   {
@@ -47603,6 +47808,11 @@
     "title": "Lanternium",
     "titleId": "2143308375",
     "isTitleBased": true
+  },
+  {
+    "title": "Monster Hunter Stories",
+    "titleId": "2143308729",
+    "isTitleBased": false
   },
   {
     "title": "Bridge Constructor Studio",

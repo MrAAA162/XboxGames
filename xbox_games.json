@@ -4100,7 +4100,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Ara: History Untold",
+    "title": "Ara History Untold: Anniversary Edition",
     "titleId": "1611092700",
     "isTitleBased": true
   },
@@ -9912,7 +9912,7 @@
   {
     "title": "Syberia - Remastered",
     "titleId": "1681761783",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "OMORI",
@@ -15402,7 +15402,7 @@
   {
     "title": "Sports Renovations",
     "titleId": "1746694892",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Legends Aligned",
@@ -25687,7 +25687,7 @@
   {
     "title": "KAKU - Ancient Seal",
     "titleId": "1873447830",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "MXGP 2020 - The Official Motocross Videogame",
@@ -38645,7 +38645,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Overthrown",
+    "title": "Overthrown (Game Preview)",
     "titleId": "2029650168",
     "isTitleBased": false
   },

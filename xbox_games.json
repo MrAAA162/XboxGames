@@ -5177,7 +5177,7 @@
   {
     "title": "Contraband Police",
     "titleId": "1624755708",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Talisman: Digital Edition",
@@ -11795,7 +11795,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Project Motor Racing (Xbox)",
+    "title": "Project Motor Racing",
     "titleId": "1702869784",
     "isTitleBased": true
   },
@@ -15507,7 +15507,7 @@
   {
     "title": "The Jackbox Party Pack 11",
     "titleId": "1746975118",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "O.W.L Projekt 2",
@@ -20550,7 +20550,7 @@
     "isTitleBased": true
   },
   {
-    "title": "FOR HONOR : MARCHING FIRE EDITION",
+    "title": "FOR HONOR - Standard Edition",
     "titleId": "1808175294",
     "isTitleBased": false
   },
@@ -24240,7 +24240,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Farmatic",
+    "title": "Farmbotic",
     "titleId": "1854676620",
     "isTitleBased": false
   },
@@ -29012,7 +29012,7 @@
   {
     "title": "Laundry Store Simulator",
     "titleId": "1912466607",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Duck Run",

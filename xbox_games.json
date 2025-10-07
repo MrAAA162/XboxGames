@@ -4240,6 +4240,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sokobear Winter (Xbox One)",
+    "titleId": "1612526927",
+    "isTitleBased": true
+  },
+  {
     "title": "0 Degrees",
     "titleId": "1612654361",
     "isTitleBased": true
@@ -4347,6 +4352,11 @@
   {
     "title": "Gigantosaurus: Dino Kart",
     "titleId": "1614017709",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sokobear Winter",
+    "titleId": "1614021471",
     "isTitleBased": true
   },
   {
@@ -4850,7 +4860,7 @@
     "isTitleBased": true
   },
   {
-    "title": "City Island 6: Building Life",
+    "title": "City Island 6: Building Town",
     "titleId": "1620282693",
     "isTitleBased": false
   },
@@ -5657,6 +5667,11 @@
   {
     "title": "The Sorrowvirus - A Faceless Short Story",
     "titleId": "1629731274",
+    "isTitleBased": true
+  },
+  {
+    "title": "Candy Rangers",
+    "titleId": "1629735518",
     "isTitleBased": true
   },
   {
@@ -8085,6 +8100,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Forgotlings",
+    "titleId": "1658326809",
+    "isTitleBased": false
+  },
+  {
     "title": "Unturned",
     "titleId": "1658477123",
     "isTitleBased": true
@@ -8697,7 +8717,7 @@
   {
     "title": "Deathless. The Hero Quest",
     "titleId": "1667166711",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "JCB Pioneer: Mars",
@@ -9512,6 +9532,11 @@
   {
     "title": "Citizen Sleeper 2: Starward Vector",
     "titleId": "1676653592",
+    "isTitleBased": true
+  },
+  {
+    "title": "Gruniożerca Trilogy",
+    "titleId": "1676705424",
     "isTitleBased": true
   },
   {
@@ -11305,6 +11330,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sushi For Robots",
+    "titleId": "1697083574",
+    "isTitleBased": true
+  },
+  {
     "title": "Deliver Us Mars",
     "titleId": "1697112419",
     "isTitleBased": true
@@ -11987,7 +12017,7 @@
   {
     "title": "Halls of Torment",
     "titleId": "1705097731",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Garten of Banban 6",
@@ -12683,6 +12713,11 @@
     "title": "Garten of Banban 1",
     "titleId": "1712655251",
     "isTitleBased": false
+  },
+  {
+    "title": "Lucha Align (Xbox One)",
+    "titleId": "1712662574",
+    "isTitleBased": true
   },
   {
     "title": "Divine Dynamo Flamefrit",
@@ -14902,7 +14937,7 @@
   {
     "title": "Blood West",
     "titleId": "1739622609",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Police Chase (Xbox One Edition)",
@@ -15043,6 +15078,11 @@
     "title": "Candylands Journey",
     "titleId": "1741366534",
     "isTitleBased": true
+  },
+  {
+    "title": "Space Chef",
+    "titleId": "1741399345",
+    "isTitleBased": false
   },
   {
     "title": "Ape Out",
@@ -16022,6 +16062,11 @@
   {
     "title": "Marshmallow Marvin: Grimvault (Windows)",
     "titleId": "1753450591",
+    "isTitleBased": true
+  },
+  {
+    "title": "Stay Still",
+    "titleId": "1753470299",
     "isTitleBased": true
   },
   {
@@ -17877,6 +17922,11 @@
   {
     "title": "Horizon Chase 2",
     "titleId": "1775797026",
+    "isTitleBased": true
+  },
+  {
+    "title": "FatalZone",
+    "titleId": "1775857297",
     "isTitleBased": true
   },
   {
@@ -19900,6 +19950,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Bloodshed",
+    "titleId": "1800572506",
+    "isTitleBased": true
+  },
+  {
     "title": "Trinity Fusion",
     "titleId": "1800716708",
     "isTitleBased": true
@@ -20028,6 +20083,11 @@
     "title": "Meow and the Diamond Jump",
     "titleId": "1802402118",
     "isTitleBased": true
+  },
+  {
+    "title": "Assassin’s Creed Syndicate",
+    "titleId": "1802419824",
+    "isTitleBased": false
   },
   {
     "title": "Capcom Arcade Stadium",
@@ -21322,6 +21382,11 @@
   {
     "title": "Endless World",
     "titleId": "1818091545",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hannah VCR",
+    "titleId": "1818143732",
     "isTitleBased": true
   },
   {
@@ -26165,6 +26230,11 @@
     "isTitleBased": true
   },
   {
+    "title": "RAYMAN LEGENDS",
+    "titleId": "1877973093",
+    "isTitleBased": false
+  },
+  {
     "title": "Attack of the Toy Tanks (Xbox Series X|S)",
     "titleId": "1878010125",
     "isTitleBased": true
@@ -29333,6 +29403,11 @@
     "title": "Palindrome Syndrome: Escape Room",
     "titleId": "1916305445",
     "isTitleBased": true
+  },
+  {
+    "title": "Tom Clancy's The Division",
+    "titleId": "1916361787",
+    "isTitleBased": false
   },
   {
     "title": "SIGNALIS",
@@ -36350,6 +36425,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Assassin's Creed Revelations",
+    "titleId": "2000354853",
+    "isTitleBased": false
+  },
+  {
     "title": "Super Dodgeball Beats",
     "titleId": "2000371555",
     "isTitleBased": true
@@ -38903,6 +38983,11 @@
     "title": "Modern Tanks: Epic War Tank Games",
     "titleId": "2030239386",
     "isTitleBased": false
+  },
+  {
+    "title": "Go Fight Fantastic!",
+    "titleId": "2030310966",
+    "isTitleBased": true
   },
   {
     "title": "Bridge Constructor: The Walking Dead",
@@ -41650,6 +41735,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Infantry Attack",
+    "titleId": "2062871798",
+    "isTitleBased": true
+  },
+  {
     "title": "Royal Romances: Endless Winter CE Xbox",
     "titleId": "2062939968",
     "isTitleBased": true
@@ -42483,6 +42573,11 @@
     "title": "The Pizza Delivery Boy Who Saved the World",
     "titleId": "2074126168",
     "isTitleBased": true
+  },
+  {
+    "title": "Assassin's Creed Brotherhood",
+    "titleId": "2074162201",
+    "isTitleBased": false
   },
   {
     "title": "Sokorobot",
@@ -43935,6 +44030,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Mystical Mixing",
+    "titleId": "2092209274",
+    "isTitleBased": true
+  },
+  {
     "title": "Borderlands 3",
     "titleId": "2092220937",
     "isTitleBased": true
@@ -44750,6 +44850,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Rabbiman Adventures",
+    "titleId": "2101953969",
+    "isTitleBased": true
+  },
+  {
     "title": "Terra Memoria",
     "titleId": "2101981464",
     "isTitleBased": true
@@ -45307,6 +45412,11 @@
   {
     "title": "Toaplan Arcade Collection Vol. 2",
     "titleId": "2108730441",
+    "isTitleBased": true
+  },
+  {
+    "title": "Strike Force 3",
+    "titleId": "2108848036",
     "isTitleBased": true
   },
   {
@@ -46178,6 +46288,11 @@
     "title": "STUFFED",
     "titleId": "2120109308",
     "isTitleBased": true
+  },
+  {
+    "title": "Assassin’s Creed IV Black Flag - Gold Edition",
+    "titleId": "2120156611",
+    "isTitleBased": false
   },
   {
     "title": "Oh My Eggs",

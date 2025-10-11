@@ -4840,6 +4840,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Lonesome Guild",
+    "titleId": "1620010014",
+    "isTitleBased": true
+  },
+  {
     "title": "Danger Scavenger",
     "titleId": "1620054122",
     "isTitleBased": true
@@ -5022,6 +5027,11 @@
   {
     "title": "Family Mysteries 2: Echoes of Tomorrow (Xbox One Version)",
     "titleId": "1622504987",
+    "isTitleBased": true
+  },
+  {
+    "title": "Gabriels Worlds The Sokoban Adventure (Windows)",
+    "titleId": "1622515949",
     "isTitleBased": true
   },
   {
@@ -5485,6 +5495,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Star Station Frontier (Xbox Series X/S)",
+    "titleId": "1628331422",
+    "isTitleBased": true
+  },
+  {
     "title": "Stuntman: Ignition",
     "titleId": "162834230",
     "isTitleBased": false
@@ -5832,7 +5847,7 @@
   {
     "title": "Biped 2",
     "titleId": "1631604623",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Chants of Sennaar (Windows)",
@@ -6985,6 +7000,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Infinos",
+    "titleId": "1645656675",
+    "isTitleBased": true
+  },
+  {
     "title": "Heroes of the Dark: Squad RPG",
     "titleId": "1645804404",
     "isTitleBased": false
@@ -7302,7 +7322,7 @@
   {
     "title": "Lost Eidolons: Veil of the Witch",
     "titleId": "1648660389",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Sonic Origins",
@@ -7778,6 +7798,11 @@
     "title": "Indiana Jones and the Great Circle™: Digital Artbook",
     "titleId": "1654140051",
     "isTitleBased": false
+  },
+  {
+    "title": "Twins of the Sun",
+    "titleId": "1654177207",
+    "isTitleBased": true
   },
   {
     "title": "Knightin'+ (Xbox Series X|S)",
@@ -9485,9 +9510,9 @@
     "isTitleBased": true
   },
   {
-    "title": "Wizard101 (Game Preview)",
+    "title": "Wizard101",
     "titleId": "1676173709",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Injection π23 'Ars regia'",
@@ -9832,7 +9857,7 @@
   {
     "title": "Bye Sweet Carole",
     "titleId": "1679962490",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Real Heroes: Firefighter HD",
@@ -11817,6 +11842,11 @@
   {
     "title": "Genesis Noir",
     "titleId": "1702713376",
+    "isTitleBased": true
+  },
+  {
+    "title": "Supermarket Simulator",
+    "titleId": "1702731390",
     "isTitleBased": true
   },
   {
@@ -15060,6 +15090,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Little Nightmares III",
+    "titleId": "1741206400",
+    "isTitleBased": true
+  },
+  {
     "title": "EDENGATE: The Edge of Life",
     "titleId": "1741237286",
     "isTitleBased": true
@@ -15672,6 +15707,11 @@
   {
     "title": "RetroMania Wrestling",
     "titleId": "1748326860",
+    "isTitleBased": true
+  },
+  {
+    "title": "SUBNET - Escape Room Adventure",
+    "titleId": "1748567272",
     "isTitleBased": true
   },
   {
@@ -16430,6 +16470,11 @@
     "isTitleBased": true
   },
   {
+    "title": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+    "titleId": "1757807931",
+    "isTitleBased": false
+  },
+  {
     "title": "Islanders",
     "titleId": "1757844217",
     "isTitleBased": true
@@ -16625,6 +16670,11 @@
     "isTitleBased": true
   },
   {
+    "title": "DETECTIVE - The Test",
+    "titleId": "1760093250",
+    "isTitleBased": true
+  },
+  {
     "title": "Troopers",
     "titleId": "1760149971",
     "isTitleBased": false
@@ -16747,6 +16797,11 @@
   {
     "title": "Tennis World Tour 2",
     "titleId": "1761788696",
+    "isTitleBased": true
+  },
+  {
+    "title": "Ping Pong Up",
+    "titleId": "1761818175",
     "isTitleBased": true
   },
   {
@@ -18115,6 +18170,11 @@
     "isTitleBased": true
   },
   {
+    "title": "CAPTURED",
+    "titleId": "1777741495",
+    "isTitleBased": true
+  },
+  {
     "title": "Visions of Mana",
     "titleId": "1777774126",
     "isTitleBased": true
@@ -18162,6 +18222,11 @@
   {
     "title": "Re:Touring (Xbox Series X|S)",
     "titleId": "1778435097",
+    "isTitleBased": true
+  },
+  {
+    "title": "Murder Inc",
+    "titleId": "1778466338",
     "isTitleBased": true
   },
   {
@@ -18755,6 +18820,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Star Station Frontier (Xbox One)",
+    "titleId": "1785825024",
+    "isTitleBased": true
+  },
+  {
     "title": "Hellblade: Senua's Sacrifice",
     "titleId": "1785862913",
     "isTitleBased": true
@@ -19092,6 +19162,11 @@
   {
     "title": "Five Nights at Freddy's 4",
     "titleId": "1790217657",
+    "isTitleBased": true
+  },
+  {
+    "title": "Alien: Rogue Incursion Evolved Edition",
+    "titleId": "1790332447",
     "isTitleBased": true
   },
   {
@@ -19605,6 +19680,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Barbie™ Horse Trails",
+    "titleId": "1795554480",
+    "isTitleBased": true
+  },
+  {
     "title": "Foregone",
     "titleId": "1795644417",
     "isTitleBased": true
@@ -19622,6 +19702,11 @@
   {
     "title": "JackQuest",
     "titleId": "1795973745",
+    "isTitleBased": true
+  },
+  {
+    "title": "Star Station Frontier (Windows)",
+    "titleId": "1795983820",
     "isTitleBased": true
   },
   {
@@ -20392,7 +20477,7 @@
   {
     "title": "Instruments of Destruction",
     "titleId": "1805474854",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Dishonored®: Death of the Outsider™ (PC)",
@@ -20737,6 +20822,11 @@
   {
     "title": "Space Revenge",
     "titleId": "1810149232",
+    "isTitleBased": true
+  },
+  {
+    "title": "Brass: A Peaceful, Cozy Adventure",
+    "titleId": "1810155690",
     "isTitleBased": true
   },
   {
@@ -23165,6 +23255,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Battlefield™ 6",
+    "titleId": "1840884885",
+    "isTitleBased": true
+  },
+  {
     "title": "Kinect Sports Rivals",
     "titleId": "1840996916",
     "isTitleBased": false
@@ -25315,6 +25410,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Snoopy & The Great Mystery Club",
+    "titleId": "1866835346",
+    "isTitleBased": true
+  },
+  {
     "title": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
     "titleId": "1866841877",
     "isTitleBased": true
@@ -26062,7 +26162,7 @@
   {
     "title": "ROAD TO EXOTICS",
     "titleId": "1875887673",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "OPUS: Echo of Starsong - Full Bloom Edition",
@@ -26695,6 +26795,11 @@
     "isTitleBased": true
   },
   {
+    "title": "NBA BOUNCE",
+    "titleId": "1882866745",
+    "isTitleBased": true
+  },
+  {
     "title": "Command & Conquer™ Remastered Collection",
     "titleId": "1882958829",
     "isTitleBased": false
@@ -27312,6 +27417,11 @@
   {
     "title": "Elon and the Divine Proof (Windows)",
     "titleId": "1890624967",
+    "isTitleBased": true
+  },
+  {
+    "title": "Murder Inc (Windows)",
+    "titleId": "1890688994",
     "isTitleBased": true
   },
   {
@@ -28377,6 +28487,11 @@
   {
     "title": "Super Dodge Ball",
     "titleId": "1903601100",
+    "isTitleBased": true
+  },
+  {
+    "title": "Yooka-Replaylee",
+    "titleId": "1903621817",
     "isTitleBased": true
   },
   {
@@ -29480,6 +29595,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Gabriels Worlds The Sokoban Adventure",
+    "titleId": "1917190010",
+    "isTitleBased": true
+  },
+  {
     "title": "Mars Power Industries Deluxe",
     "titleId": "1917350477",
     "isTitleBased": true
@@ -30042,6 +30162,11 @@
   {
     "title": "Wasteland 3 (PC)",
     "titleId": "1923839306",
+    "isTitleBased": true
+  },
+  {
+    "title": "Adrenaline Rampage",
+    "titleId": "1924008745",
     "isTitleBased": true
   },
   {
@@ -30890,6 +31015,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Echoes of the Plum Grove",
+    "titleId": "1935118065",
+    "isTitleBased": true
+  },
+  {
     "title": "The Last Hero: Journey to the Unknown",
     "titleId": "1935135963",
     "isTitleBased": true
@@ -31202,7 +31332,7 @@
   {
     "title": "Lia: Hacking Destiny",
     "titleId": "1938294390",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Sledders",
@@ -31295,6 +31425,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Carpathian Night Starring Bela Lugosi",
+    "titleId": "1939421912",
+    "isTitleBased": true
+  },
+  {
     "title": "Mass Effect™ Legendary Edition",
     "titleId": "1939441675",
     "isTitleBased": false
@@ -31342,7 +31477,7 @@
   {
     "title": "Bit ESC",
     "titleId": "1939860114",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Kaiju Big Battel: Fighto Fantasy",
@@ -31643,6 +31778,11 @@
     "title": "Copa City",
     "titleId": "1943534281",
     "isTitleBased": false
+  },
+  {
+    "title": "Digimon Story Time Stranger",
+    "titleId": "1943631392",
+    "isTitleBased": true
   },
   {
     "title": "SpellForce III Reforced",
@@ -32067,6 +32207,11 @@
   {
     "title": "Death Park",
     "titleId": "1949177747",
+    "isTitleBased": true
+  },
+  {
+    "title": "Acre Crisis",
+    "titleId": "1949370509",
     "isTitleBased": true
   },
   {
@@ -34385,6 +34530,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Murder Inc (Xbox Series X|S)",
+    "titleId": "1976262441",
+    "isTitleBased": true
+  },
+  {
     "title": "ARMORED CORE™ VI FIRES OF RUBICON™",
     "titleId": "1976275779",
     "isTitleBased": true
@@ -35222,6 +35372,11 @@
   {
     "title": "Kemono Heroes",
     "titleId": "1986371466",
+    "isTitleBased": true
+  },
+  {
+    "title": "Platzle",
+    "titleId": "1986409429",
     "isTitleBased": true
   },
   {
@@ -36205,6 +36360,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arcade Archives 2 BATTLANTIS",
+    "titleId": "1997664561",
+    "isTitleBased": true
+  },
+  {
     "title": "Hidden Paws",
     "titleId": "1997691917",
     "isTitleBased": true
@@ -36487,7 +36647,7 @@
   {
     "title": "Mortal Kombat: Legacy Kollection",
     "titleId": "2000897177",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Mayhem Mail",
@@ -37200,6 +37360,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Gabriels Worlds The Sokoban Adventure (Xbox One)",
+    "titleId": "2010101712",
+    "isTitleBased": true
+  },
+  {
     "title": "Save Your Nuts",
     "titleId": "2010124610",
     "isTitleBased": true
@@ -37712,6 +37877,11 @@
   {
     "title": "Slayers X: Terminal Aftermath: Vengance of the Slayer",
     "titleId": "2016262671",
+    "isTitleBased": true
+  },
+  {
+    "title": "SOPA - Tale of the Stolen Potato",
+    "titleId": "2016279503",
     "isTitleBased": true
   },
   {
@@ -40855,6 +41025,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Lethal Honor - Order of the Apocalypse",
+    "titleId": "2051461804",
+    "isTitleBased": true
+  },
+  {
     "title": "Mineko's Night Market",
     "titleId": "2051473600",
     "isTitleBased": true
@@ -41805,6 +41980,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Train Sim World® 6: Free Starter Pack",
+    "titleId": "2063484815",
+    "isTitleBased": false
+  },
+  {
     "title": "Pyramids and Aliens: Escape Room",
     "titleId": "2063534995",
     "isTitleBased": true
@@ -42105,6 +42285,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Scurge: Hive",
+    "titleId": "2067811291",
+    "isTitleBased": true
+  },
+  {
     "title": "Awaysis",
     "titleId": "2068013213",
     "isTitleBased": false
@@ -42207,6 +42392,11 @@
   {
     "title": "Repit",
     "titleId": "2069792634",
+    "isTitleBased": true
+  },
+  {
+    "title": "Infinos 2",
+    "titleId": "2069871974",
     "isTitleBased": true
   },
   {
@@ -46015,6 +46205,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Grinch: Christmas Adventures - Merry & Mischievous Edition",
+    "titleId": "2116740682",
+    "isTitleBased": true
+  },
+  {
     "title": "The Mound: Omen of Cthulhu",
     "titleId": "2116788151",
     "isTitleBased": false
@@ -46343,6 +46538,11 @@
     "title": "Crysis®",
     "titleId": "2120724036",
     "isTitleBased": false
+  },
+  {
+    "title": "Acre Crisis (Xbox Series X|S)",
+    "titleId": "2120764173",
+    "isTitleBased": true
   },
   {
     "title": "Roommates Visual Novel",
@@ -47457,6 +47657,11 @@
   {
     "title": "Circus of TimTim",
     "titleId": "2134358678",
+    "isTitleBased": true
+  },
+  {
+    "title": "Napoleon Maiden Episode.1 A maiden without the word impossible",
+    "titleId": "2134452185",
     "isTitleBased": true
   },
   {

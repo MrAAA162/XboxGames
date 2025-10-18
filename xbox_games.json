@@ -4205,6 +4205,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Tiny Arctic Hero (Windows)",
+    "titleId": "1612059598",
+    "isTitleBased": true
+  },
+  {
     "title": "Billy’s Game Show",
     "titleId": "1612082944",
     "isTitleBased": true
@@ -4283,6 +4288,11 @@
     "title": "Hela",
     "titleId": "1613107993",
     "isTitleBased": false
+  },
+  {
+    "title": "Space Drone",
+    "titleId": "1613162036",
+    "isTitleBased": true
   },
   {
     "title": "Spacelines from the Far Out",
@@ -5005,6 +5015,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Space Drone (Windows)",
+    "titleId": "1622225121",
+    "isTitleBased": true
+  },
+  {
     "title": "DreamWorks Dragons: Legends of The Nine Realms",
     "titleId": "1622387282",
     "isTitleBased": true
@@ -5292,7 +5307,7 @@
   {
     "title": "Liminal Department",
     "titleId": "1625997162",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Mel The Cat (Windows)",
@@ -6730,6 +6745,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sokobear Winter (Windows)",
+    "titleId": "1642658545",
+    "isTitleBased": true
+  },
+  {
     "title": "TRANSFORMERS: EARTHSPARK - Expedition",
     "titleId": "1642785895",
     "isTitleBased": true
@@ -7070,7 +7090,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Space Hulk: Tactics",
+    "title": "Space Hulk: Tactics (Windows)",
     "titleId": "1646285430",
     "isTitleBased": true
   },
@@ -7525,6 +7545,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Rookie Knight (Xbox Series X|S)",
+    "titleId": "1651162386",
+    "isTitleBased": true
+  },
+  {
     "title": "Path of Exile 2 (Game Preview)",
     "titleId": "1651188120",
     "isTitleBased": false
@@ -7618,6 +7643,11 @@
     "title": "EXOMECHA",
     "titleId": "1652375286",
     "isTitleBased": false
+  },
+  {
+    "title": "Frobbutt 3D (Xbox Series)",
+    "titleId": "1652387507",
+    "isTitleBased": true
   },
   {
     "title": "Ludo XXL",
@@ -8165,6 +8195,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Captain Tideborne and the Siren's Call",
+    "titleId": "1659195640",
+    "isTitleBased": true
+  },
+  {
     "title": "Neon Apex: Beyond the Limit",
     "titleId": "1659378552",
     "isTitleBased": true
@@ -8372,6 +8407,11 @@
   {
     "title": "Crashbots",
     "titleId": "1662977443",
+    "isTitleBased": true
+  },
+  {
+    "title": "Space Elite Force - Reloaded",
+    "titleId": "1662988757",
     "isTitleBased": true
   },
   {
@@ -9407,6 +9447,11 @@
   {
     "title": "Cloud to Gold (Xbox One)",
     "titleId": "1675162155",
+    "isTitleBased": true
+  },
+  {
+    "title": "Find Sort Match",
+    "titleId": "1675170039",
     "isTitleBased": true
   },
   {
@@ -10805,6 +10850,11 @@
     "isTitleBased": true
   },
   {
+    "title": "House Fighters: Total Mess",
+    "titleId": "1691373298",
+    "isTitleBased": true
+  },
+  {
     "title": "Farm Together 2",
     "titleId": "1691448998",
     "isTitleBased": true
@@ -11452,6 +11502,11 @@
   {
     "title": "Detective Di: The Silk Rose Murders",
     "titleId": "1698194763",
+    "isTitleBased": true
+  },
+  {
+    "title": "Aly The Alligator in Space Trouble (XBox Series)",
+    "titleId": "1698247129",
     "isTitleBased": true
   },
   {
@@ -13780,6 +13835,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Tiny Arctic Hero (Xbox One)",
+    "titleId": "1724894079",
+    "isTitleBased": true
+  },
+  {
     "title": "Whipseey and the Lost Atlas",
     "titleId": "1724902545",
     "isTitleBased": true
@@ -14277,6 +14337,11 @@
   {
     "title": "Almost My Floor (Xbox Series X|S)",
     "titleId": "1730335163",
+    "isTitleBased": true
+  },
+  {
+    "title": "Solus (Windows)",
+    "titleId": "1730346029",
     "isTitleBased": true
   },
   {
@@ -16427,7 +16492,7 @@
   {
     "title": "Bus World",
     "titleId": "1757174298",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Dark Eye: Chains of Satinav",
@@ -16657,6 +16722,11 @@
   {
     "title": "Outbreak: Shades of Horror Chromatic Split",
     "titleId": "1759814886",
+    "isTitleBased": true
+  },
+  {
+    "title": "Space Drone (Xbox One)",
+    "titleId": "1759979710",
     "isTitleBased": true
   },
   {
@@ -17052,6 +17122,11 @@
   {
     "title": "Doctor Cat (Windows)",
     "titleId": "1764157412",
+    "isTitleBased": true
+  },
+  {
+    "title": "AQUADREAM",
+    "titleId": "1764162852",
     "isTitleBased": true
   },
   {
@@ -19762,7 +19837,7 @@
   {
     "title": "Voidtrain",
     "titleId": "1797047526",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Midnight is Lost",
@@ -21635,6 +21710,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Frobbutt 3D",
+    "titleId": "1820379842",
+    "isTitleBased": true
+  },
+  {
     "title": "Rabisco+",
     "titleId": "1820440136",
     "isTitleBased": true
@@ -21852,6 +21932,11 @@
   {
     "title": "Dodgeball Academia",
     "titleId": "1823452826",
+    "isTitleBased": true
+  },
+  {
+    "title": "Bad Cat",
+    "titleId": "1823463899",
     "isTitleBased": true
   },
   {
@@ -23330,6 +23415,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Rookie Knight (Windows)",
+    "titleId": "1841524842",
+    "isTitleBased": true
+  },
+  {
     "title": "Plumber Hero",
     "titleId": "1841689454",
     "isTitleBased": true
@@ -23972,7 +24062,7 @@
   {
     "title": "BALL x PIT",
     "titleId": "1848927238",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Soviet Project",
@@ -24530,6 +24620,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Carnage: Battle Arena",
+    "titleId": "1856200373",
+    "isTitleBased": true
+  },
+  {
     "title": "Frozen Gauntlet",
     "titleId": "1856401271",
     "isTitleBased": true
@@ -25017,6 +25112,11 @@
   {
     "title": "BloodRayne: ReVamped",
     "titleId": "1862346957",
+    "isTitleBased": true
+  },
+  {
+    "title": "Chickenhare and the treasure of Spiking-beard",
+    "titleId": "1862364287",
     "isTitleBased": true
   },
   {
@@ -26842,7 +26942,7 @@
   {
     "title": "RENNSPORT",
     "titleId": "1883914934",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Sigi - A Fart for Melusina",
@@ -27507,6 +27607,11 @@
   {
     "title": "Lord of the Сlick",
     "titleId": "1891728216",
+    "isTitleBased": true
+  },
+  {
+    "title": "Zumba - Marble Zombie Invasion",
+    "titleId": "1891811268",
     "isTitleBased": true
   },
   {
@@ -31035,6 +31140,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Super Hero Demolition",
+    "titleId": "1935418833",
+    "isTitleBased": true
+  },
+  {
     "title": "Little Nightmares Enhanced Edition",
     "titleId": "1935490407",
     "isTitleBased": true
@@ -31775,6 +31885,11 @@
     "isTitleBased": false
   },
   {
+    "title": "EVERDARK: Undead Apocalypse",
+    "titleId": "1943307403",
+    "isTitleBased": true
+  },
+  {
     "title": "Copa City",
     "titleId": "1943534281",
     "isTitleBased": false
@@ -31792,6 +31907,11 @@
   {
     "title": "ASTROSMASH",
     "titleId": "1943666479",
+    "isTitleBased": true
+  },
+  {
+    "title": "Aly The Alligator in Space Trouble",
+    "titleId": "1943759197",
     "isTitleBased": true
   },
   {
@@ -32565,6 +32685,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Racing Champions",
+    "titleId": "1953378897",
+    "isTitleBased": true
+  },
+  {
     "title": "Metro Redux",
     "titleId": "1953382311",
     "isTitleBased": false
@@ -32852,6 +32977,11 @@
   {
     "title": "Vampire: The Masquerade - Swansong Xbox One",
     "titleId": "1957172115",
+    "isTitleBased": true
+  },
+  {
+    "title": "Horror Tale 1: 4k Remaster",
+    "titleId": "1957190812",
     "isTitleBased": true
   },
   {
@@ -41402,7 +41532,7 @@
   {
     "title": "Wreckreation",
     "titleId": "2056599614",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "SiNKR",
@@ -42067,6 +42197,11 @@
   {
     "title": "Zero the Kamikaze Squirrel",
     "titleId": "2064919019",
+    "isTitleBased": true
+  },
+  {
+    "title": "Aly The Alligator in Space Trouble (Windows)",
+    "titleId": "2064987370",
     "isTitleBased": true
   },
   {
@@ -43845,6 +43980,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arcade Archives 2 MUNCH MOBILE",
+    "titleId": "2086364676",
+    "isTitleBased": true
+  },
+  {
     "title": "Neva",
     "titleId": "2086432768",
     "isTitleBased": true
@@ -43875,7 +44015,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Subject 13",
+    "title": "SUBJECT 13",
     "titleId": "208741763",
     "isTitleBased": false
   },
@@ -44152,6 +44292,11 @@
   {
     "title": "Wreckfest",
     "titleId": "2091194104",
+    "isTitleBased": true
+  },
+  {
+    "title": "Zumba – The Dragon’s Marble Trial",
+    "titleId": "2091238386",
     "isTitleBased": true
   },
   {
@@ -45447,7 +45592,7 @@
   {
     "title": "Beneath",
     "titleId": "2106780142",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Shogun Showdown",
@@ -46830,7 +46975,7 @@
     "isTitleBased": true
   },
   {
-    "title": "MudRunner",
+    "title": "MudRunner (Windows)",
     "titleId": "2124688478",
     "isTitleBased": false
   },
@@ -47412,6 +47557,11 @@
   {
     "title": "Tiny Pixels Vol. 2 - Stormy Knights",
     "titleId": "2131353983",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dungeon Minesweeper",
+    "titleId": "2131434126",
     "isTitleBased": true
   },
   {

@@ -5270,6 +5270,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Criss Cross",
+    "titleId": "1625302815",
+    "isTitleBased": true
+  },
+  {
     "title": "We Don't Cry: Zombie Survival",
     "titleId": "1625355191",
     "isTitleBased": true
@@ -8150,6 +8155,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dreamed Away",
+    "titleId": "1657734833",
+    "isTitleBased": true
+  },
+  {
     "title": "Slay the Princess - The Pristine Cut",
     "titleId": "1657758963",
     "isTitleBased": true
@@ -8563,6 +8573,11 @@
     "title": "Assassin’s Creed® Mirage",
     "titleId": "1664486148",
     "isTitleBased": false
+  },
+  {
+    "title": "Football Manager 26",
+    "titleId": "1664487314",
+    "isTitleBased": true
   },
   {
     "title": "COD: Black Ops II",
@@ -10910,6 +10925,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Build a Bridge!",
+    "titleId": "1691395527",
+    "isTitleBased": true
+  },
+  {
     "title": "Farm Together 2",
     "titleId": "1691448998",
     "isTitleBased": true
@@ -11343,6 +11363,11 @@
     "title": "Blacksmith Forger",
     "titleId": "1695781563",
     "isTitleBased": true
+  },
+  {
+    "title": "Neon Tail",
+    "titleId": "1695928641",
+    "isTitleBased": false
   },
   {
     "title": "The Elder Scrolls IV: Oblivion Remastered",
@@ -12367,6 +12392,11 @@
   {
     "title": "WolfFang SkullFang Saturn Tribute Boosted",
     "titleId": "1707398569",
+    "isTitleBased": true
+  },
+  {
+    "title": "Jurassic World Evolution 3",
+    "titleId": "1707431222",
     "isTitleBased": true
   },
   {
@@ -20025,6 +20055,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cyber Lab",
+    "titleId": "1797942867",
+    "isTitleBased": true
+  },
+  {
     "title": "ACA NEOGEO PUZZLE BOBBLE for Windows",
     "titleId": "1797974868",
     "isTitleBased": true
@@ -21440,6 +21475,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Outer Worlds 2 – Digital Artbook & Soundtrack",
+    "titleId": "1814704445",
+    "isTitleBased": false
+  },
+  {
     "title": "SENSHI SOKOBAN QUEST (Windows 10)",
     "titleId": "1814784440",
     "isTitleBased": true
@@ -22302,6 +22342,11 @@
   {
     "title": "Oh! Edo Towns",
     "titleId": "1825919037",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dora™: Rainforest Rescue",
+    "titleId": "1825944429",
     "isTitleBased": true
   },
   {
@@ -23675,6 +23720,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Hot Wheels Let's Race™: Ultimate Speed",
+    "titleId": "1842354344",
+    "isTitleBased": true
+  },
+  {
     "title": "Bears Can’t Drift!?",
     "titleId": "1842576204",
     "isTitleBased": true
@@ -24282,6 +24332,11 @@
   {
     "title": "Hatsune Miku Jigsaw Puzzle",
     "titleId": "1849538715",
+    "isTitleBased": true
+  },
+  {
+    "title": "Kamikaze Lassplanes",
+    "titleId": "1849548443",
     "isTitleBased": true
   },
   {
@@ -25302,6 +25357,11 @@
   {
     "title": "Gleaner Heights",
     "titleId": "1862382947",
+    "isTitleBased": true
+  },
+  {
+    "title": "Solus",
+    "titleId": "1862639876",
     "isTitleBased": true
   },
   {
@@ -26502,7 +26562,7 @@
   {
     "title": "Simon the Sorcerer Origins",
     "titleId": "1876367056",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "F.E.A.R. Files",
@@ -26767,6 +26827,11 @@
   {
     "title": "Destino Indomable",
     "titleId": "1879620411",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Outer Worlds 2",
+    "titleId": "1879711255",
     "isTitleBased": true
   },
   {
@@ -27535,6 +27600,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Solus (Xbox Series)",
+    "titleId": "1889005839",
+    "isTitleBased": true
+  },
+  {
     "title": "Backpack Hero",
     "titleId": "1889059808",
     "isTitleBased": true
@@ -27955,6 +28025,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Tattoo Tycoon",
+    "titleId": "1893571510",
+    "isTitleBased": true
+  },
+  {
     "title": "Monster Trampoline",
     "titleId": "1893675888",
     "isTitleBased": true
@@ -28037,6 +28112,11 @@
   {
     "title": "Yuletide Legends: Who Framed Santa Claus (Xbox Version)",
     "titleId": "1894398913",
+    "isTitleBased": true
+  },
+  {
+    "title": "Battle Puzzle 2048 - Queens of the Abyss",
+    "titleId": "1894440688",
     "isTitleBased": true
   },
   {
@@ -28457,7 +28537,7 @@
   {
     "title": "Super Fantasy Kingdom (Game Preview)",
     "titleId": "1899691698",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Genopanic",
@@ -29430,6 +29510,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Fast & Furious: Arcade Edition",
+    "titleId": "1911770674",
+    "isTitleBased": true
+  },
+  {
     "title": "Chameneon",
     "titleId": "1911784583",
     "isTitleBased": true
@@ -29457,6 +29542,11 @@
   {
     "title": "PJ Masks Power Heroes: Mighty Alliance",
     "titleId": "1911968632",
+    "isTitleBased": true
+  },
+  {
+    "title": "Football Manager 26 Console",
+    "titleId": "1911989187",
     "isTitleBased": true
   },
   {
@@ -30677,6 +30767,11 @@
   {
     "title": "We Were Here",
     "titleId": "1926895632",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cairn",
+    "titleId": "1926906240",
     "isTitleBased": true
   },
   {
@@ -37685,6 +37780,11 @@
     "isTitleBased": true
   },
   {
+    "title": "NINJA GAIDEN 4",
+    "titleId": "2008623143",
+    "isTitleBased": true
+  },
+  {
     "title": "Brotato",
     "titleId": "2008767227",
     "isTitleBased": true
@@ -38077,6 +38177,11 @@
   {
     "title": "Aniquilation",
     "titleId": "2014034747",
+    "isTitleBased": true
+  },
+  {
+    "title": "SEDAP! A Culinary Adventure",
+    "titleId": "2014051102",
     "isTitleBased": true
   },
   {
@@ -39077,6 +39182,11 @@
   {
     "title": "Paper Ghost Stories: Third Eye Open",
     "titleId": "2025680999",
+    "isTitleBased": true
+  },
+  {
+    "title": "Monster Prom 3: Monster Roadtrip XXL",
+    "titleId": "2025687845",
     "isTitleBased": true
   },
   {
@@ -41395,6 +41505,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Monster Prom 2: Monster Camp XXL",
+    "titleId": "2050785251",
+    "isTitleBased": true
+  },
+  {
     "title": "Battleminer Giants",
     "titleId": "2050837511",
     "isTitleBased": true
@@ -41777,6 +41892,11 @@
   {
     "title": "Falling Out",
     "titleId": "2055752374",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Elf on the Shelf®: Christmas Heroes",
+    "titleId": "2055759763",
     "isTitleBased": true
   },
   {
@@ -44680,6 +44800,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Once Upon a Jester",
+    "titleId": "2091966671",
+    "isTitleBased": true
+  },
+  {
     "title": "Yakuza 3 Remastered for Windows 10",
     "titleId": "2092055351",
     "isTitleBased": true
@@ -44687,6 +44812,11 @@
   {
     "title": "ACA NEOGEO SPIN MASTER",
     "titleId": "209206780",
+    "isTitleBased": false
+  },
+  {
+    "title": "Souno's Curse",
+    "titleId": "2092107917",
     "isTitleBased": false
   },
   {
@@ -46565,6 +46695,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Pacific Drive",
+    "titleId": "2115352193",
+    "isTitleBased": true
+  },
+  {
     "title": "The Many Pieces of Mr. Coo",
     "titleId": "2115394585",
     "isTitleBased": true
@@ -47120,6 +47255,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Once Upon A KATAMARI",
+    "titleId": "2121532136",
+    "isTitleBased": true
+  },
+  {
     "title": "Crawlers And Brawlers",
     "titleId": "2121565894",
     "isTitleBased": true
@@ -47187,6 +47327,11 @@
   {
     "title": "The Holy Gosh Darn",
     "titleId": "2122758447",
+    "isTitleBased": true
+  },
+  {
+    "title": "Keeper",
+    "titleId": "2122788273",
     "isTitleBased": true
   },
   {
@@ -49227,6 +49372,11 @@
   {
     "title": "Teppo and The Secret Ancient City",
     "titleId": "2147008908",
+    "isTitleBased": true
+  },
+  {
+    "title": "Chicken Run: Eggstraction",
+    "titleId": "2147011730",
     "isTitleBased": true
   },
   {

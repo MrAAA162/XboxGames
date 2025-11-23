@@ -4520,7 +4520,7 @@
     "isTitleBased": true
   },
   {
-    "title": "MONOPOLY 2024",
+    "title": "New MONOPOLY®",
     "titleId": "1615991113",
     "isTitleBased": true
   },
@@ -5047,6 +5047,11 @@
   {
     "title": "Space Drone (Windows)",
     "titleId": "1622225121",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Phantom",
+    "titleId": "1622257651",
     "isTitleBased": true
   },
   {
@@ -6557,7 +6562,7 @@
   {
     "title": "INAZUMA ELEVEN: Victory Road",
     "titleId": "1639666819",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Mainframe Defenders",
@@ -8792,6 +8797,11 @@
   {
     "title": "Goblin Gold Hunt (Xbox Series X/S)",
     "titleId": "1665690860",
+    "isTitleBased": true
+  },
+  {
+    "title": "R-Type Delta: HD Boosted",
+    "titleId": "1665717493",
     "isTitleBased": true
   },
   {
@@ -11255,6 +11265,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Oakbound Quest (Xbox One)",
+    "titleId": "1693043906",
+    "isTitleBased": true
+  },
+  {
     "title": "Madden NFL 22 Xbox One",
     "titleId": "1693050229",
     "isTitleBased": true
@@ -11507,7 +11522,7 @@
   {
     "title": "Neon Tail",
     "titleId": "1695928641",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Elder Scrolls IV: Oblivion Remastered",
@@ -13530,6 +13545,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Wiz Quest: Crystal Power",
+    "titleId": "1717873371",
+    "isTitleBased": true
+  },
+  {
     "title": "Galaxy Control: Arena",
     "titleId": "1717888621",
     "isTitleBased": true
@@ -13593,6 +13613,11 @@
     "title": "Call of Cthulhu",
     "titleId": "171879377",
     "isTitleBased": false
+  },
+  {
+    "title": "Military Logistics Simulator",
+    "titleId": "1718878320",
+    "isTitleBased": true
   },
   {
     "title": "Knockout City™",
@@ -15190,6 +15215,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sacrifice For Sale",
+    "titleId": "1737902382",
+    "isTitleBased": true
+  },
+  {
     "title": "Bay Breaker",
     "titleId": "1737916926",
     "isTitleBased": true
@@ -16325,6 +16355,16 @@
     "isTitleBased": true
   },
   {
+    "title": "Wiz Quest: Crystal Power (Windows)",
+    "titleId": "1751577129",
+    "isTitleBased": true
+  },
+  {
+    "title": "NeonBlast",
+    "titleId": "1751697073",
+    "isTitleBased": true
+  },
+  {
     "title": "Doki Doki Literature Club Plus!",
     "titleId": "1751733247",
     "isTitleBased": true
@@ -17217,6 +17257,11 @@
   {
     "title": "Tennis World Tour 2",
     "titleId": "1761788696",
+    "isTitleBased": true
+  },
+  {
+    "title": "Total Chaos",
+    "titleId": "1761802913",
     "isTitleBased": true
   },
   {
@@ -18450,7 +18495,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Just Dance",
+    "title": "Just Dance Free Experience",
     "titleId": "1775780452",
     "isTitleBased": true
   },
@@ -19445,6 +19490,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Save Room - The Merchant",
+    "titleId": "1787532491",
+    "isTitleBased": true
+  },
+  {
     "title": "Blade of Darkness",
     "titleId": "1787759076",
     "isTitleBased": true
@@ -19902,7 +19952,7 @@
   {
     "title": "Moonlighter 2: The Endless Vault (Game Preview)",
     "titleId": "1792557898",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Twilight Parade: Moonlit Mononoke",
@@ -20760,6 +20810,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Oakbound Quest (Windows)",
+    "titleId": "1802716291",
+    "isTitleBased": true
+  },
+  {
     "title": "Jumbo Airport Story",
     "titleId": "1802732353",
     "isTitleBased": true
@@ -21567,6 +21622,11 @@
   {
     "title": "Days of Doom",
     "titleId": "1811815421",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 BOMB BEE",
+    "titleId": "1811920327",
     "isTitleBased": true
   },
   {
@@ -22817,6 +22877,11 @@
   {
     "title": "Super Forklift 3000 (Windows)",
     "titleId": "1827598868",
+    "isTitleBased": true
+  },
+  {
+    "title": "Castle Heroes",
+    "titleId": "1827619931",
     "isTitleBased": true
   },
   {
@@ -24260,7 +24325,7 @@
     "isTitleBased": true
   },
   {
-    "title": "I Hate This Place",
+    "title": "I Hate This Place.",
     "titleId": "1844605798",
     "isTitleBased": false
   },
@@ -25235,6 +25300,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Oakbound Quest",
+    "titleId": "1856761311",
+    "isTitleBased": true
+  },
+  {
     "title": "IceLine",
     "titleId": "1856807409",
     "isTitleBased": true
@@ -25877,6 +25947,11 @@
   {
     "title": "The Adventures of Elena Temple: Definitive Edition",
     "titleId": "1864318356",
+    "isTitleBased": true
+  },
+  {
+    "title": "Pad Quad (Xbox One)",
+    "titleId": "1864409407",
     "isTitleBased": true
   },
   {
@@ -27790,6 +27865,11 @@
     "isTitleBased": true
   },
   {
+    "title": "DAVE THE DIVER",
+    "titleId": "1886320845",
+    "isTitleBased": true
+  },
+  {
     "title": "Minos Dungeon (Xbox One)",
     "titleId": "1886336151",
     "isTitleBased": true
@@ -28282,6 +28362,11 @@
   {
     "title": "MXGP 2021 - The Official Motocross Videogame - Xbox Series X|S",
     "titleId": "1891931390",
+    "isTitleBased": true
+  },
+  {
+    "title": "CloverPit",
+    "titleId": "1891953464",
     "isTitleBased": true
   },
   {
@@ -30415,6 +30500,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Football, Tactics & Glory – Treble Deluxe Edition",
+    "titleId": "1917006388",
+    "isTitleBased": true
+  },
+  {
     "title": "Pukan, Bye-Bye!",
     "titleId": "1917064734",
     "isTitleBased": true
@@ -30497,6 +30587,11 @@
   {
     "title": "The Inheritance of Crimson Manor",
     "titleId": "1918006946",
+    "isTitleBased": true
+  },
+  {
+    "title": "A Maze Against Time (XOne)",
+    "titleId": "1918072947",
     "isTitleBased": true
   },
   {
@@ -31202,6 +31297,11 @@
   {
     "title": "Goat Out Of Hell (Xbox One)",
     "titleId": "1926555180",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sacrifice For Sale (Xbox Series X|S)",
+    "titleId": "1926602092",
     "isTitleBased": true
   },
   {
@@ -33137,6 +33237,11 @@
   {
     "title": "Death Park",
     "titleId": "1949177747",
+    "isTitleBased": true
+  },
+  {
+    "title": "SILENT HILL 2",
+    "titleId": "1949242128",
     "isTitleBased": true
   },
   {
@@ -36570,6 +36675,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Empire Invasion",
+    "titleId": "1987965936",
+    "isTitleBased": true
+  },
+  {
     "title": "Prizma Puzzle Prime (Windows)",
     "titleId": "1988040864",
     "isTitleBased": true
@@ -37450,7 +37560,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Project EVILBANE",
+    "title": "EVILBANE",
     "titleId": "1998009533",
     "isTitleBased": false
   },
@@ -39005,6 +39115,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Berlin Apartment",
+    "titleId": "2016397741",
+    "isTitleBased": true
+  },
+  {
     "title": "Goroons",
     "titleId": "2016414001",
     "isTitleBased": true
@@ -39282,6 +39397,11 @@
   {
     "title": "Space War: Infinity",
     "titleId": "2019598589",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cricket 26 - The Official Game of the Ashes",
+    "titleId": "2019604779",
     "isTitleBased": true
   },
   {
@@ -40735,6 +40855,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Wiz Quest: Crystal Power (Xbox Series)",
+    "titleId": "2035355516",
+    "isTitleBased": true
+  },
+  {
     "title": "King of the Arcade",
     "titleId": "2035409423",
     "isTitleBased": true
@@ -40837,7 +40962,7 @@
   {
     "title": "Garten of Banban 8: Anti Devil",
     "titleId": "2036291363",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Boomerforge (Windows)",
@@ -42995,6 +43120,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Burger Master",
+    "titleId": "2061327473",
+    "isTitleBased": true
+  },
+  {
     "title": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
     "titleId": "2061343238",
     "isTitleBased": false
@@ -43617,7 +43747,7 @@
   {
     "title": "Ad Fundum",
     "titleId": "2069190168",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Decision: Red Daze",
@@ -45327,7 +45457,7 @@
   {
     "title": "Outlaws + Handful of Missions: Remaster",
     "titleId": "2088993727",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Paleo Pines",
@@ -45362,6 +45492,11 @@
   {
     "title": "Fishing: Barents Sea",
     "titleId": "2089457960",
+    "isTitleBased": true
+  },
+  {
+    "title": "No Sleep For Kaname Date - From AI: THE SOMNIUM FILES",
+    "titleId": "2089461611",
     "isTitleBased": true
   },
   {
@@ -47285,6 +47420,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dragon Ruins II",
+    "titleId": "2113273842",
+    "isTitleBased": true
+  },
+  {
     "title": "PONG Quest",
     "titleId": "2113285802",
     "isTitleBased": true
@@ -47592,6 +47732,11 @@
   {
     "title": "The Grinch: Christmas Adventures - Merry & Mischievous Edition",
     "titleId": "2116740682",
+    "isTitleBased": true
+  },
+  {
+    "title": "Funny Animal Cafe",
+    "titleId": "2116769488",
     "isTitleBased": true
   },
   {
@@ -47952,6 +48097,11 @@
   {
     "title": "Demon Hunter: Revelation",
     "titleId": "2120838775",
+    "isTitleBased": true
+  },
+  {
+    "title": "A Maze Against Time (Windows)",
+    "titleId": "2120926685",
     "isTitleBased": true
   },
   {
@@ -48715,7 +48865,7 @@
     "isTitleBased": true
   },
   {
-    "title": "MONOPOLY 2024",
+    "title": "NEW MONOPOLY®",
     "titleId": "2130267917",
     "isTitleBased": false
   },
@@ -49882,6 +50032,11 @@
   {
     "title": "Rooftop Renegade",
     "titleId": "2143744554",
+    "isTitleBased": true
+  },
+  {
+    "title": "A Maze Against Time",
+    "titleId": "2143765838",
     "isTitleBased": true
   },
   {

@@ -4265,6 +4265,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Space Frontier (Xbox One)",
+    "titleId": "1612781245",
+    "isTitleBased": true
+  },
+  {
     "title": "39 Days to Mars",
     "titleId": "1612838382",
     "isTitleBased": true
@@ -4637,6 +4642,11 @@
   {
     "title": "SCARF",
     "titleId": "1617316163",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hero Seekers",
+    "titleId": "1617375650",
     "isTitleBased": true
   },
   {
@@ -5807,7 +5817,7 @@
   {
     "title": "Samurai Academy: Paws of Fury",
     "titleId": "1630581172",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Zombieland: Double Tap- Road Trip",
@@ -7310,6 +7320,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Compadrone: Land Wars",
+    "titleId": "1647258068",
+    "isTitleBased": true
+  },
+  {
     "title": "Super Waifu Ball",
     "titleId": "1647297175",
     "isTitleBased": true
@@ -8422,7 +8437,7 @@
   {
     "title": "Injection π23 'Tabula Rasa'",
     "titleId": "1661144775",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Long Ago: A Puzzle Tale",
@@ -8943,6 +8958,11 @@
     "title": "Deathless. The Hero Quest",
     "titleId": "1667166711",
     "isTitleBased": true
+  },
+  {
+    "title": "I Hate This Place",
+    "titleId": "1667320484",
+    "isTitleBased": false
   },
   {
     "title": "JCB Pioneer: Mars",
@@ -9478,6 +9498,11 @@
     "title": "Tinker Racers",
     "titleId": "1673397338",
     "isTitleBased": true
+  },
+  {
+    "title": "Echo Generation 2",
+    "titleId": "1673398628",
+    "isTitleBased": false
   },
   {
     "title": "Dungeon Keeper™ 2",
@@ -11115,6 +11140,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Space Frontier (Windows)",
+    "titleId": "1691852956",
+    "isTitleBased": true
+  },
+  {
     "title": "Boss Rush: Mythology (Xbox Series X|S)",
     "titleId": "1691874317",
     "isTitleBased": true
@@ -12458,6 +12488,11 @@
     "title": "Colossal Cave",
     "titleId": "1706051537",
     "isTitleBased": true
+  },
+  {
+    "title": "Erosion",
+    "titleId": "1706194427",
+    "isTitleBased": false
   },
   {
     "title": "Gravity Thrust",
@@ -14065,6 +14100,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Space Frontier",
+    "titleId": "1724027675",
+    "isTitleBased": true
+  },
+  {
     "title": "Collie Call",
     "titleId": "1724133517",
     "isTitleBased": true
@@ -14450,6 +14490,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+    "titleId": "1728296368",
+    "isTitleBased": false
+  },
+  {
     "title": "DmC Devil May Cry: Definitive Edition",
     "titleId": "1728448413",
     "isTitleBased": false
@@ -14780,6 +14825,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Prison Escape Simulator",
+    "titleId": "1731967517",
+    "isTitleBased": false
+  },
+  {
     "title": "Grounded 2",
     "titleId": "1732013402",
     "isTitleBased": false
@@ -14787,7 +14837,7 @@
   {
     "title": "Solo Leveling: ARISE OVERDRIVE",
     "titleId": "1732062836",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "SteamWorld Heist II",
@@ -17432,6 +17482,11 @@
   {
     "title": "Habitat Shapes (Xbox One)",
     "titleId": "1763286098",
+    "isTitleBased": true
+  },
+  {
+    "title": "Keypybara (Windows)",
+    "titleId": "1763288985",
     "isTitleBased": true
   },
   {
@@ -20600,6 +20655,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Security Booth: Director's Cut",
+    "titleId": "1799773408",
+    "isTitleBased": true
+  },
+  {
     "title": "Labyrinthine - Console Edition",
     "titleId": "1799885509",
     "isTitleBased": true
@@ -21780,6 +21840,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Roadside Research",
+    "titleId": "1813567768",
+    "isTitleBased": false
+  },
+  {
     "title": "Lord of the Click 5 (Xbox One)",
     "titleId": "1813695902",
     "isTitleBased": true
@@ -21998,6 +22063,11 @@
     "title": "KeyWe",
     "titleId": "1816678719",
     "isTitleBased": true
+  },
+  {
+    "title": "Zoopunk",
+    "titleId": "1816729784",
+    "isTitleBased": false
   },
   {
     "title": "Ogre Tale",
@@ -22932,6 +23002,11 @@
   {
     "title": "Shame Legacy Xbox One Edition",
     "titleId": "1828109177",
+    "isTitleBased": true
+  },
+  {
+    "title": "Mist: Evolution",
+    "titleId": "1828150818",
     "isTitleBased": true
   },
   {
@@ -26425,6 +26500,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Poko's Arctic Quest (Xbox Series)",
+    "titleId": "1869662675",
+    "isTitleBased": true
+  },
+  {
     "title": "Dashing Orange",
     "titleId": "1869699684",
     "isTitleBased": true
@@ -29078,6 +29158,11 @@
     "title": "Monster Panic",
     "titleId": "1899878313",
     "isTitleBased": true
+  },
+  {
+    "title": "Viking Frontiers",
+    "titleId": "1900013719",
+    "isTitleBased": false
   },
   {
     "title": "WRC 10 FIA World Rally Championship Xbox One",
@@ -32900,6 +32985,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Crowsworn",
+    "titleId": "1945244819",
+    "isTitleBased": false
+  },
+  {
     "title": "Bunny Factory",
     "titleId": "1945255835",
     "isTitleBased": false
@@ -36000,6 +36090,11 @@
     "isTitleBased": true
   },
   {
+    "title": "NIMRODS",
+    "titleId": "1980713853",
+    "isTitleBased": false
+  },
+  {
     "title": "Vambrace: Cold Soul",
     "titleId": "1980974265",
     "isTitleBased": true
@@ -36488,6 +36583,11 @@
     "title": "Dragon Age™: The Veilguard - PC",
     "titleId": "1986028200",
     "isTitleBased": false
+  },
+  {
+    "title": "El Coco",
+    "titleId": "1986172246",
+    "isTitleBased": true
   },
   {
     "title": "Caretaker Game",
@@ -37603,6 +37703,11 @@
     "title": "Lord of the Click 5",
     "titleId": "1998295089",
     "isTitleBased": true
+  },
+  {
+    "title": "Wild Blue Skies",
+    "titleId": "1998334767",
+    "isTitleBased": false
   },
   {
     "title": "Ruinverse",
@@ -40045,6 +40150,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Keypybara",
+    "titleId": "2026758005",
+    "isTitleBased": true
+  },
+  {
     "title": "The Galactic Junkers",
     "titleId": "2026765181",
     "isTitleBased": true
@@ -42450,6 +42560,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Armatus",
+    "titleId": "2052723094",
+    "isTitleBased": false
+  },
+  {
     "title": "Super Snake Block DX (Windows)",
     "titleId": "2052867319",
     "isTitleBased": true
@@ -42728,6 +42843,11 @@
     "title": "Orphans",
     "titleId": "2056542093",
     "isTitleBased": true
+  },
+  {
+    "title": "BlazBlue Entropy Effect X",
+    "titleId": "2056583125",
+    "isTitleBased": false
   },
   {
     "title": "Wreckreation",
@@ -45015,6 +45135,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Keypybara (Xbox Series)",
+    "titleId": "2083101616",
+    "isTitleBased": true
+  },
+  {
     "title": "The Dead Tree of Ranchiuna",
     "titleId": "2083136652",
     "isTitleBased": true
@@ -46780,6 +46905,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Gridz Keeper",
+    "titleId": "2105000098",
+    "isTitleBased": true
+  },
+  {
     "title": "Outbreak: Lost Hope Definitive Edition",
     "titleId": "2105009589",
     "isTitleBased": true
@@ -46848,6 +46978,11 @@
     "title": "Reigns: Game of Thrones",
     "titleId": "2105688827",
     "isTitleBased": false
+  },
+  {
+    "title": "Primal Fray",
+    "titleId": "2105890016",
+    "isTitleBased": true
   },
   {
     "title": "The Prince of Landis",
@@ -47212,6 +47347,11 @@
   {
     "title": "Metro Rivals®: New York",
     "titleId": "2110393257",
+    "isTitleBased": false
+  },
+  {
+    "title": "4 The Elements",
+    "titleId": "2110436242",
     "isTitleBased": false
   },
   {
@@ -49803,6 +49943,11 @@
     "title": "Project Nightmares Case 36: Henrietta Kedward",
     "titleId": "2141271000",
     "isTitleBased": true
+  },
+  {
+    "title": "Bandit Trap",
+    "titleId": "2141362005",
+    "isTitleBased": false
   },
   {
     "title": "Worldless",

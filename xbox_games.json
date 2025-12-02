@@ -4660,6 +4660,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Poko's Arctic Quest (Xbox One)",
+    "titleId": "1617556299",
+    "isTitleBased": true
+  },
+  {
     "title": "Perfect Ninja Painter 3",
     "titleId": "1617653473",
     "isTitleBased": true
@@ -4982,6 +4987,11 @@
   {
     "title": "Boundland (Windows)",
     "titleId": "1621106631",
+    "isTitleBased": true
+  },
+  {
+    "title": "Space Adventure : Mercury (Xbox One)",
+    "titleId": "1621251738",
     "isTitleBased": true
   },
   {
@@ -6295,6 +6305,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Star Ores Inc.",
+    "titleId": "1635978548",
+    "isTitleBased": true
+  },
+  {
     "title": "King of Ping Pong: MEGAMIX",
     "titleId": "1635978811",
     "isTitleBased": true
@@ -6855,6 +6870,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Crescent Tower",
+    "titleId": "1642616316",
+    "isTitleBased": true
+  },
+  {
     "title": "Sokobear Winter (Windows)",
     "titleId": "1642658545",
     "isTitleBased": true
@@ -7262,6 +7282,11 @@
   {
     "title": "3D Don't Die Mr. Robot",
     "titleId": "1646810031",
+    "isTitleBased": true
+  },
+  {
+    "title": "Knight's Quest (Windows)",
+    "titleId": "1646833187",
     "isTitleBased": true
   },
   {
@@ -8390,6 +8415,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Knight's Quest",
+    "titleId": "1660592701",
+    "isTitleBased": true
+  },
+  {
     "title": "DUCK: Dangerous Ultimate Cartridge Kidnapper",
     "titleId": "1660681415",
     "isTitleBased": true
@@ -8418,6 +8448,11 @@
     "title": "UnGodly",
     "titleId": "1660886629",
     "isTitleBased": false
+  },
+  {
+    "title": "Red Pippy",
+    "titleId": "1660886813",
+    "isTitleBased": true
   },
   {
     "title": "Gal Guardians: Demon Purge",
@@ -10165,6 +10200,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Young Suns (Game Preview)",
+    "titleId": "1680433621",
+    "isTitleBased": false
+  },
+  {
     "title": "Dying Light: The Beast",
     "titleId": "1680544459",
     "isTitleBased": true
@@ -11485,6 +11525,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dude, Where Is My Beer?",
+    "titleId": "1695101494",
+    "isTitleBased": true
+  },
+  {
     "title": "Zombies Ate My Neighbors and Ghoul Patrol",
     "titleId": "1695141626",
     "isTitleBased": true
@@ -11573,6 +11618,11 @@
     "title": "Carnivores: Dinosaur Hunt",
     "titleId": "1696049385",
     "isTitleBased": false
+  },
+  {
+    "title": "King's Justice (Windows)",
+    "titleId": "1696056657",
+    "isTitleBased": true
   },
   {
     "title": "Bee Flowers: Save the Garden (Xbox One)",
@@ -14125,6 +14175,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Card Storm Idle",
+    "titleId": "1724411039",
+    "isTitleBased": true
+  },
+  {
     "title": "Cris Tales",
     "titleId": "1724538394",
     "isTitleBased": true
@@ -15385,6 +15440,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Street Racer Collection (QUByte Classics)",
+    "titleId": "1739437181",
+    "isTitleBased": true
+  },
+  {
     "title": "Cyber Tank 2",
     "titleId": "1739485516",
     "isTitleBased": true
@@ -15747,6 +15807,11 @@
   {
     "title": "Attack At Dawn: North Africa",
     "titleId": "1743742587",
+    "isTitleBased": true
+  },
+  {
+    "title": "Disco Simulator",
+    "titleId": "1743819957",
     "isTitleBased": true
   },
   {
@@ -16122,6 +16187,11 @@
   {
     "title": "Gematombe",
     "titleId": "1748044049",
+    "isTitleBased": true
+  },
+  {
+    "title": "Delivery Driver Massacre",
+    "titleId": "1748074579",
     "isTitleBased": true
   },
   {
@@ -19362,7 +19432,7 @@
   {
     "title": "I'm on Observation Duty 8",
     "titleId": "1785313161",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Rock of Ages 3: Make & Break",
@@ -19437,6 +19507,11 @@
   {
     "title": "Serious Sam 4",
     "titleId": "1785887010",
+    "isTitleBased": true
+  },
+  {
+    "title": "Snake.io",
+    "titleId": "1785888386",
     "isTitleBased": true
   },
   {
@@ -20037,6 +20112,11 @@
   {
     "title": "Mainframent",
     "titleId": "1792729237",
+    "isTitleBased": true
+  },
+  {
+    "title": "Terrifier: The ARTcade Game",
+    "titleId": "1792745094",
     "isTitleBased": true
   },
   {
@@ -21250,6 +21330,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Monsters are Coming! Rock & Road",
+    "titleId": "1806088999",
+    "isTitleBased": true
+  },
+  {
     "title": "Argonauts Agency 3: Chair of Hephaestus",
     "titleId": "1806243344",
     "isTitleBased": true
@@ -21840,7 +21925,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Roadside Research",
+    "title": "Roadside Research (Game Preview)",
     "titleId": "1813567768",
     "isTitleBased": false
   },
@@ -22825,6 +22910,11 @@
     "isTitleBased": true
   },
   {
+    "title": "DETECTIVE - Rainy Night",
+    "titleId": "1826248460",
+    "isTitleBased": true
+  },
+  {
     "title": "Beat the Machine Rebooted",
     "titleId": "1826259909",
     "isTitleBased": true
@@ -23012,6 +23102,11 @@
   {
     "title": "Sea Fantasy",
     "titleId": "1828185725",
+    "isTitleBased": true
+  },
+  {
+    "title": "Rune Crystal: Adventure (XBOX ONE)",
+    "titleId": "1828268608",
     "isTitleBased": true
   },
   {
@@ -24727,6 +24822,11 @@
   {
     "title": "Star Trucker",
     "titleId": "1848367053",
+    "isTitleBased": true
+  },
+  {
+    "title": "Space Adventure : Mercury (Windows)",
+    "titleId": "1848403653",
     "isTitleBased": true
   },
   {
@@ -28790,6 +28890,11 @@
     "isTitleBased": true
   },
   {
+    "title": "King's Justice (Xbox One)",
+    "titleId": "1895665547",
+    "isTitleBased": true
+  },
+  {
     "title": "Beyond Border",
     "titleId": "1895665603",
     "isTitleBased": true
@@ -29075,6 +29180,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Card Storm Idle (Xbox One)",
+    "titleId": "1898707353",
+    "isTitleBased": true
+  },
+  {
     "title": "Slime Color (Xbox One)",
     "titleId": "1898714555",
     "isTitleBased": true
@@ -29100,6 +29210,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Lost Ember: Rekindled Edition",
+    "titleId": "1899103981",
+    "isTitleBased": true
+  },
+  {
     "title": "Speed or Death",
     "titleId": "1899135748",
     "isTitleBased": true
@@ -29117,6 +29232,11 @@
   {
     "title": "Pocket Academy",
     "titleId": "1899618502",
+    "isTitleBased": true
+  },
+  {
+    "title": "Aero Cosmos",
+    "titleId": "1899658354",
     "isTitleBased": true
   },
   {
@@ -33515,6 +33635,11 @@
     "isTitleBased": true
   },
   {
+    "title": "NBA THE RUN",
+    "titleId": "1951198596",
+    "isTitleBased": false
+  },
+  {
     "title": "Bottle: Pilgrim Redux",
     "titleId": "1951263739",
     "isTitleBased": true
@@ -36575,6 +36700,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Rune Crystal: Adventure (XBOX XSX)",
+    "titleId": "1985898542",
+    "isTitleBased": true
+  },
+  {
     "title": "Transport Fever 3",
     "titleId": "1985991719",
     "isTitleBased": false
@@ -38837,6 +38967,11 @@
   {
     "title": "BLUE PROTOCOL",
     "titleId": "2012254339",
+    "isTitleBased": true
+  },
+  {
+    "title": "Knight's Quest (Xbox One)",
+    "titleId": "2012339516",
     "isTitleBased": true
   },
   {
@@ -41327,7 +41462,7 @@
   {
     "title": "Spikeball Smash",
     "titleId": "2038706527",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Blue Estate",
@@ -41978,6 +42113,11 @@
     "title": "Infinitesimals",
     "titleId": "2045248574",
     "isTitleBased": false
+  },
+  {
+    "title": "Dome Keeper",
+    "titleId": "2045404355",
+    "isTitleBased": true
   },
   {
     "title": "Last Days of Lazarus",
@@ -42917,6 +43057,11 @@
   {
     "title": "Selfloss",
     "titleId": "2057180360",
+    "isTitleBased": true
+  },
+  {
+    "title": "Space Adventure : Mercury",
+    "titleId": "2057206252",
     "isTitleBased": true
   },
   {
@@ -44495,7 +44640,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Tank Mechanik Simulator - Reinforced",
+    "title": "Tank Mechanic Simulator - Reinforced",
     "titleId": "2076626607",
     "isTitleBased": true
   },
@@ -45570,6 +45715,11 @@
     "isTitleBased": true
   },
   {
+    "title": "King's Justice",
+    "titleId": "2088669511",
+    "isTitleBased": true
+  },
+  {
     "title": "Star Trek: Legends",
     "titleId": "2088823549",
     "isTitleBased": true
@@ -46635,6 +46785,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Rune Crystal: Adventure (WINDOWS)",
+    "titleId": "2101582025",
+    "isTitleBased": true
+  },
+  {
     "title": "Call of Duty®: Black Ops II (2012)",
     "titleId": "2101621133",
     "isTitleBased": true
@@ -47692,6 +47847,11 @@
   {
     "title": "Armed Emeth",
     "titleId": "2115121424",
+    "isTitleBased": true
+  },
+  {
+    "title": "Card Storm Idle (Windows)",
+    "titleId": "2115124995",
     "isTitleBased": true
   },
   {

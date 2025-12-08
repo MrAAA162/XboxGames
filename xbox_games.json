@@ -9925,6 +9925,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Rabbit Samurai",
+    "titleId": "1677277800",
+    "isTitleBased": true
+  },
+  {
     "title": "Fresh Start",
     "titleId": "1677365393",
     "isTitleBased": true
@@ -16560,6 +16565,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Pixapple Adventure (Windows)",
+    "titleId": "1751873004",
+    "isTitleBased": true
+  },
+  {
     "title": "Alchemic Cutie",
     "titleId": "1751972840",
     "isTitleBased": true
@@ -17917,6 +17927,11 @@
   {
     "title": "Duck Detective: The Secret Salami",
     "titleId": "1766769256",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Cute Whale (Windows)",
+    "titleId": "1766787305",
     "isTitleBased": true
   },
   {
@@ -23870,7 +23885,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Senua's Saga: Hellblade II",
+    "title": "Senua’s Saga: Hellblade II",
     "titleId": "1835926818",
     "isTitleBased": true
   },
@@ -25392,6 +25407,11 @@
   {
     "title": "Speed Crew",
     "titleId": "1854205400",
+    "isTitleBased": true
+  },
+  {
+    "title": "Pixapple Adventure",
+    "titleId": "1854216614",
     "isTitleBased": true
   },
   {
@@ -27395,6 +27415,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Pixapple Adventure (Xbox Series)",
+    "titleId": "1877310417",
+    "isTitleBased": true
+  },
+  {
     "title": "Doodle God: Evolution",
     "titleId": "1877331117",
     "isTitleBased": true
@@ -29007,6 +29032,11 @@
   {
     "title": "Penguin Flight: Beyond The Clouds (Windows)",
     "titleId": "1895282289",
+    "isTitleBased": true
+  },
+  {
+    "title": "Speed Factor",
+    "titleId": "1895347830",
     "isTitleBased": true
   },
   {
@@ -30770,6 +30800,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Santa´s World",
+    "titleId": "1916066088",
+    "isTitleBased": true
+  },
+  {
     "title": "Camping Simulator: The Squad",
     "titleId": "1916243879",
     "isTitleBased": true
@@ -31332,6 +31367,11 @@
   {
     "title": "WRC 9 FIA World Rally Championship",
     "titleId": "1922758426",
+    "isTitleBased": true
+  },
+  {
+    "title": "Whiskey Mafia: Blacklist",
+    "titleId": "1922784782",
     "isTitleBased": true
   },
   {
@@ -32038,6 +32078,11 @@
     "title": "Sanity of Morris",
     "titleId": "1930899232",
     "isTitleBased": true
+  },
+  {
+    "title": "Brawlhalla",
+    "titleId": "1930939880",
+    "isTitleBased": false
   },
   {
     "title": "ACA NEOGEO NINJA COMMANDO for Windows",
@@ -33002,6 +33047,11 @@
   {
     "title": "Dyson Sphere Program (Game Preview)",
     "titleId": "1941812534",
+    "isTitleBased": true
+  },
+  {
+    "title": "Connect It!",
+    "titleId": "1941827560",
     "isTitleBased": true
   },
   {
@@ -35582,6 +35632,11 @@
   {
     "title": "Bite the Bullet",
     "titleId": "1971959570",
+    "isTitleBased": true
+  },
+  {
+    "title": "Bunninjutsu (Windows)",
+    "titleId": "1971962800",
     "isTitleBased": true
   },
   {
@@ -40150,6 +40205,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Night Swarm",
+    "titleId": "2023214653",
+    "isTitleBased": true
+  },
+  {
     "title": "FINAL FANTASY XII THE ZODIAC AGE",
     "titleId": "2023314060",
     "isTitleBased": true
@@ -44232,7 +44292,7 @@
   {
     "title": "Yakuza 0 Director's Cut",
     "titleId": "2069910424",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "While the Iron's Hot",

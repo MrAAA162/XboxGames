@@ -4190,6 +4190,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Mega Man: Dual Override",
+    "titleId": "1611801486",
+    "isTitleBased": false
+  },
+  {
     "title": "Undead Horde",
     "titleId": "1611809839",
     "isTitleBased": true
@@ -6515,6 +6520,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Balloball - Ribbit & Rescue",
+    "titleId": "1638157396",
+    "isTitleBased": true
+  },
+  {
     "title": "One Button Games 5-in-1 vol. 2 (Xbox One)",
     "titleId": "1638190340",
     "isTitleBased": true
@@ -8120,6 +8130,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Metal Shoot",
+    "titleId": "1654744318",
+    "isTitleBased": true
+  },
+  {
     "title": "Shotgun King: The Final Checkmate",
     "titleId": "1654809752",
     "isTitleBased": true
@@ -8542,6 +8557,11 @@
   {
     "title": "Long Ago: A Puzzle Tale",
     "titleId": "1661176840",
+    "isTitleBased": true
+  },
+  {
+    "title": "Metal Shoot (Windows)",
+    "titleId": "1661230965",
     "isTitleBased": true
   },
   {
@@ -12100,6 +12120,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Talisman: Digital 5th Edition",
+    "titleId": "1699999089",
+    "isTitleBased": true
+  },
+  {
     "title": "MADiSON",
     "titleId": "1700020315",
     "isTitleBased": true
@@ -12352,7 +12377,7 @@
   {
     "title": "Ink Inside",
     "titleId": "1702625940",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Genesis Noir",
@@ -12847,6 +12872,11 @@
   {
     "title": "Super Toy Cars 2",
     "titleId": "1708138487",
+    "isTitleBased": true
+  },
+  {
+    "title": "Metal Shoot (Xbox One)",
+    "titleId": "1708161234",
     "isTitleBased": true
   },
   {
@@ -13843,6 +13873,11 @@
     "title": "Knockout City™",
     "titleId": "1718892809",
     "isTitleBased": true
+  },
+  {
+    "title": "Laysara: Summit Kingdom",
+    "titleId": "1718932246",
+    "isTitleBased": false
   },
   {
     "title": "ドラゴンクエストXI 過ぎ去りし時を求めて S",
@@ -14985,6 +15020,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Explodera (Windows)",
+    "titleId": "1731389490",
+    "isTitleBased": true
+  },
+  {
     "title": "Puzzle by Nikoli W Hashiwokakero",
     "titleId": "1731512696",
     "isTitleBased": true
@@ -15027,7 +15067,7 @@
   {
     "title": "Prison Escape Simulator",
     "titleId": "1731967517",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Grounded 2",
@@ -15960,6 +16000,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Five Nights at Freddy's: Secret of the Mimic",
+    "titleId": "1743565876",
+    "isTitleBased": true
+  },
+  {
     "title": "World Soccer Strikers '91",
     "titleId": "1743668170",
     "isTitleBased": true
@@ -16267,6 +16312,11 @@
   {
     "title": "O.W.L Projekt 2",
     "titleId": "1747160445",
+    "isTitleBased": true
+  },
+  {
+    "title": "Pinball Jam",
+    "titleId": "1747192800",
     "isTitleBased": true
   },
   {
@@ -16710,6 +16760,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Axis Unseen",
+    "titleId": "1752312155",
+    "isTitleBased": true
+  },
+  {
     "title": "One Leaves",
     "titleId": "1752331738",
     "isTitleBased": true
@@ -16782,6 +16837,11 @@
   {
     "title": "CrushBorgs (Xbox One)",
     "titleId": "1753293863",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dreamscapes - Nightmare's Heir",
+    "titleId": "1753293920",
     "isTitleBased": true
   },
   {
@@ -17257,6 +17317,11 @@
   {
     "title": "Orangeblood (オレンジブラッド)",
     "titleId": "1757997794",
+    "isTitleBased": true
+  },
+  {
+    "title": "UNBEATABLE",
+    "titleId": "1758041918",
     "isTitleBased": true
   },
   {
@@ -19130,6 +19195,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Balloball - Ribbit & Rescue (Xbox One)",
+    "titleId": "1778964678",
+    "isTitleBased": true
+  },
+  {
     "title": "Deliver At All Costs",
     "titleId": "1779096288",
     "isTitleBased": true
@@ -19558,6 +19628,11 @@
     "title": "Station Manager",
     "titleId": "1784661676",
     "isTitleBased": true
+  },
+  {
+    "title": "Ozymandias",
+    "titleId": "1784709136",
+    "isTitleBased": false
   },
   {
     "title": "MIDNIGHT Remastered",
@@ -21085,7 +21160,12 @@
     "isTitleBased": true
   },
   {
-    "title": "THRONE AND LIBERTY",
+    "title": "Robot Detour",
+    "titleId": "1801802836",
+    "isTitleBased": false
+  },
+  {
+    "title": "Throne and Liberty",
     "titleId": "1801842805",
     "isTitleBased": true
   },
@@ -23812,6 +23892,11 @@
   {
     "title": "Raiden III x MIKADO MANIAX",
     "titleId": "1833216095",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dustland Delivery",
+    "titleId": "1833286656",
     "isTitleBased": true
   },
   {
@@ -26975,6 +27060,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Heroes Battle Awakening",
+    "titleId": "1870007286",
+    "isTitleBased": true
+  },
+  {
     "title": "Bear Squire Honey Journey (Xbox Series)",
     "titleId": "1870087215",
     "isTitleBased": true
@@ -27467,6 +27557,11 @@
   {
     "title": "Unlife",
     "titleId": "1875168330",
+    "isTitleBased": true
+  },
+  {
+    "title": "Explodera (Xbox One)",
+    "titleId": "1875356086",
     "isTitleBased": true
   },
   {
@@ -28082,6 +28177,11 @@
   {
     "title": "Neon Abyss",
     "titleId": "1882004205",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sugarbound 2 (Windows)",
+    "titleId": "1882015385",
     "isTitleBased": true
   },
   {
@@ -28775,6 +28875,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Abyss DX",
+    "titleId": "1890546098",
+    "isTitleBased": true
+  },
+  {
     "title": "くにおくん ザ・ワールド ～熱血高校ドッジボール部 サッカー編～",
     "titleId": "1890557199",
     "isTitleBased": true
@@ -29232,6 +29337,11 @@
   {
     "title": "Fallout 2",
     "titleId": "1895194085",
+    "isTitleBased": false
+  },
+  {
+    "title": "Scramble Knights Royale",
+    "titleId": "1895210075",
     "isTitleBased": false
   },
   {
@@ -30775,6 +30885,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Frog Hero DX (Xbox Series)",
+    "titleId": "1913328605",
+    "isTitleBased": true
+  },
+  {
     "title": "Bonkies",
     "titleId": "1913366360",
     "isTitleBased": true
@@ -31387,6 +31502,11 @@
   {
     "title": "Headbangers in Holiday Hell",
     "titleId": "1920102037",
+    "isTitleBased": true
+  },
+  {
+    "title": "Rhythm Doctor",
+    "titleId": "1920135375",
     "isTitleBased": true
   },
   {
@@ -32338,6 +32458,11 @@
     "title": "ACA NEOGEO NINJA MASTER'S for Windows",
     "titleId": "1931101789",
     "isTitleBased": true
+  },
+  {
+    "title": "Carry The Glass",
+    "titleId": "1931143698",
+    "isTitleBased": false
   },
   {
     "title": "Hanoi Puzzles: Solid Match",
@@ -33395,6 +33520,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Balloball - Ribbit & Rescue (Windows)",
+    "titleId": "1943048540",
+    "isTitleBased": true
+  },
+  {
     "title": "Need for Speed™ Payback - Deluxe Edition",
     "titleId": "1943072843",
     "isTitleBased": false
@@ -33602,6 +33732,11 @@
   {
     "title": "Idle Devils",
     "titleId": "1945528318",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 THE OUTFOXIES",
+    "titleId": "1945611477",
     "isTitleBased": true
   },
   {
@@ -35085,6 +35220,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Explodera (Xbox Series X/S)",
+    "titleId": "1962606919",
+    "isTitleBased": true
+  },
+  {
     "title": "Cataclismo",
     "titleId": "1962619691",
     "isTitleBased": true
@@ -36512,7 +36652,7 @@
   {
     "title": "Styx: Blades of Greed",
     "titleId": "1978396801",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Restless Night",
@@ -38657,6 +38797,11 @@
   {
     "title": "Journey of Johann: Grasslands (Windows)",
     "titleId": "2002744916",
+    "isTitleBased": true
+  },
+  {
+    "title": "Taxi Chaos 2",
+    "titleId": "2002760978",
     "isTitleBased": true
   },
   {
@@ -41020,6 +41165,11 @@
     "isTitleBased": true
   },
   {
+    "title": "ROMEO IS A DEAD MAN",
+    "titleId": "2028872815",
+    "isTitleBased": false
+  },
+  {
     "title": "Klang 2",
     "titleId": "2028900192",
     "isTitleBased": true
@@ -41372,6 +41522,11 @@
   {
     "title": "Crime Opera: The Butterfly Effect",
     "titleId": "2032430553",
+    "isTitleBased": true
+  },
+  {
+    "title": "Scott Whiskers: the Search for the Golden Cat",
+    "titleId": "2032487932",
     "isTitleBased": true
   },
   {
@@ -45440,6 +45595,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Legend of Princess Lyria",
+    "titleId": "2078497506",
+    "isTitleBased": true
+  },
+  {
     "title": "Ever Forward",
     "titleId": "2078510514",
     "isTitleBased": true
@@ -47605,6 +47765,11 @@
     "isTitleBased": true
   },
   {
+    "title": "STAR WARS: Galactic Racer™",
+    "titleId": "2103902874",
+    "isTitleBased": false
+  },
+  {
     "title": "Jetboard Joust",
     "titleId": "2104043870",
     "isTitleBased": true
@@ -47682,6 +47847,11 @@
   {
     "title": "Thunderflash",
     "titleId": "2104881444",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sugarbound 2 (Xbox Series X/S)",
+    "titleId": "2104908182",
     "isTitleBased": true
   },
   {
@@ -48222,6 +48392,11 @@
   {
     "title": "UDO - Unidentified Drilling Object",
     "titleId": "2111379233",
+    "isTitleBased": true
+  },
+  {
+    "title": "Frogo Deluxe",
+    "titleId": "2111437884",
     "isTitleBased": true
   },
   {
@@ -48968,6 +49143,11 @@
     "title": "NHL® 26 Xbox Series X|S",
     "titleId": "2119939858",
     "isTitleBased": true
+  },
+  {
+    "title": "The Bus",
+    "titleId": "2119970550",
+    "isTitleBased": false
   },
   {
     "title": "Severed Steel",
@@ -50450,6 +50630,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Where Is Billy",
+    "titleId": "2136832145",
+    "isTitleBased": true
+  },
+  {
     "title": "Sword of the Necromancer",
     "titleId": "2136865616",
     "isTitleBased": true
@@ -50922,6 +51107,11 @@
   {
     "title": "Jay and Silent Bob - Mall Brawl",
     "titleId": "2143076844",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sugarbound 2 (Xbox One)",
+    "titleId": "2143077030",
     "isTitleBased": true
   },
   {

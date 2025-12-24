@@ -4490,6 +4490,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Santa's Winter Wonders (Xbox One)",
+    "titleId": "1615299687",
+    "isTitleBased": true
+  },
+  {
     "title": "Carmen Sandiego",
     "titleId": "1615345863",
     "isTitleBased": true
@@ -5052,6 +5057,11 @@
   {
     "title": "Vigour",
     "titleId": "1621488506",
+    "isTitleBased": true
+  },
+  {
+    "title": "ROUTINE",
+    "titleId": "1621567212",
     "isTitleBased": true
   },
   {
@@ -6932,6 +6942,11 @@
   {
     "title": "TRANSFORMERS: EARTHSPARK - Expedition",
     "titleId": "1642785895",
+    "isTitleBased": true
+  },
+  {
+    "title": "S.P.E.A.R.",
+    "titleId": "1642813872",
     "isTitleBased": true
   },
   {
@@ -8845,6 +8860,11 @@
     "isTitleBased": true
   },
   {
+    "title": "ARC SEED",
+    "titleId": "1664766652",
+    "isTitleBased": false
+  },
+  {
     "title": "Void Gore",
     "titleId": "1664766972",
     "isTitleBased": true
@@ -9442,6 +9462,11 @@
   {
     "title": "Sally’s Law",
     "titleId": "1670858085",
+    "isTitleBased": true
+  },
+  {
+    "title": "Baking Time",
+    "titleId": "1670910658",
     "isTitleBased": true
   },
   {
@@ -10127,6 +10152,11 @@
   {
     "title": "メガクアリウム",
     "titleId": "1678666345",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hidden Legends",
+    "titleId": "1678726548",
     "isTitleBased": true
   },
   {
@@ -11210,6 +11240,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Terminator 2D: NO FATE",
+    "titleId": "1691117579",
+    "isTitleBased": true
+  },
+  {
     "title": "Pocket Harvest",
     "titleId": "1691178517",
     "isTitleBased": true
@@ -11323,6 +11358,11 @@
     "title": "Duskfade",
     "titleId": "1692013692",
     "isTitleBased": false
+  },
+  {
+    "title": "OCTOPATH TRAVELER 0",
+    "titleId": "1692022171",
+    "isTitleBased": true
   },
   {
     "title": "Madness Beverage",
@@ -13477,6 +13517,11 @@
   {
     "title": "Mortisomem",
     "titleId": "1714539163",
+    "isTitleBased": true
+  },
+  {
+    "title": "It’s Quiz Time: GUINNESS WORLD RECORDS™ Edition",
+    "titleId": "1714585519",
     "isTitleBased": true
   },
   {
@@ -16125,6 +16170,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Nova Roma (Game Preview)",
+    "titleId": "1744612607",
+    "isTitleBased": false
+  },
+  {
     "title": "Enlisted",
     "titleId": "1744726864",
     "isTitleBased": true
@@ -16272,6 +16322,11 @@
   {
     "title": "Centum",
     "titleId": "1746598240",
+    "isTitleBased": true
+  },
+  {
+    "title": "Super Juicy Stack",
+    "titleId": "1746686696",
     "isTitleBased": true
   },
   {
@@ -17005,6 +17060,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Jelly & Toast",
+    "titleId": "1755042146",
+    "isTitleBased": true
+  },
+  {
     "title": "Miles & Kilo",
     "titleId": "1755111561",
     "isTitleBased": true
@@ -17187,6 +17247,11 @@
   {
     "title": "One Step From Eden",
     "titleId": "1756731867",
+    "isTitleBased": true
+  },
+  {
+    "title": "Escape From Crypt",
+    "titleId": "1756856812",
     "isTitleBased": true
   },
   {
@@ -17807,6 +17872,11 @@
   {
     "title": "Last Call BBS",
     "titleId": "1763433349",
+    "isTitleBased": true
+  },
+  {
+    "title": "Aerial_Knight's DropShot",
+    "titleId": "1763444345",
     "isTitleBased": true
   },
   {
@@ -18477,6 +18547,11 @@
   {
     "title": "Ashes of the Singularity: Escalation",
     "titleId": "1771471711",
+    "isTitleBased": true
+  },
+  {
+    "title": "Santa's Winter Wonders",
+    "titleId": "1771555773",
     "isTitleBased": true
   },
   {
@@ -20240,6 +20315,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Heroic Knight (XBOX ONE)",
+    "titleId": "1791030843",
+    "isTitleBased": true
+  },
+  {
     "title": "Flowers by POWGI",
     "titleId": "1791067482",
     "isTitleBased": true
@@ -20382,6 +20462,16 @@
   {
     "title": "Twilight Parade: Moonlit Mononoke",
     "titleId": "1792591612",
+    "isTitleBased": true
+  },
+  {
+    "title": "Recipe of Love",
+    "titleId": "1792602168",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Heroic Knight (XBOX XSX)",
+    "titleId": "1792631514",
     "isTitleBased": true
   },
   {
@@ -23567,6 +23657,11 @@
   {
     "title": "Kuroi Tsubasa",
     "titleId": "1829519144",
+    "isTitleBased": true
+  },
+  {
+    "title": "Escape From Crypt (Windows)",
+    "titleId": "1829523781",
     "isTitleBased": true
   },
   {
@@ -26815,6 +26910,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Portal Balls",
+    "titleId": "1866843599",
+    "isTitleBased": true
+  },
+  {
     "title": "The Ouroboros King",
     "titleId": "1866860268",
     "isTitleBased": true
@@ -27865,6 +27965,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Neopets - Mega Mini Games Collection - The Neopian Arcade Odyssey",
+    "titleId": "1879257561",
+    "isTitleBased": false
+  },
+  {
     "title": "Arenas Of Tanks",
     "titleId": "1879302762",
     "isTitleBased": true
@@ -28030,7 +28135,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Farming Simulator 22 PC",
+    "title": "Farming Simulator 22 (PC)",
     "titleId": "1880744816",
     "isTitleBased": true
   },
@@ -28165,6 +28270,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Aggelos 2",
+    "titleId": "1881951552",
+    "isTitleBased": false
+  },
+  {
     "title": "Effie",
     "titleId": "1881981363",
     "isTitleBased": true
@@ -28292,6 +28402,11 @@
   {
     "title": "Kingdom's Dungeon Rage",
     "titleId": "1883651708",
+    "isTitleBased": true
+  },
+  {
+    "title": "Big Trouble in Little Chimney",
+    "titleId": "1883688902",
     "isTitleBased": true
   },
   {
@@ -29425,6 +29540,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Soulslinger: Envoy of Death",
+    "titleId": "1896019236",
+    "isTitleBased": true
+  },
+  {
     "title": "New Lands",
     "titleId": "1896156784",
     "isTitleBased": true
@@ -29920,6 +30040,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Frog Hero DX (Xbox One)",
+    "titleId": "1901564989",
+    "isTitleBased": true
+  },
+  {
     "title": "Pocket Witch",
     "titleId": "1901570748",
     "isTitleBased": true
@@ -30082,6 +30207,11 @@
   {
     "title": "Princess.Loot.Pixel.Again x2",
     "titleId": "1903482177",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hypercar Racing",
+    "titleId": "1903587308",
     "isTitleBased": true
   },
   {
@@ -34825,6 +34955,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Ink & Paper: DoodleCut",
+    "titleId": "1958367936",
+    "isTitleBased": true
+  },
+  {
     "title": "Pilot Sports (Xbox Series)",
     "titleId": "1958439929",
     "isTitleBased": true
@@ -34917,6 +35052,11 @@
   {
     "title": "Cloud Gardens",
     "titleId": "1959439919",
+    "isTitleBased": true
+  },
+  {
+    "title": "Nom Nom Apocalypse",
+    "titleId": "1959451456",
     "isTitleBased": true
   },
   {
@@ -35507,6 +35647,11 @@
   {
     "title": "Capcom Fighting Collection 2",
     "titleId": "1965711939",
+    "isTitleBased": true
+  },
+  {
+    "title": "Escape From Crypt (Xbox One)",
+    "titleId": "1965860022",
     "isTitleBased": true
   },
   {
@@ -38130,6 +38275,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Super Juicy Stack (Windows)",
+    "titleId": "1995450845",
+    "isTitleBased": true
+  },
+  {
     "title": "Lost Chiko 2",
     "titleId": "1995532377",
     "isTitleBased": true
@@ -39397,6 +39547,11 @@
   {
     "title": "To Leave",
     "titleId": "2009857191",
+    "isTitleBased": true
+  },
+  {
+    "title": "Frog Hero DX (Windows)",
+    "titleId": "2010003462",
     "isTitleBased": true
   },
   {
@@ -40997,6 +41152,11 @@
   {
     "title": "Ori and the Blind Forest: Definitive Edition - Nintendo Switch",
     "titleId": "2027066829",
+    "isTitleBased": true
+  },
+  {
+    "title": "Santa's Winter Wonders (Windows)",
+    "titleId": "2027159497",
     "isTitleBased": true
   },
   {
@@ -44022,6 +44182,11 @@
   {
     "title": "Draw Rider Remake",
     "titleId": "2060016328",
+    "isTitleBased": true
+  },
+  {
+    "title": "Milano's Odd Job Collection",
+    "titleId": "2060036138",
     "isTitleBased": true
   },
   {
@@ -47920,6 +48085,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Super Juicy Stack (Xbox One)",
+    "titleId": "2105436170",
+    "isTitleBased": true
+  },
+  {
     "title": "Ziggurat 2",
     "titleId": "2105437858",
     "isTitleBased": true
@@ -49615,6 +49785,11 @@
     "isTitleBased": true
   },
   {
+    "title": "ABSURDIKA: Rebuild",
+    "titleId": "2125567739",
+    "isTitleBased": true
+  },
+  {
     "title": "Infinite Links",
     "titleId": "2125612458",
     "isTitleBased": true
@@ -49997,6 +50172,11 @@
   {
     "title": "Indivisible",
     "titleId": "2129874876",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dunjungle",
+    "titleId": "2130058908",
     "isTitleBased": true
   },
   {
@@ -50395,6 +50575,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Heroic Knight (WINDOWS)",
+    "titleId": "2134392885",
+    "isTitleBased": true
+  },
+  {
     "title": "Napoleon Maiden Episode.1 A maiden without the word impossible",
     "titleId": "2134452185",
     "isTitleBased": true
@@ -50457,7 +50642,7 @@
   {
     "title": "Dragon Spira",
     "titleId": "2135204797",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Tamarin®",

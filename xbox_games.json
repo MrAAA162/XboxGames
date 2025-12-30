@@ -7610,6 +7610,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Xmas Survivors",
+    "titleId": "1649362500",
+    "isTitleBased": true
+  },
+  {
     "title": "The Entropy Centre",
     "titleId": "1649386760",
     "isTitleBased": true
@@ -7855,6 +7860,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Deep Combat (Windows)",
+    "titleId": "1651856348",
+    "isTitleBased": true
+  },
+  {
     "title": "FANTASIAN Neo Dimension",
     "titleId": "1651975869",
     "isTitleBased": true
@@ -7862,6 +7872,11 @@
   {
     "title": "The Bluecoats: North & South",
     "titleId": "1651981610",
+    "isTitleBased": true
+  },
+  {
+    "title": "Deep Combat (Xbox Series)",
+    "titleId": "1652239449",
     "isTitleBased": true
   },
   {
@@ -10510,6 +10525,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Fast Food Master 2025",
+    "titleId": "1682676286",
+    "isTitleBased": true
+  },
+  {
     "title": "9 Monkeys of Shaolin",
     "titleId": "1682735559",
     "isTitleBased": true
@@ -11438,6 +11458,11 @@
     "title": "Undertale (PC)",
     "titleId": "1692615984",
     "isTitleBased": false
+  },
+  {
+    "title": "Cowboys",
+    "titleId": "1692643519",
+    "isTitleBased": true
   },
   {
     "title": "SNIPER Ghost Warrior 3",
@@ -13117,6 +13142,11 @@
   {
     "title": "Four Kings: Video Poker",
     "titleId": "1710204513",
+    "isTitleBased": true
+  },
+  {
+    "title": "60 Minutes to Extinction: Escape Room",
+    "titleId": "1710314584",
     "isTitleBased": true
   },
   {
@@ -16397,6 +16427,11 @@
   {
     "title": "Long Live The Queen",
     "titleId": "1747406716",
+    "isTitleBased": true
+  },
+  {
+    "title": "Deep Combat",
+    "titleId": "1747417205",
     "isTitleBased": true
   },
   {
@@ -25060,6 +25095,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Escape the Abyss (XBox Series)",
+    "titleId": "1845944662",
+    "isTitleBased": true
+  },
+  {
     "title": "Next of Kin: Fidelity",
     "titleId": "1845962995",
     "isTitleBased": true
@@ -25377,7 +25417,7 @@
   {
     "title": "Super Farming Boy",
     "titleId": "1849402866",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "ACA NEOGEO SUPER SIDEKICKS",
@@ -25922,6 +25962,11 @@
   {
     "title": "Carnage: Battle Arena",
     "titleId": "1856200373",
+    "isTitleBased": true
+  },
+  {
+    "title": "KEJORA",
+    "titleId": "1856275868",
     "isTitleBased": true
   },
   {
@@ -28480,6 +28525,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cowboys (Windows)",
+    "titleId": "1884622989",
+    "isTitleBased": true
+  },
+  {
     "title": "DOUBLE DRAGON Ⅲ: The Sacred Stones",
     "titleId": "1884638750",
     "isTitleBased": true
@@ -28973,6 +29023,11 @@
     "title": "Q.U.B.E. 10th Anniversary",
     "titleId": "1890189073",
     "isTitleBased": true
+  },
+  {
+    "title": "Mistfall Hunter",
+    "titleId": "1890326099",
+    "isTitleBased": false
   },
   {
     "title": "Lab Crisis (for Windows 10)",
@@ -32570,6 +32625,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Cowboys (Xbox One)",
+    "titleId": "1930946558",
+    "isTitleBased": true
+  },
+  {
     "title": "ACA NEOGEO NINJA COMMANDO for Windows",
     "titleId": "1931017847",
     "isTitleBased": true
@@ -33575,6 +33635,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Skinwalker 3D",
+    "titleId": "1942055330",
+    "isTitleBased": true
+  },
+  {
     "title": "WARSAW Console Edition",
     "titleId": "1942139816",
     "isTitleBased": true
@@ -33592,6 +33657,11 @@
   {
     "title": "Ah, Love! Season 2",
     "titleId": "1942395876",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 SPACE INVADERS",
+    "titleId": "1942422687",
     "isTitleBased": true
   },
   {
@@ -36525,6 +36595,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cats Around Us: Giant Cat",
+    "titleId": "1975108272",
+    "isTitleBased": true
+  },
+  {
     "title": "DESERTED",
     "titleId": "1975199233",
     "isTitleBased": true
@@ -39435,6 +39510,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Ultimate General: Civil War",
+    "titleId": "2008180842",
+    "isTitleBased": false
+  },
+  {
     "title": "The Snow Fable: Mystery of the Flame",
     "titleId": "2008218446",
     "isTitleBased": true
@@ -39772,6 +39852,11 @@
   {
     "title": "Knight's Quest (Xbox One)",
     "titleId": "2012339516",
+    "isTitleBased": true
+  },
+  {
+    "title": "Escape the Abyss",
+    "titleId": "2012395285",
     "isTitleBased": true
   },
   {
@@ -44457,6 +44542,11 @@
   {
     "title": "Tin Can",
     "titleId": "2063021282",
+    "isTitleBased": true
+  },
+  {
+    "title": "Escape the Abyss (Windows)",
+    "titleId": "2063026349",
     "isTitleBased": true
   },
   {
@@ -49465,6 +49555,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Owlen and the Spirits of the Past",
+    "titleId": "2121496095",
+    "isTitleBased": true
+  },
+  {
     "title": "Once Upon A KATAMARI",
     "titleId": "2121532136",
     "isTitleBased": true
@@ -50642,6 +50737,11 @@
   {
     "title": "Dragon Spira",
     "titleId": "2135204797",
+    "isTitleBased": true
+  },
+  {
+    "title": "Apartment No 129",
+    "titleId": "2135232781",
     "isTitleBased": true
   },
   {

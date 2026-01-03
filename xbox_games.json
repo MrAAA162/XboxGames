@@ -5720,6 +5720,11 @@
     "isTitleBased": true
   },
   {
+    "title": "JellyCar Worlds",
+    "titleId": "1629080596",
+    "isTitleBased": true
+  },
+  {
     "title": "Agatha Christie - Murder on the Orient Express",
     "titleId": "1629096088",
     "isTitleBased": true
@@ -10965,6 +10970,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cyberpunk Hacker",
+    "titleId": "1687888708",
+    "isTitleBased": true
+  },
+  {
     "title": "Mahjong by Microsoft",
     "titleId": "1687910025",
     "isTitleBased": true
@@ -12638,6 +12648,11 @@
     "title": "Paper Flight - Speed Rush",
     "titleId": "1704985822",
     "isTitleBased": true
+  },
+  {
+    "title": "SCAD",
+    "titleId": "1704994255",
+    "isTitleBased": false
   },
   {
     "title": "Altheia: The Wrath of Aferi",
@@ -19705,6 +19720,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Bob The Brick Breaker",
+    "titleId": "1783894998",
+    "isTitleBased": true
+  },
+  {
     "title": "Avatar: Frontiers of Pandora",
     "titleId": "1783996242",
     "isTitleBased": false
@@ -22442,6 +22462,11 @@
   {
     "title": "Archaica: The Path Of Light",
     "titleId": "1814475633",
+    "isTitleBased": true
+  },
+  {
+    "title": "Zumba - Marble Candy Rush",
+    "titleId": "1814477017",
     "isTitleBased": true
   },
   {
@@ -27640,6 +27665,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Super Polygon Grand Prix",
+    "titleId": "1874625738",
+    "isTitleBased": false
+  },
+  {
     "title": "Danger Goat",
     "titleId": "1874718920",
     "isTitleBased": true
@@ -27763,6 +27793,11 @@
     "title": "The Sisters - Party of the Year",
     "titleId": "1875984690",
     "isTitleBased": true
+  },
+  {
+    "title": "Robots at Midnight 1",
+    "titleId": "1875997366",
+    "isTitleBased": false
   },
   {
     "title": "Tom Clancy’s Ghost Recon Wildlands",
@@ -30167,6 +30202,11 @@
   {
     "title": "Hell is Us",
     "titleId": "1902411725",
+    "isTitleBased": true
+  },
+  {
+    "title": "God bless, or Goddess",
+    "titleId": "1902420355",
     "isTitleBased": true
   },
   {
@@ -34385,6 +34425,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Castle of Monsters: The Last Knight (Windows)",
+    "titleId": "1950909933",
+    "isTitleBased": true
+  },
+  {
     "title": "Submerged",
     "titleId": "1951040150",
     "isTitleBased": false
@@ -35647,6 +35692,11 @@
   {
     "title": "Vampire's Fall: Origins",
     "titleId": "1964791683",
+    "isTitleBased": true
+  },
+  {
+    "title": "DreadOut Remastered Collection",
+    "titleId": "1964799107",
     "isTitleBased": true
   },
   {
@@ -43355,6 +43405,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Castle of Monsters: The Last Knight (XBOX SERIES)",
+    "titleId": "2048641965",
+    "isTitleBased": true
+  },
+  {
     "title": "Goosebumps Dead of Night",
     "titleId": "2048825105",
     "isTitleBased": true
@@ -48200,6 +48255,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Arcade Archives 2 SPACE INVADERS PART II",
+    "titleId": "2105832026",
+    "isTitleBased": true
+  },
+  {
     "title": "Primal Fray",
     "titleId": "2105890016",
     "isTitleBased": true
@@ -51462,6 +51522,11 @@
   {
     "title": "Warhammer 40K: Space Wolf",
     "titleId": "2143442761",
+    "isTitleBased": true
+  },
+  {
+    "title": "Castle of Monsters: The Last Knight",
+    "titleId": "2143478632",
     "isTitleBased": true
   },
   {

@@ -5760,6 +5760,11 @@
     "isTitleBased": false
   },
   {
+    "title": "One Button Games 5-in-1 vol. 3 (Xbox One)",
+    "titleId": "1629371144",
+    "isTitleBased": true
+  },
+  {
     "title": "Trenches",
     "titleId": "1629390872",
     "isTitleBased": true
@@ -11685,6 +11690,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Neural Requiem",
+    "titleId": "1694445171",
+    "isTitleBased": true
+  },
+  {
     "title": "Life is Strange: True Colors",
     "titleId": "1694487955",
     "isTitleBased": true
@@ -15230,6 +15240,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Bus Driving Simulator : EVO",
+    "titleId": "1733243424",
+    "isTitleBased": true
+  },
+  {
     "title": "Teardown",
     "titleId": "1733257076",
     "isTitleBased": true
@@ -18267,6 +18282,11 @@
   {
     "title": "Everdream Village",
     "titleId": "1767472990",
+    "isTitleBased": true
+  },
+  {
+    "title": "8-Bit Selection: Arcade Replay (Xbox One)",
+    "titleId": "1767641407",
     "isTitleBased": true
   },
   {
@@ -22300,6 +22320,11 @@
     "isTitleBased": true
   },
   {
+    "title": "One Button Games 5-in-1 vol. 3",
+    "titleId": "1812726723",
+    "isTitleBased": true
+  },
+  {
     "title": "Super Soccer Blast: America vs Europe",
     "titleId": "1812793649",
     "isTitleBased": true
@@ -24302,6 +24327,11 @@
   {
     "title": "Bem Feito",
     "titleId": "1836167982",
+    "isTitleBased": true
+  },
+  {
+    "title": "8-Bit Selection: Arcade Replay (Windows)",
+    "titleId": "1836220700",
     "isTitleBased": true
   },
   {
@@ -33850,6 +33880,11 @@
     "isTitleBased": false
   },
   {
+    "title": "SimRail - The Railway Simulator",
+    "titleId": "1944507069",
+    "isTitleBased": true
+  },
+  {
     "title": "Danger!Energy (for Windows 10)",
     "titleId": "1944583825",
     "isTitleBased": true
@@ -37465,7 +37500,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Terra Invicta (Game Preview)",
+    "title": "Terra Invicta",
     "titleId": "1984687290",
     "isTitleBased": true
   },
@@ -40392,6 +40427,11 @@
   {
     "title": "METAL GEAR SOLID 2: Sons of Liberty - Master Collection Version",
     "titleId": "2017826215",
+    "isTitleBased": true
+  },
+  {
+    "title": "One Button Games 5-in-1 vol. 3 (Windows)",
+    "titleId": "2017836801",
     "isTitleBased": true
   },
   {
@@ -46377,6 +46417,11 @@
   {
     "title": "Lucha Align (Xbox Series)",
     "titleId": "2083239119",
+    "isTitleBased": true
+  },
+  {
+    "title": "8-Bit Selection: Arcade Replay",
+    "titleId": "2083281538",
     "isTitleBased": true
   },
   {

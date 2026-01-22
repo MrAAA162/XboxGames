@@ -4450,6 +4450,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arcade Archives 2 LABYRINTH RUNNER",
+    "titleId": "1614548080",
+    "isTitleBased": true
+  },
+  {
     "title": "NO LAW",
     "titleId": "1614603315",
     "isTitleBased": false
@@ -4482,7 +4487,7 @@
   {
     "title": "Liquor Store Simulator",
     "titleId": "1615223185",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Walking Dead: The Telltale Definitive Series",
@@ -4590,7 +4595,7 @@
     "isTitleBased": false
   },
   {
-    "title": "PAYDAY 3",
+    "title": "Payday 3",
     "titleId": "1616307670",
     "isTitleBased": true
   },
@@ -4692,6 +4697,11 @@
   {
     "title": "Antarctica 88",
     "titleId": "1617403262",
+    "isTitleBased": true
+  },
+  {
+    "title": "Grimoire of Domance (Xbox One)",
+    "titleId": "1617526192",
     "isTitleBased": true
   },
   {
@@ -5162,6 +5172,11 @@
   {
     "title": "Gabriels Worlds The Sokoban Adventure (Windows)",
     "titleId": "1622515949",
+    "isTitleBased": true
+  },
+  {
+    "title": "Scorchy Sky Trials (Xbox One)",
+    "titleId": "1622671280",
     "isTitleBased": true
   },
   {
@@ -10250,6 +10265,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dark Dungeon Mind Mess (Windows)",
+    "titleId": "1679089415",
+    "isTitleBased": true
+  },
+  {
     "title": "Aery - Flow of Time",
     "titleId": "1679089780",
     "isTitleBased": true
@@ -10467,7 +10487,7 @@
   {
     "title": "Mini Racer Car Shop Simulator",
     "titleId": "1681449229",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Cat and Ghostly Road",
@@ -13435,6 +13455,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Bubblegum Galaxy",
+    "titleId": "1712454405",
+    "isTitleBased": true
+  },
+  {
     "title": "Jewel Match Twilight Solitaire",
     "titleId": "1712474538",
     "isTitleBased": true
@@ -14917,6 +14942,11 @@
   {
     "title": "Dead Station 2",
     "titleId": "1728827647",
+    "isTitleBased": true
+  },
+  {
+    "title": "KLETKA",
+    "titleId": "1728837206",
     "isTitleBased": true
   },
   {
@@ -34845,7 +34875,7 @@
     "isTitleBased": true
   },
   {
-    "title": "RoboQuest (1996)",
+    "title": "Roboquest",
     "titleId": "1953745880",
     "isTitleBased": true
   },
@@ -39035,6 +39065,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Grimoire of Domance (Windows)",
+    "titleId": "2000142592",
+    "isTitleBased": true
+  },
+  {
     "title": "Party Arcade",
     "titleId": "2000145726",
     "isTitleBased": true
@@ -41577,7 +41612,7 @@
   {
     "title": "MIO: Memories in Orbit",
     "titleId": "2028249570",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Call of Duty® (2003)",
@@ -41728,6 +41763,11 @@
     "title": "Battlefield™ Hardline Ultimate Edition",
     "titleId": "2029330837",
     "isTitleBased": false
+  },
+  {
+    "title": "Scorchy Sky Trials (Xbox Series X/S)",
+    "titleId": "2029383366",
+    "isTitleBased": true
   },
   {
     "title": "The Renovator: Origins",
@@ -45190,7 +45230,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Awaysis",
+    "title": "Awaysis Cult",
     "titleId": "2068013213",
     "isTitleBased": false
   },
@@ -46985,6 +47025,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Grimoire of Domance",
+    "titleId": "2088402277",
+    "isTitleBased": true
+  },
+  {
     "title": "Cursed Island",
     "titleId": "2088418581",
     "isTitleBased": true
@@ -48627,6 +48672,11 @@
   {
     "title": "Colorful Colore (for Windows 10)",
     "titleId": "2107467778",
+    "isTitleBased": true
+  },
+  {
+    "title": "Scorchy Sky Trials (Windows)",
+    "titleId": "2107472532",
     "isTitleBased": true
   },
   {

@@ -4595,7 +4595,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Payday 3",
+    "title": "PAYDAY 3",
     "titleId": "1616307670",
     "isTitleBased": true
   },
@@ -4747,6 +4747,11 @@
   {
     "title": "Ultimate Zombie Defense",
     "titleId": "1617989368",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hidden Cats in Christmas",
+    "titleId": "1618000323",
     "isTitleBased": true
   },
   {
@@ -6090,6 +6095,11 @@
     "isTitleBased": false
   },
   {
+    "title": "SUDOKU CHAMPIONS",
+    "titleId": "1632226634",
+    "isTitleBased": true
+  },
+  {
     "title": "Megaton Rainfall",
     "titleId": "1632270119",
     "isTitleBased": true
@@ -6552,6 +6562,11 @@
   {
     "title": "Enter Digiton: Heart of Corruption",
     "titleId": "1637686590",
+    "isTitleBased": true
+  },
+  {
+    "title": "FRONT MISSION 3: Remake",
+    "titleId": "1637733007",
     "isTitleBased": true
   },
   {
@@ -8505,6 +8520,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Guess the Flag! - World Flags Quiz",
+    "titleId": "1658533947",
+    "isTitleBased": true
+  },
+  {
     "title": "Check and Slash",
     "titleId": "1658699936",
     "isTitleBased": true
@@ -9230,6 +9250,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Trans-Siberian Railway Simulator",
+    "titleId": "1668008160",
+    "isTitleBased": false
+  },
+  {
     "title": "Bonk 'N Bash (Xbox One)",
     "titleId": "1668063217",
     "isTitleBased": true
@@ -9935,6 +9960,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Drop Duchy - Complete Edition",
+    "titleId": "1675325475",
+    "isTitleBased": true
+  },
+  {
     "title": "CORE.SYS",
     "titleId": "1675361117",
     "isTitleBased": true
@@ -10387,7 +10417,7 @@
   {
     "title": "Backrooms Level X",
     "titleId": "1680129182",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "FATAL FRAME II: Crimson Butterfly REMAKE",
@@ -10533,6 +10563,11 @@
     "title": "BIT.TRIP RERUNNER",
     "titleId": "1681944003",
     "isTitleBased": true
+  },
+  {
+    "title": "House Flipper Remastered Collection",
+    "titleId": "1682140320",
+    "isTitleBased": false
   },
   {
     "title": "DPS Idle (Windows 10)",
@@ -11130,7 +11165,7 @@
     "isTitleBased": false
   },
   {
-    "title": "TCG Card Shop Simulator",
+    "title": "TCG Card Shop Simulator (Game Preview)",
     "titleId": "1689317374",
     "isTitleBased": false
   },
@@ -12445,6 +12480,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Zumba World - The Crazy Marble Dimension",
+    "titleId": "1701830204",
+    "isTitleBased": true
+  },
+  {
     "title": "Dungeons and Ducklings",
     "titleId": "1701866186",
     "isTitleBased": true
@@ -13213,6 +13253,11 @@
     "title": "Super Space Serpent SE",
     "titleId": "1710095421",
     "isTitleBased": true
+  },
+  {
+    "title": "Brave Escape",
+    "titleId": "1710121709",
+    "isTitleBased": false
   },
   {
     "title": "Ship Graveyard Simulator",
@@ -15225,6 +15270,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Farm Manager World",
+    "titleId": "1731736563",
+    "isTitleBased": false
+  },
+  {
     "title": "Harmony's Odyssey",
     "titleId": "1731861322",
     "isTitleBased": true
@@ -16212,6 +16262,11 @@
   {
     "title": "Total War: Warhammer II",
     "titleId": "1743835404",
+    "isTitleBased": true
+  },
+  {
+    "title": "Down Among the Dead Men",
+    "titleId": "1743873119",
     "isTitleBased": true
   },
   {
@@ -17520,6 +17575,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Primal Dungeon Adventure",
+    "titleId": "1757984809",
+    "isTitleBased": true
+  },
+  {
     "title": "AMEDAMA",
     "titleId": "1757993527",
     "isTitleBased": true
@@ -18455,6 +18515,11 @@
     "isTitleBased": true
   },
   {
+    "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+    "titleId": "1768256893",
+    "isTitleBased": true
+  },
+  {
     "title": "Mina & Michi",
     "titleId": "1768344349",
     "isTitleBased": true
@@ -18803,6 +18868,11 @@
     "title": "Star Hunter DX",
     "titleId": "1772442243",
     "isTitleBased": true
+  },
+  {
+    "title": "Driftland: The Magic Revival",
+    "titleId": "1772513621",
+    "isTitleBased": false
   },
   {
     "title": "Star Salvager",
@@ -21415,6 +21485,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Woodturning 3D",
+    "titleId": "1801459191",
+    "isTitleBased": true
+  },
+  {
     "title": "F1® 2021",
     "titleId": "1801537563",
     "isTitleBased": true
@@ -22103,6 +22178,11 @@
     "title": "Crashlands",
     "titleId": "1808911215",
     "isTitleBased": true
+  },
+  {
+    "title": "Lil Gator Game: Gator of the Year Edition",
+    "titleId": "1808985417",
+    "isTitleBased": false
   },
   {
     "title": "Leo & Mia: Animal Rescue",
@@ -23275,7 +23355,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Greedfall II: The Dying World",
+    "title": "GreedFall: The Dying World",
     "titleId": "1823111797",
     "isTitleBased": false
   },
@@ -24402,6 +24482,11 @@
   {
     "title": "OUT OF THE BOX: Xbox Edition",
     "titleId": "1835698645",
+    "isTitleBased": true
+  },
+  {
+    "title": "\"Buy The Game, I Have a Gun\" -Sheesh-Man",
+    "titleId": "1835777563",
     "isTitleBased": true
   },
   {
@@ -26135,6 +26220,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Sims™ + The Sims Packs",
+    "titleId": "1856025525",
+    "isTitleBased": false
+  },
+  {
     "title": "Game of Thrones - Episode 1: Iron from Ice",
     "titleId": "1856172970",
     "isTitleBased": false
@@ -26147,6 +26237,11 @@
   {
     "title": "KEJORA",
     "titleId": "1856275868",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Monty Mole Collection",
+    "titleId": "1856388864",
     "isTitleBased": true
   },
   {
@@ -26570,6 +26665,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Ho Ho & Move",
+    "titleId": "1860846982",
+    "isTitleBased": true
+  },
+  {
     "title": "Don't Touch this Button!",
     "titleId": "1860933161",
     "isTitleBased": true
@@ -26937,6 +27037,11 @@
   {
     "title": "Wytchwood",
     "titleId": "1864964873",
+    "isTitleBased": true
+  },
+  {
+    "title": "Crosak",
+    "titleId": "1864970642",
     "isTitleBased": true
   },
   {
@@ -28815,6 +28920,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Lovish",
+    "titleId": "1885543318",
+    "isTitleBased": true
+  },
+  {
     "title": "Lab Crisis",
     "titleId": "1885571558",
     "isTitleBased": true
@@ -29140,6 +29250,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Sims™ 2 + The Sims™ 2 Packs",
+    "titleId": "1889369256",
+    "isTitleBased": false
+  },
+  {
     "title": "Roller Champions™",
     "titleId": "1889456287",
     "isTitleBased": true
@@ -29317,6 +29432,11 @@
   {
     "title": "Find Love Or Die Trying",
     "titleId": "1890818188",
+    "isTitleBased": true
+  },
+  {
+    "title": "Harvest Cafe",
+    "titleId": "1890858421",
     "isTitleBased": true
   },
   {
@@ -30620,6 +30740,11 @@
     "isTitleBased": true
   },
   {
+    "title": "American Theft 80s",
+    "titleId": "1905197072",
+    "isTitleBased": true
+  },
+  {
     "title": "HARDCORE MECHA",
     "titleId": "1905384300",
     "isTitleBased": true
@@ -30702,6 +30827,11 @@
   {
     "title": "Two Falls (Nishu Takuatshina)",
     "titleId": "1906488246",
+    "isTitleBased": true
+  },
+  {
+    "title": "Centipede Gun",
+    "titleId": "1906559752",
     "isTitleBased": true
   },
   {
@@ -34545,6 +34675,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Desvelado",
+    "titleId": "1950200874",
+    "isTitleBased": true
+  },
+  {
     "title": "Gift (Xbox Series X|S Edition)",
     "titleId": "1950245043",
     "isTitleBased": true
@@ -36550,6 +36685,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Car Cops",
+    "titleId": "1972377758",
+    "isTitleBased": true
+  },
+  {
     "title": "The Pillar: Puzzle Escape",
     "titleId": "1972399135",
     "isTitleBased": true
@@ -37910,6 +38050,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Real Cake Maker",
+    "titleId": "1987026938",
+    "isTitleBased": true
+  },
+  {
     "title": "Alfonzo's Arctic Adventure",
     "titleId": "1987078176",
     "isTitleBased": true
@@ -38525,6 +38670,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Heart of the Forest",
+    "titleId": "1993844394",
+    "isTitleBased": false
+  },
+  {
     "title": "EA SPORTS™ FIFA 23 Standard Edition Xbox One",
     "titleId": "1994003829",
     "isTitleBased": false
@@ -38742,6 +38892,11 @@
   {
     "title": "WitchSpring R",
     "titleId": "1996371924",
+    "isTitleBased": true
+  },
+  {
+    "title": "Jimmy and the Pulsating Mass",
+    "titleId": "1996402369",
     "isTitleBased": true
   },
   {
@@ -41347,6 +41502,11 @@
   {
     "title": "Sky Feathers (Xbox Series)",
     "titleId": "2025493625",
+    "isTitleBased": true
+  },
+  {
+    "title": "Puzzle Book",
+    "titleId": "2025569450",
     "isTitleBased": true
   },
   {
@@ -45450,6 +45610,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Guts 'n Grunts Jr.",
+    "titleId": "2071004934",
+    "isTitleBased": true
+  },
+  {
     "title": "Lies of P",
     "titleId": "2071061510",
     "isTitleBased": true
@@ -46120,6 +46285,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Farming Camp",
+    "titleId": "2078158109",
+    "isTitleBased": false
+  },
+  {
     "title": "Scar-Lead Salvation",
     "titleId": "2078163849",
     "isTitleBased": true
@@ -46548,6 +46718,11 @@
     "title": "Machinarium",
     "titleId": "2082382492",
     "isTitleBased": true
+  },
+  {
+    "title": "Mashina",
+    "titleId": "2082455576",
+    "isTitleBased": false
   },
   {
     "title": "Gravity Oddity",
@@ -47235,6 +47410,11 @@
     "isTitleBased": true
   },
   {
+    "title": "MECHBORN",
+    "titleId": "2091323931",
+    "isTitleBased": false
+  },
+  {
     "title": "Warcraft® I: Remastered",
     "titleId": "2091346886",
     "isTitleBased": false
@@ -47832,6 +48012,11 @@
   {
     "title": "Sokorobot (Windows)",
     "titleId": "2098823541",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tropicalia",
+    "titleId": "2098830566",
     "isTitleBased": true
   },
   {
@@ -48885,6 +49070,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Shrink Rooms",
+    "titleId": "2110090163",
+    "isTitleBased": true
+  },
+  {
     "title": "The Rogue Prince of Persia™",
     "titleId": "2110168941",
     "isTitleBased": true
@@ -48938,6 +49128,11 @@
     "title": "KILL IT WITH FIRE! 2",
     "titleId": "2110891029",
     "isTitleBased": true
+  },
+  {
+    "title": "Ghost Master: Resurrection",
+    "titleId": "2110898857",
+    "isTitleBased": false
   },
   {
     "title": "Cat God Ranch",
@@ -49862,6 +50057,11 @@
   {
     "title": "ACA NEOGEO ZUPAPA! for Windows",
     "titleId": "2121102512",
+    "isTitleBased": true
+  },
+  {
+    "title": "Majotori",
+    "titleId": "2121167694",
     "isTitleBased": true
   },
   {

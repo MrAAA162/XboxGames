@@ -4165,6 +4165,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Nekomimi Days ~365 Days with You~",
+    "titleId": "1611490956",
+    "isTitleBased": true
+  },
+  {
     "title": "Inferno 2+",
     "titleId": "1611566668",
     "isTitleBased": true
@@ -4945,6 +4950,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Minishoot' Adventures",
+    "titleId": "1619790969",
+    "isTitleBased": true
+  },
+  {
     "title": "It Takes Two",
     "titleId": "1619800623",
     "isTitleBased": false
@@ -4983,6 +4993,11 @@
     "title": "Danger Scavenger",
     "titleId": "1620054122",
     "isTitleBased": true
+  },
+  {
+    "title": "Until Then",
+    "titleId": "1620095408",
+    "isTitleBased": false
   },
   {
     "title": "Aery - Viking Saga",
@@ -5777,7 +5792,7 @@
   {
     "title": "Scott Pilgrim EX",
     "titleId": "1628932021",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Folly of the Wizards",
@@ -6257,6 +6272,11 @@
   {
     "title": "Cipher Monk: Ancient Calculus (Windows)",
     "titleId": "1633343575",
+    "isTitleBased": true
+  },
+  {
+    "title": "A Clareira (Xbox Series)",
+    "titleId": "1633375130",
     "isTitleBased": true
   },
   {
@@ -7730,6 +7750,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Risky Roads (Windows)",
+    "titleId": "1648718585",
+    "isTitleBased": true
+  },
+  {
     "title": "Mable & The Wood",
     "titleId": "1648742604",
     "isTitleBased": true
@@ -8702,6 +8727,11 @@
   {
     "title": "Hellbreachers",
     "titleId": "1659893240",
+    "isTitleBased": true
+  },
+  {
+    "title": "ChildStory",
+    "titleId": "1659971867",
     "isTitleBased": true
   },
   {
@@ -14285,6 +14315,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Claim the Forest: Settling Peace (Windows)",
+    "titleId": "1718024806",
+    "isTitleBased": true
+  },
+  {
     "title": "Airborne Kingdom",
     "titleId": "1718032869",
     "isTitleBased": true
@@ -15713,6 +15748,11 @@
     "title": "STAR WARS Zero Company™",
     "titleId": "1733929983",
     "isTitleBased": false
+  },
+  {
+    "title": "The Coin Game",
+    "titleId": "1733938741",
+    "isTitleBased": true
   },
   {
     "title": "BattleCap",
@@ -17413,6 +17453,11 @@
     "title": "Shaman's Mask of the Rune Magic",
     "titleId": "1753113291",
     "isTitleBased": true
+  },
+  {
+    "title": "STORY OF SEASONS: Grand Bazaar",
+    "titleId": "1753146034",
+    "isTitleBased": false
   },
   {
     "title": "Faraday Protocol",
@@ -19380,6 +19425,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Risky Roads (Xbox One)",
+    "titleId": "1773128898",
+    "isTitleBased": true
+  },
+  {
     "title": "ENDER LILIES: Quietus of the Knights",
     "titleId": "1773142063",
     "isTitleBased": true
@@ -19427,6 +19477,11 @@
   {
     "title": "Maiden Cops",
     "titleId": "1773723817",
+    "isTitleBased": true
+  },
+  {
+    "title": "Bun Buns",
+    "titleId": "1773744086",
     "isTitleBased": true
   },
   {
@@ -23995,6 +24050,11 @@
     "isTitleBased": true
   },
   {
+    "title": "EMOTIONLESS : The Last Ticket",
+    "titleId": "1824606631",
+    "isTitleBased": true
+  },
+  {
     "title": "Tamashii",
     "titleId": "1824609776",
     "isTitleBased": true
@@ -24607,6 +24667,11 @@
   {
     "title": "Square Smash (XBOX SERIES)",
     "titleId": "1831072287",
+    "isTitleBased": true
+  },
+  {
+    "title": "BombPaws (Xbox One)",
+    "titleId": "1831080014",
     "isTitleBased": true
   },
   {
@@ -25347,6 +25412,11 @@
   {
     "title": "FAR: Changing Tides Windows Edition",
     "titleId": "1839283754",
+    "isTitleBased": true
+  },
+  {
+    "title": "BombPaws (Windows)",
+    "titleId": "1839403227",
     "isTitleBased": true
   },
   {
@@ -27070,7 +27140,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Tom Clancy's Rainbow Six Siege X",
+    "title": "Tom Clancy's Rainbow Six Siege -",
     "titleId": "1858402591",
     "isTitleBased": false
   },
@@ -31560,6 +31630,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Teeny Tiny Town",
+    "titleId": "1906438970",
+    "isTitleBased": true
+  },
+  {
     "title": "Judgment",
     "titleId": "1906459372",
     "isTitleBased": true
@@ -32852,6 +32927,11 @@
   {
     "title": "Arzette: The Jewel of Faramore",
     "titleId": "1920845520",
+    "isTitleBased": true
+  },
+  {
+    "title": "Little Helper Cafe: Sugar Cubes (Xbox One)",
+    "titleId": "1920884746",
     "isTitleBased": true
   },
   {
@@ -35487,7 +35567,7 @@
   {
     "title": "Magin: The Rat Project Stories",
     "titleId": "1950004384",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Athenian Rhapsody",
@@ -37460,6 +37540,11 @@
     "isTitleBased": true
   },
   {
+    "title": "FATAL FRAME II: Crimson Butterfly REMAKE Digital Art Book & Digital Soundtrack",
+    "titleId": "1971377551",
+    "isTitleBased": false
+  },
+  {
     "title": "Mining Mechs",
     "titleId": "1971494270",
     "isTitleBased": true
@@ -37642,6 +37727,11 @@
   {
     "title": "MindsEye",
     "titleId": "1973367334",
+    "isTitleBased": true
+  },
+  {
+    "title": "Claim the Forest: Settling Peace (Xbox One)",
+    "titleId": "1973388330",
     "isTitleBased": true
   },
   {
@@ -42260,6 +42350,11 @@
     "isTitleBased": true
   },
   {
+    "title": "A Clareira (Windows)",
+    "titleId": "2021981766",
+    "isTitleBased": true
+  },
+  {
     "title": "Downwell",
     "titleId": "2021987250",
     "isTitleBased": true
@@ -42343,6 +42438,11 @@
     "title": "WWE 2K26 Standard Edition",
     "titleId": "2022801826",
     "isTitleBased": false
+  },
+  {
+    "title": "BombPaws (Xbox Series X/S)",
+    "titleId": "2022959529",
+    "isTitleBased": true
   },
   {
     "title": "Witch It",
@@ -43627,6 +43727,11 @@
   {
     "title": "Little Misfortune",
     "titleId": "2036022873",
+    "isTitleBased": true
+  },
+  {
+    "title": "Claim the Forest: Settling Peace (Xbox Series)",
+    "titleId": "2036050990",
     "isTitleBased": true
   },
   {
@@ -45200,6 +45305,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Zoo Simulator",
+    "titleId": "2052049423",
+    "isTitleBased": true
+  },
+  {
     "title": "Ravenswatch",
     "titleId": "2052095073",
     "isTitleBased": true
@@ -45373,6 +45483,11 @@
     "title": "The Persistence",
     "titleId": "2054602409",
     "isTitleBased": true
+  },
+  {
+    "title": "Luna Abyss",
+    "titleId": "2054602571",
+    "isTitleBased": false
   },
   {
     "title": "Second Extinction™ (Game Preview)",
@@ -45568,6 +45683,11 @@
     "title": "Remnant: From the Ashes",
     "titleId": "2056655762",
     "isTitleBased": true
+  },
+  {
+    "title": "inKONBINI: One Store. Many Stories",
+    "titleId": "2056728314",
+    "isTitleBased": false
   },
   {
     "title": "Home Sheep Home: Farmageddon Party Edition",
@@ -46560,6 +46680,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Risky Roads",
+    "titleId": "2068322391",
+    "isTitleBased": true
+  },
+  {
     "title": "Abiotic Factor",
     "titleId": "2068332202",
     "isTitleBased": true
@@ -46617,6 +46742,11 @@
   {
     "title": "Decision: Red Daze",
     "titleId": "2069220628",
+    "isTitleBased": true
+  },
+  {
+    "title": "Legendary Spell",
+    "titleId": "2069266378",
     "isTitleBased": true
   },
   {
@@ -48355,6 +48485,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Little Helper Cafe: Sugar Cubes (Xbox Series)",
+    "titleId": "2087835754",
+    "isTitleBased": true
+  },
+  {
     "title": "Aquarun",
     "titleId": "2087906718",
     "isTitleBased": true
@@ -48965,6 +49100,11 @@
     "isTitleBased": true
   },
   {
+    "title": "A Clareira (Xbox One)",
+    "titleId": "2095556316",
+    "isTitleBased": true
+  },
+  {
     "title": "Fallout: New Vegas",
     "titleId": "209558529",
     "isTitleBased": false
@@ -49212,6 +49352,11 @@
   {
     "title": "Floppy Knights",
     "titleId": "2098505152",
+    "isTitleBased": true
+  },
+  {
+    "title": "Meow Moments: Celebrating Myth & Machine",
+    "titleId": "2098595996",
     "isTitleBased": true
   },
   {
@@ -52947,6 +53092,11 @@
   {
     "title": "Ravva and the Cyclops Curse",
     "titleId": "2139482268",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hydroneer",
+    "titleId": "2139519684",
     "isTitleBased": true
   },
   {

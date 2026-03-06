@@ -8185,6 +8185,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Monster Ramp Racing",
+    "titleId": "1653290714",
+    "isTitleBased": true
+  },
+  {
     "title": "Guidus Zero",
     "titleId": "1653389515",
     "isTitleBased": true
@@ -9685,6 +9690,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Word Quest Pirates",
+    "titleId": "1670435927",
+    "isTitleBased": true
+  },
+  {
     "title": "APFTU",
     "titleId": "1670442486",
     "isTitleBased": true
@@ -10115,7 +10125,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Blindfire (Game Preview)",
+    "title": "Blindfire",
     "titleId": "1675226093",
     "isTitleBased": false
   },
@@ -11592,7 +11602,7 @@
   {
     "title": "Pocket Harvest",
     "titleId": "1691178517",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "Shadow Warrior 2",
@@ -11602,7 +11612,7 @@
   {
     "title": "Kingdom Shell - White Temple Edition",
     "titleId": "1691293873",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "Tour de France 2023",
@@ -12067,6 +12077,11 @@
   {
     "title": "Zombies Ate My Neighbors and Ghoul Patrol",
     "titleId": "1695141626",
+    "isTitleBased": true
+  },
+  {
+    "title": "Trigger Path (Xbox Series X|S)",
+    "titleId": "1695219996",
     "isTitleBased": true
   },
   {
@@ -13827,6 +13842,11 @@
   {
     "title": "Football Manager 2022 Xbox Edition",
     "titleId": "1712769195",
+    "isTitleBased": true
+  },
+  {
+    "title": "King Slime in Cashtle (Windows)",
+    "titleId": "1712798001",
     "isTitleBased": true
   },
   {
@@ -16645,6 +16665,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Trigger Path (Windows)",
+    "titleId": "1744053412",
+    "isTitleBased": true
+  },
+  {
     "title": "The Crown of Wu",
     "titleId": "1744070944",
     "isTitleBased": true
@@ -17557,6 +17582,11 @@
   {
     "title": "Pizza Bar Tycoon",
     "titleId": "1753979365",
+    "isTitleBased": true
+  },
+  {
+    "title": "Trigger Path (Xbox One)",
+    "titleId": "1754044294",
     "isTitleBased": true
   },
   {
@@ -19720,6 +19750,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Pixel Into the Galaxy",
+    "titleId": "1776347058",
+    "isTitleBased": true
+  },
+  {
     "title": "Robotry!",
     "titleId": "1776370994",
     "isTitleBased": true
@@ -19923,6 +19958,11 @@
     "title": "The Clocker",
     "titleId": "1777903168",
     "isTitleBased": true
+  },
+  {
+    "title": "Warhammer 40,000: Speed Freeks",
+    "titleId": "1777974087",
+    "isTitleBased": false
   },
   {
     "title": "Little Witch in the Woods (Game Preview)",
@@ -20640,6 +20680,11 @@
     "isTitleBased": true
   },
   {
+    "title": "King Slime in Cashtle (Xbox One)",
+    "titleId": "1786173308",
+    "isTitleBased": true
+  },
+  {
     "title": "God Wars",
     "titleId": "1786184594",
     "isTitleBased": true
@@ -21162,6 +21207,11 @@
   {
     "title": "Flaskoman for Windows 10",
     "titleId": "1791966220",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Rabbit Crazy Adventure One More Time (Xbox One)",
+    "titleId": "1792055040",
     "isTitleBased": true
   },
   {
@@ -22340,6 +22390,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Pixel into the Galaxy (Xbox Series X|S)",
+    "titleId": "1804884924",
+    "isTitleBased": true
+  },
+  {
     "title": "Tools Up - Ultimate Edition",
     "titleId": "1804899462",
     "isTitleBased": true
@@ -22848,6 +22903,11 @@
     "title": "What's Different? (Windows)",
     "titleId": "1810588887",
     "isTitleBased": true
+  },
+  {
+    "title": "Cthulhu: The Cosmic Abyss - Art Pack",
+    "titleId": "1810600739",
+    "isTitleBased": false
   },
   {
     "title": "ACA NEOGEO REAL BOUT FATAL FURY",
@@ -27037,6 +27097,11 @@
   {
     "title": "Tiny Pixels Vol. 1 - Ninpo Blast",
     "titleId": "1857539450",
+    "isTitleBased": true
+  },
+  {
+    "title": "Pixel into the Galaxy (Xbox One)",
+    "titleId": "1857569714",
     "isTitleBased": true
   },
   {
@@ -32280,6 +32345,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Echoes of Aincrad Unanswered//butterfly Bonus Contents App",
+    "titleId": "1913788849",
+    "isTitleBased": false
+  },
+  {
     "title": "Ashland Dossier",
     "titleId": "1913936706",
     "isTitleBased": true
@@ -37345,6 +37415,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Motorhome: Traveling America Collector's Edition",
+    "titleId": "1969439350",
+    "isTitleBased": true
+  },
+  {
     "title": "Clan N",
     "titleId": "1969444828",
     "isTitleBased": true
@@ -38057,6 +38132,11 @@
   {
     "title": "ARMORED CORE™ VI FIRES OF RUBICON™",
     "titleId": "1976275779",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 PLUMP POP",
+    "titleId": "1976314885",
     "isTitleBased": true
   },
   {
@@ -38807,6 +38887,11 @@
   {
     "title": "Medieval Dynasty (Xbox One)",
     "titleId": "1984680366",
+    "isTitleBased": true
+  },
+  {
+    "title": "Silver Bullet",
+    "titleId": "1984686006",
     "isTitleBased": true
   },
   {
@@ -40400,6 +40485,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cowboy Kart",
+    "titleId": "2001690907",
+    "isTitleBased": true
+  },
+  {
     "title": "Call of Duty®",
     "titleId": "2001700854",
     "isTitleBased": true
@@ -41675,6 +41765,11 @@
     "isTitleBased": true
   },
   {
+    "title": "WILL: Follow The Light",
+    "titleId": "2015433008",
+    "isTitleBased": false
+  },
+  {
     "title": "VirtuaVerse",
     "titleId": "2015464647",
     "isTitleBased": true
@@ -42238,6 +42333,11 @@
     "title": "Make Way",
     "titleId": "2020925735",
     "isTitleBased": true
+  },
+  {
+    "title": "MotoGP™26",
+    "titleId": "2021005220",
+    "isTitleBased": false
   },
   {
     "title": "Slender: The Arrival",
@@ -47505,6 +47605,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cthulhu: The Cosmic Abyss - Arkham Horror TTRPG Scenario",
+    "titleId": "2077386463",
+    "isTitleBased": false
+  },
+  {
     "title": "Alina of the Arena",
     "titleId": "2077540326",
     "isTitleBased": true
@@ -49057,6 +49162,11 @@
   {
     "title": "XIII",
     "titleId": "2094867598",
+    "isTitleBased": true
+  },
+  {
+    "title": "King Slime in Cashtle (Xbox Series X|S)",
+    "titleId": "2094990948",
     "isTitleBased": true
   },
   {
@@ -51060,6 +51170,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Parkour Labs",
+    "titleId": "2116544992",
+    "isTitleBased": true
+  },
+  {
     "title": "Airoheart",
     "titleId": "2116588551",
     "isTitleBased": true
@@ -51868,6 +51983,11 @@
     "title": "Heavy Metal Machines",
     "titleId": "2125426064",
     "isTitleBased": true
+  },
+  {
+    "title": "Grimoire Groves",
+    "titleId": "2125485651",
+    "isTitleBased": false
   },
   {
     "title": "Still Wakes the Deep",

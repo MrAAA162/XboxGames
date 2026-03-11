@@ -9910,6 +9910,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Tiny Bookshop",
+    "titleId": "1668054382",
+    "isTitleBased": true
+  },
+  {
     "title": "Bonk 'N Bash (Xbox One)",
     "titleId": "1668063217",
     "isTitleBased": true
@@ -10577,7 +10582,7 @@
   {
     "title": "Booom-Slang!",
     "titleId": "1674343547",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Paper Plane Arena - Lost Places",
@@ -11913,6 +11918,11 @@
     "title": "Paradise Island 2",
     "titleId": "1688428336",
     "isTitleBased": false
+  },
+  {
+    "title": "Space Kitten",
+    "titleId": "1688481509",
+    "isTitleBased": true
   },
   {
     "title": "Tales of Berseria Remastered",
@@ -17592,7 +17602,7 @@
   {
     "title": "Wild West Legacy",
     "titleId": "1746223055",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Knight's Night!",
@@ -20965,6 +20975,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sunset Motel",
+    "titleId": "1780525037",
+    "isTitleBased": false
+  },
+  {
     "title": "LISA: The Painful - Definitive Edition",
     "titleId": "1780556395",
     "isTitleBased": true
@@ -21083,6 +21098,11 @@
     "title": "NORSE: Oath of Blood",
     "titleId": "1781725350",
     "isTitleBased": false
+  },
+  {
+    "title": "Worshippers of Cthulhu",
+    "titleId": "1781754560",
+    "isTitleBased": true
   },
   {
     "title": "Wizard of Legend 2",
@@ -21632,6 +21652,11 @@
   {
     "title": "Cultist Simulator: Initiate Edition",
     "titleId": "1788111391",
+    "isTitleBased": true
+  },
+  {
+    "title": "Space Kitten (Xbox Series)",
+    "titleId": "1788169554",
     "isTitleBased": true
   },
   {
@@ -22968,6 +22993,11 @@
     "title": "Assassin’s Creed Syndicate",
     "titleId": "1802419824",
     "isTitleBased": false
+  },
+  {
+    "title": "One Button Games 5-in-1 vol. 5",
+    "titleId": "1802464934",
+    "isTitleBased": true
   },
   {
     "title": "Capcom Arcade Stadium",
@@ -24768,6 +24798,11 @@
     "title": "Tinkertown",
     "titleId": "1822253433",
     "isTitleBased": true
+  },
+  {
+    "title": "The Necromancer's Tale",
+    "titleId": "1822313704",
+    "isTitleBased": false
   },
   {
     "title": "Hand of Fate",
@@ -26875,6 +26910,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Lou's Lagoon",
+    "titleId": "1845126958",
+    "isTitleBased": false
+  },
+  {
     "title": "Trine 2: Complete Story",
     "titleId": "1845231868",
     "isTitleBased": true
@@ -27283,6 +27323,11 @@
     "title": "Super Farming Boy",
     "titleId": "1849402866",
     "isTitleBased": true
+  },
+  {
+    "title": "Technotopia",
+    "titleId": "1849447147",
+    "isTitleBased": false
   },
   {
     "title": "ACA NEOGEO SUPER SIDEKICKS",
@@ -27763,6 +27808,11 @@
     "title": "Golf With Your Friends (Windows Version)",
     "titleId": "1855217179",
     "isTitleBased": true
+  },
+  {
+    "title": "NINE ROUNDS RAPID",
+    "titleId": "1855351278",
+    "isTitleBased": false
   },
   {
     "title": "Panzer Dragoon Orta",
@@ -32725,7 +32775,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Far Cry® 3 Blood Dragon Classic Edition",
+    "title": "Far Cry 3 Blood Dragon Classic Edition",
     "titleId": "1906937527",
     "isTitleBased": true
   },
@@ -33945,6 +33995,11 @@
     "isTitleBased": true
   },
   {
+    "title": "SiN Reloaded",
+    "titleId": "1920296991",
+    "isTitleBased": false
+  },
+  {
     "title": "Puzzle by Nikoli W Masyu (Windows)",
     "titleId": "1920403288",
     "isTitleBased": true
@@ -35147,7 +35202,7 @@
   {
     "title": "NO-SKIN",
     "titleId": "1933471830",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Escape Sequence (Xbox Series)",
@@ -35192,6 +35247,11 @@
   {
     "title": "Frame Cat",
     "titleId": "1933930597",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tricky Typing",
+    "titleId": "1934118414",
     "isTitleBased": true
   },
   {
@@ -42675,6 +42735,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Screenbound",
+    "titleId": "2013032249",
+    "isTitleBased": false
+  },
+  {
     "title": "NINJA GAIDEN: Ragebound",
     "titleId": "2013083896",
     "isTitleBased": true
@@ -44793,6 +44858,11 @@
     "title": "Fin and the Ancient Mystery",
     "titleId": "2034009476",
     "isTitleBased": true
+  },
+  {
+    "title": "Shard Squad",
+    "titleId": "2034056236",
+    "isTitleBased": false
   },
   {
     "title": "Doctor Who: The Edge of Reality",
@@ -48020,6 +48090,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Little Helper Cafe: Sugar Cubes (Windows)",
+    "titleId": "2067707880",
+    "isTitleBased": true
+  },
+  {
     "title": "EA SPORTS™ NBA LIVE 16",
     "titleId": "2067761315",
     "isTitleBased": false
@@ -49102,6 +49177,11 @@
   {
     "title": "DOOM II (Classic)",
     "titleId": "2078926688",
+    "isTitleBased": true
+  },
+  {
+    "title": "Unmourned",
+    "titleId": "2078938412",
     "isTitleBased": true
   },
   {
@@ -51605,6 +51685,11 @@
     "isTitleBased": true
   },
   {
+    "title": "One Button Games 5-in-1 vol. 5 (Xbox One)",
+    "titleId": "2106098605",
+    "isTitleBased": true
+  },
+  {
     "title": "Duck Souls+",
     "titleId": "2106108993",
     "isTitleBased": true
@@ -52155,6 +52240,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Forensics: Crime Scene Detective",
+    "titleId": "2112426479",
+    "isTitleBased": false
+  },
+  {
     "title": "サイコブレイク",
     "titleId": "2112431452",
     "isTitleBased": false
@@ -52172,6 +52262,11 @@
   {
     "title": "Sky of Destruction",
     "titleId": "2112499779",
+    "isTitleBased": true
+  },
+  {
+    "title": "Decline's Drops",
+    "titleId": "2112518635",
     "isTitleBased": true
   },
   {
@@ -52292,6 +52387,11 @@
   {
     "title": "I Saw Black Clouds",
     "titleId": "2113836989",
+    "isTitleBased": true
+  },
+  {
+    "title": "Shooty McSpaceFace",
+    "titleId": "2113845275",
     "isTitleBased": true
   },
   {
@@ -52767,6 +52867,11 @@
   {
     "title": "Legend of Keepers: Career of a Dungeon Manager",
     "titleId": "2118709517",
+    "isTitleBased": true
+  },
+  {
+    "title": "One Button Games 5-in-1 vol. 5 (Windows)",
+    "titleId": "2118747468",
     "isTitleBased": true
   },
   {
@@ -55750,7 +55855,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Far Cry® 3 Classic Edition",
+    "title": "Far Cry 3 Classic Edition",
     "titleId": "244291844",
     "isTitleBased": true
   },

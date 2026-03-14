@@ -6155,6 +6155,11 @@
     "isTitleBased": true
   },
   {
+    "title": "SwitchBlasters (Windows)",
+    "titleId": "1628103569",
+    "isTitleBased": true
+  },
+  {
     "title": "Rewind or Die",
     "titleId": "1628140410",
     "isTitleBased": true
@@ -6497,6 +6502,11 @@
   {
     "title": "Aquarium Land",
     "titleId": "1630751753",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tiny Mage in Puzzle Land (Xbox Series)",
+    "titleId": "1630771206",
     "isTitleBased": true
   },
   {
@@ -9365,6 +9375,11 @@
     "isTitleBased": true
   },
   {
+    "title": "PC Building Simulator 2",
+    "titleId": "1661809575",
+    "isTitleBased": true
+  },
+  {
     "title": "Toree's 3D Platformer Collection",
     "titleId": "1661841728",
     "isTitleBased": true
@@ -9403,6 +9418,11 @@
     "title": "What The Dub?!",
     "titleId": "1662257169",
     "isTitleBased": true
+  },
+  {
+    "title": "Rover's Tale",
+    "titleId": "1662414614",
+    "isTitleBased": false
   },
   {
     "title": "Bio Block",
@@ -9627,6 +9647,11 @@
   {
     "title": "Unwording",
     "titleId": "1664844647",
+    "isTitleBased": true
+  },
+  {
+    "title": "Space Kitten (Windows)",
+    "titleId": "1664915559",
     "isTitleBased": true
   },
   {
@@ -10430,6 +10455,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Chicken Rescue (Xbox Series)",
+    "titleId": "1672675093",
+    "isTitleBased": true
+  },
+  {
     "title": "In Sound Mind",
     "titleId": "1672730245",
     "isTitleBased": true
@@ -11192,7 +11222,7 @@
   {
     "title": "FATAL FRAME II: Crimson Butterfly REMAKE",
     "titleId": "1680223788",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Professional Farmer: American Dream",
@@ -11780,6 +11810,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Wolf Pack - Howling Spirits",
+    "titleId": "1686351118",
+    "isTitleBased": true
+  },
+  {
     "title": "A Plague Tale: Innocence - Windows 10",
     "titleId": "1686368600",
     "isTitleBased": true
@@ -12042,6 +12077,11 @@
   {
     "title": "Serious Sam: Siberian Mayhem",
     "titleId": "1689725766",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tiny Mage in Puzzle Land",
+    "titleId": "1689732921",
     "isTitleBased": true
   },
   {
@@ -13162,7 +13202,7 @@
   {
     "title": "Monster Hunter Stories 3: Twisted Reflection",
     "titleId": "1699829016",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "ACA NEOGEO ALPHA MISSION II for Windows",
@@ -16255,6 +16295,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Yerba Buena",
+    "titleId": "1731357135",
+    "isTitleBased": false
+  },
+  {
     "title": "Explodera (Windows)",
     "titleId": "1731389490",
     "isTitleBased": true
@@ -16287,7 +16332,7 @@
   {
     "title": "Farm Manager World",
     "titleId": "1731736563",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Shalnor: Silverwind Saga 2",
@@ -18130,6 +18175,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Magic Sheep (Xbox Series)",
+    "titleId": "1752204754",
+    "isTitleBased": true
+  },
+  {
     "title": "Nocturnal Visitors",
     "titleId": "1752230331",
     "isTitleBased": true
@@ -19318,6 +19368,11 @@
     "title": "Train Sim World® 2",
     "titleId": "1763742865",
     "isTitleBased": false
+  },
+  {
+    "title": "Stillbone (Xbox Series X|S)",
+    "titleId": "1763778713",
+    "isTitleBased": true
   },
   {
     "title": "MOUTHOLE",
@@ -21280,6 +21335,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Mini Trains",
+    "titleId": "1784162984",
+    "isTitleBased": true
+  },
+  {
     "title": "Raining Blobs",
     "titleId": "1784389929",
     "isTitleBased": true
@@ -22007,7 +22067,7 @@
   {
     "title": "MLB® The Show™ 26",
     "titleId": "1791650399",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "A Castle Full of Cats",
@@ -22880,6 +22940,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Deckline",
+    "titleId": "1801144936",
+    "isTitleBased": true
+  },
+  {
     "title": "Chefy-Chef",
     "titleId": "1801161885",
     "isTitleBased": true
@@ -23297,6 +23362,11 @@
   {
     "title": "FlipCat",
     "titleId": "1805134071",
+    "isTitleBased": true
+  },
+  {
+    "title": "Around the World in 80 Days",
+    "titleId": "1805166450",
     "isTitleBased": true
   },
   {
@@ -24660,6 +24730,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Chicken Rescue",
+    "titleId": "1820769498",
+    "isTitleBased": true
+  },
+  {
     "title": "Horror Tale 3: The Witch",
     "titleId": "1820782808",
     "isTitleBased": true
@@ -25527,6 +25602,11 @@
   {
     "title": "Warm Snow",
     "titleId": "1830033435",
+    "isTitleBased": true
+  },
+  {
+    "title": "Pode",
+    "titleId": "1830055233",
     "isTitleBased": true
   },
   {
@@ -27327,7 +27407,7 @@
   {
     "title": "Technotopia",
     "titleId": "1849447147",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "ACA NEOGEO SUPER SIDEKICKS",
@@ -27593,6 +27673,11 @@
     "title": "ELEX II",
     "titleId": "1852617445",
     "isTitleBased": false
+  },
+  {
+    "title": "Tiny Mage in Puzzle Land (Windows)",
+    "titleId": "1852720383",
+    "isTitleBased": true
   },
   {
     "title": "Kabaret",
@@ -28303,6 +28388,11 @@
     "title": "TT Isle Of Man: Ride on the Edge 3",
     "titleId": "1860058296",
     "isTitleBased": true
+  },
+  {
+    "title": "Remothered: Red Nun's Legacy",
+    "titleId": "1860061762",
+    "isTitleBased": false
   },
   {
     "title": "Ghostwire: Tokyo",
@@ -29387,6 +29477,11 @@
   {
     "title": "Crabwave (Xbox One)",
     "titleId": "1871562207",
+    "isTitleBased": true
+  },
+  {
+    "title": "SwitchBlasters (Xbox One)",
+    "titleId": "1871592910",
     "isTitleBased": true
   },
   {
@@ -30747,6 +30842,11 @@
   {
     "title": "Astalon: Tears of the Earth",
     "titleId": "1885598662",
+    "isTitleBased": true
+  },
+  {
+    "title": "Pengilo",
+    "titleId": "1885723806",
     "isTitleBased": true
   },
   {
@@ -36560,6 +36660,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Voidwrought",
+    "titleId": "1947656141",
+    "isTitleBased": true
+  },
+  {
     "title": "Infinite Adventures",
     "titleId": "1947684112",
     "isTitleBased": true
@@ -38235,6 +38340,11 @@
     "isTitleBased": true
   },
   {
+    "title": "BRAVELY DEFAULT FLYING FAIRY HD Remaster",
+    "titleId": "1965847665",
+    "isTitleBased": true
+  },
+  {
     "title": "Escape From Crypt (Xbox One)",
     "titleId": "1965860022",
     "isTitleBased": true
@@ -39762,6 +39872,11 @@
   {
     "title": "The Experiment: Escape Room",
     "titleId": "1982021747",
+    "isTitleBased": true
+  },
+  {
+    "title": "Chicken Rescue (Windows)",
+    "titleId": "1982108313",
     "isTitleBased": true
   },
   {
@@ -43045,6 +43160,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Citadelum",
+    "titleId": "2015839152",
+    "isTitleBased": true
+  },
+  {
     "title": "Hex Park Series X|S",
     "titleId": "2015865924",
     "isTitleBased": true
@@ -44100,6 +44220,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Stillbone (Windows)",
+    "titleId": "2026520862",
+    "isTitleBased": true
+  },
+  {
     "title": "XEL",
     "titleId": "2026530169",
     "isTitleBased": true
@@ -44440,6 +44565,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Minima",
+    "titleId": "2029398387",
+    "isTitleBased": true
+  },
+  {
     "title": "Bus Bound",
     "titleId": "2029431164",
     "isTitleBased": false
@@ -44572,6 +44702,11 @@
   {
     "title": "The Otterman Empire",
     "titleId": "2030466475",
+    "isTitleBased": true
+  },
+  {
+    "title": "Magic Sheep (Xbox One)",
+    "titleId": "2030491539",
     "isTitleBased": true
   },
   {
@@ -45167,6 +45302,11 @@
   {
     "title": "Fission Superstar X",
     "titleId": "2036378877",
+    "isTitleBased": true
+  },
+  {
+    "title": "Shardpunk",
+    "titleId": "2036380369",
     "isTitleBased": true
   },
   {
@@ -48310,6 +48450,11 @@
     "isTitleBased": true
   },
   {
+    "title": "RollCats",
+    "titleId": "2070638866",
+    "isTitleBased": true
+  },
+  {
     "title": "The Samurai Collection (QUByte Classics)",
     "titleId": "2070639320",
     "isTitleBased": true
@@ -51125,6 +51270,11 @@
     "isTitleBased": false
   },
   {
+    "title": "CALX",
+    "titleId": "2100228287",
+    "isTitleBased": false
+  },
+  {
     "title": "BOULDER DASH 40th Anniversary",
     "titleId": "2100312612",
     "isTitleBased": true
@@ -52132,7 +52282,7 @@
   {
     "title": "Ghost Master: Resurrection",
     "titleId": "2110898857",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Cat God Ranch",
@@ -53345,6 +53495,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Stillbone (Xbox One)",
+    "titleId": "2123908125",
+    "isTitleBased": true
+  },
+  {
     "title": "Ultracore",
     "titleId": "2124124873",
     "isTitleBased": true
@@ -54505,6 +54660,11 @@
     "isTitleBased": false
   },
   {
+    "title": "SwitchBlasters (Xbox Series X/S)",
+    "titleId": "2136299914",
+    "isTitleBased": true
+  },
+  {
     "title": "Without a Voice (PC)",
     "titleId": "2136310885",
     "isTitleBased": true
@@ -54677,6 +54837,11 @@
   {
     "title": "Rec Room",
     "titleId": "2138304024",
+    "isTitleBased": true
+  },
+  {
+    "title": "THE TAG-ALONG OBSESSION",
+    "titleId": "2138444881",
     "isTitleBased": true
   },
   {
@@ -55012,6 +55177,11 @@
   {
     "title": "Beyond Doors (Windows)",
     "titleId": "2142029144",
+    "isTitleBased": true
+  },
+  {
+    "title": "Lots Of Things Collector's Edition",
+    "titleId": "2142047281",
     "isTitleBased": true
   },
   {
@@ -60140,7 +60310,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Far Cry Primal",
+    "title": "FAR CRY PRIMAL",
     "titleId": "608369389",
     "isTitleBased": false
   },

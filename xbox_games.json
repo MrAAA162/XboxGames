@@ -5490,6 +5490,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Only Up Rush",
+    "titleId": "1620604447",
+    "isTitleBased": true
+  },
+  {
     "title": "Deep Diving Adventures",
     "titleId": "1620621787",
     "isTitleBased": true
@@ -8977,6 +8982,11 @@
   {
     "title": "Outbreak: The New Nightmare Definitive Edition",
     "titleId": "1656081678",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Wellmonts Case",
+    "titleId": "1656117140",
     "isTitleBased": true
   },
   {
@@ -13307,6 +13317,11 @@
   {
     "title": "Animal Lover",
     "titleId": "1700846766",
+    "isTitleBased": true
+  },
+  {
+    "title": "Jaden & Jasmine II: Lost Memories",
+    "titleId": "1700931091",
     "isTitleBased": true
   },
   {
@@ -20582,7 +20597,7 @@
   {
     "title": "Beyond Words",
     "titleId": "1776284292",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Pixel Into the Galaxy",
@@ -24122,7 +24137,7 @@
   {
     "title": "Starship Troopers: Ultimate Bug War!",
     "titleId": "1813336489",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Ominous Tales: The Forsaken Isle - Collectors Edition",
@@ -26247,7 +26262,7 @@
   {
     "title": "Grind Survivors",
     "titleId": "1836942975",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Quartz Caverns (Xbox Series)",
@@ -26308,6 +26323,11 @@
     "title": "Ragdoll Fighter",
     "titleId": "1837564150",
     "isTitleBased": true
+  },
+  {
+    "title": "Delphinium",
+    "titleId": "1837582282",
+    "isTitleBased": false
   },
   {
     "title": "Crabwave (Xbox Series)",
@@ -26377,6 +26397,11 @@
   {
     "title": "Mole Cart Mining (Windows)",
     "titleId": "1838587960",
+    "isTitleBased": true
+  },
+  {
+    "title": "Airplane Flight Simulator : EVO",
+    "titleId": "1838616414",
     "isTitleBased": true
   },
   {
@@ -31475,6 +31500,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Airplane Flight Simulator : Combat Zone",
+    "titleId": "1892031884",
+    "isTitleBased": true
+  },
+  {
     "title": "Puzzle by Nikoli W Yajilin (Windows)",
     "titleId": "1892166011",
     "isTitleBased": true
@@ -33397,6 +33427,11 @@
   {
     "title": "Super Box Land Demake",
     "titleId": "1912881818",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sled Riders (Xbox One)",
+    "titleId": "1912937061",
     "isTitleBased": true
   },
   {
@@ -40855,6 +40890,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Legacy of Griselda",
+    "titleId": "1991995742",
+    "isTitleBased": true
+  },
+  {
     "title": "Gothic 1 Remake",
     "titleId": "1992263470",
     "isTitleBased": false
@@ -45690,6 +45730,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Nekome: Nazi Hunter",
+    "titleId": "2040089834",
+    "isTitleBased": false
+  },
+  {
     "title": "Boss Rush: Mythology",
     "titleId": "2040112121",
     "isTitleBased": true
@@ -48348,6 +48393,11 @@
     "title": "Decision: Red Daze",
     "titleId": "2069220628",
     "isTitleBased": true
+  },
+  {
+    "title": "Solarpunk",
+    "titleId": "2069221794",
+    "isTitleBased": false
   },
   {
     "title": "Legendary Spell",
@@ -53732,6 +53782,11 @@
   {
     "title": "Daemon X Machina: Titanic Scion Demo",
     "titleId": "2126586531",
+    "isTitleBased": false
+  },
+  {
+    "title": "Animal Shelter 2",
+    "titleId": "2126588779",
     "isTitleBased": false
   },
   {

@@ -4820,6 +4820,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Shadows of Arcania",
+    "titleId": "1613666056",
+    "isTitleBased": true
+  },
+  {
     "title": "Stellar Docks",
     "titleId": "1613686239",
     "isTitleBased": true
@@ -7652,6 +7657,11 @@
   {
     "title": "Pet Show",
     "titleId": "1642978235",
+    "isTitleBased": true
+  },
+  {
+    "title": "Decollate Decoration",
+    "titleId": "1643012526",
     "isTitleBased": true
   },
   {
@@ -11357,7 +11367,7 @@
   {
     "title": "Aphelion",
     "titleId": "1681140332",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "STAR WARS™ Battlefront™",
@@ -14467,7 +14477,7 @@
   {
     "title": "BEFORE I GO",
     "titleId": "1711881307",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "World Championship Boxing Manager™ 2",
@@ -15172,6 +15182,11 @@
   {
     "title": "Cosmos Bit",
     "titleId": "1719044568",
+    "isTitleBased": true
+  },
+  {
+    "title": "Trash Goblin",
+    "titleId": "1719099042",
     "isTitleBased": true
   },
   {
@@ -18462,7 +18477,7 @@
   {
     "title": "Crimson Desert",
     "titleId": "1754076455",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Mortanis Prisoners",
@@ -18938,6 +18953,11 @@
     "title": "Alien Hominid HD",
     "titleId": "1758633519",
     "isTitleBased": true
+  },
+  {
+    "title": "Nightmare Shift",
+    "titleId": "1758654634",
+    "isTitleBased": false
   },
   {
     "title": "Captain Puff MacFly",
@@ -20465,6 +20485,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Hard West 2",
+    "titleId": "1773969663",
+    "isTitleBased": false
+  },
+  {
     "title": "Amazing Volley Ball",
     "titleId": "1774102590",
     "isTitleBased": false
@@ -21137,6 +21162,11 @@
   {
     "title": "LISA: The Painful - Definitive Edition",
     "titleId": "1780556395",
+    "isTitleBased": true
+  },
+  {
+    "title": "Grab 50 Coins (Xbox One)",
+    "titleId": "1780561322",
     "isTitleBased": true
   },
   {
@@ -24192,6 +24222,11 @@
   {
     "title": "Road 96",
     "titleId": "1813085990",
+    "isTitleBased": true
+  },
+  {
+    "title": "Easy Delivery Co.",
+    "titleId": "1813184195",
     "isTitleBased": true
   },
   {
@@ -30885,6 +30920,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Grab 50 Coins",
+    "titleId": "1884601303",
+    "isTitleBased": true
+  },
+  {
     "title": "Cowboys (Windows)",
     "titleId": "1884622989",
     "isTitleBased": true
@@ -33778,6 +33818,11 @@
     "title": "地球防衛軍４",
     "titleId": "191486101",
     "isTitleBased": false
+  },
+  {
+    "title": "Collie Call: The Future is Calling (Xbox Series)",
+    "titleId": "1915028166",
+    "isTitleBased": true
   },
   {
     "title": "CastleStorm II",
@@ -40000,6 +40045,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Shadows of Arcania (Xbox One)",
+    "titleId": "1981188164",
+    "isTitleBased": true
+  },
+  {
     "title": "EchoBlade",
     "titleId": "1981237649",
     "isTitleBased": true
@@ -41638,6 +41688,11 @@
     "title": "Words Scramble Music Box",
     "titleId": "1997852115",
     "isTitleBased": false
+  },
+  {
+    "title": "Collie Call: The Future is Calling (Xbox One)",
+    "titleId": "1997864377",
+    "isTitleBased": true
   },
   {
     "title": "Zero Escape: The Nonary Games",
@@ -44820,9 +44875,9 @@
     "isTitleBased": true
   },
   {
-    "title": "Overthrown (Game Preview)",
+    "title": "Overthrown",
     "titleId": "2029650168",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Paper Dash - City Hustle",
@@ -47167,7 +47222,7 @@
   {
     "title": "PULMO",
     "titleId": "2053377372",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Assassin's Creed® LiberationHD",
@@ -54665,6 +54720,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Boba Teashop",
+    "titleId": "2133854210",
+    "isTitleBased": true
+  },
+  {
     "title": "Tales of Arise (Windows)",
     "titleId": "2133897426",
     "isTitleBased": true
@@ -55122,6 +55182,11 @@
   {
     "title": "Little Kingdom RTS (Windows)",
     "titleId": "2138600918",
+    "isTitleBased": true
+  },
+  {
+    "title": "Shadows of Arcania (Windows)",
+    "titleId": "2138688417",
     "isTitleBased": true
   },
   {

@@ -5770,6 +5770,11 @@
     "isTitleBased": false
   },
   {
+    "title": "ZPF",
+    "titleId": "1623886092",
+    "isTitleBased": true
+  },
+  {
     "title": "Cinderscratch (Xbox One)",
     "titleId": "1623970936",
     "isTitleBased": true
@@ -12160,6 +12165,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Alighieri Circle: Dante's Bloodline",
+    "titleId": "1689958756",
+    "isTitleBased": false
+  },
+  {
     "title": "Don't Fret",
     "titleId": "1689964783",
     "isTitleBased": false
@@ -12172,6 +12182,11 @@
   {
     "title": "Freddy Spaghetti",
     "titleId": "1690071668",
+    "isTitleBased": true
+  },
+  {
+    "title": "Star Fire: Eternal Cycle",
+    "titleId": "1690076332",
     "isTitleBased": true
   },
   {
@@ -21655,6 +21670,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Inkling Cats : Beneath the dreams",
+    "titleId": "1785869692",
+    "isTitleBased": true
+  },
+  {
     "title": "Serious Sam 4",
     "titleId": "1785887010",
     "isTitleBased": true
@@ -30242,6 +30262,11 @@
   {
     "title": "Age of Mythology: Retold",
     "titleId": "1877522801",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hidden Memory - Neko's Life",
+    "titleId": "1877533314",
     "isTitleBased": true
   },
   {
@@ -54260,6 +54285,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Bao Bao's Cozy Cleaning Services",
+    "titleId": "2128729481",
+    "isTitleBased": false
+  },
+  {
     "title": "Godstrike",
     "titleId": "2128762986",
     "isTitleBased": true
@@ -54443,6 +54473,11 @@
     "title": "Monster Meals",
     "titleId": "2130744211",
     "isTitleBased": false
+  },
+  {
+    "title": "Rail Rescue: Puzzle Lines",
+    "titleId": "2130764261",
+    "isTitleBased": true
   },
   {
     "title": "Police Shootout",

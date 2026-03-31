@@ -10555,6 +10555,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Artificial Detective",
+    "titleId": "1673012331",
+    "isTitleBased": false
+  },
+  {
     "title": "Call of the Sea",
     "titleId": "1673223107",
     "isTitleBased": true
@@ -11350,6 +11355,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Curious Copy Cats (Xbox One)",
+    "titleId": "1680691785",
+    "isTitleBased": true
+  },
+  {
     "title": "The Stillness of the Wind",
     "titleId": "1680770844",
     "isTitleBased": false
@@ -11433,6 +11443,11 @@
     "title": "DYNASTY WARRIORS 8 Empires (Chinese Ver.)",
     "titleId": "1681926203",
     "isTitleBased": false
+  },
+  {
+    "title": "Minos Trials (Windows)",
+    "titleId": "1681932611",
+    "isTitleBased": true
   },
   {
     "title": "BIT.TRIP RERUNNER",
@@ -13132,6 +13147,11 @@
   {
     "title": "Hirilun",
     "titleId": "1698454518",
+    "isTitleBased": true
+  },
+  {
+    "title": "Zoo Orbs: Safari (Xbox Series)",
+    "titleId": "1698518232",
     "isTitleBased": true
   },
   {
@@ -16705,6 +16725,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Avatar Legends: The Fighting Game",
+    "titleId": "1734440333",
+    "isTitleBased": false
+  },
+  {
     "title": "COGEN: Sword of Rewind",
     "titleId": "1734469605",
     "isTitleBased": true
@@ -16997,6 +17022,11 @@
   {
     "title": "Discounty",
     "titleId": "1737926681",
+    "isTitleBased": true
+  },
+  {
+    "title": "Magic Sheep (Windows)",
+    "titleId": "1737947185",
     "isTitleBased": true
   },
   {
@@ -17672,6 +17702,11 @@
   {
     "title": "Epic Empire",
     "titleId": "1744669474",
+    "isTitleBased": true
+  },
+  {
+    "title": "Just Deserts",
+    "titleId": "1744704068",
     "isTitleBased": true
   },
   {
@@ -19255,6 +19290,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Juufuutei Raden™'s Guide for Pixel Museum",
+    "titleId": "1761239368",
+    "isTitleBased": true
+  },
+  {
     "title": "FIFA 21 Xbox One",
     "titleId": "1761289795",
     "isTitleBased": false
@@ -20490,6 +20530,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Survivor Legion",
+    "titleId": "1773338848",
+    "isTitleBased": true
+  },
+  {
     "title": "Toaplan Arcade Collection Vol.1",
     "titleId": "1773422432",
     "isTitleBased": true
@@ -20993,6 +21038,11 @@
     "title": "Little Witch in the Woods (Game Preview)",
     "titleId": "1778148060",
     "isTitleBased": false
+  },
+  {
+    "title": "Grab 50 Coins (Windows)",
+    "titleId": "1778191394",
+    "isTitleBased": true
   },
   {
     "title": "Doomed To Hell",
@@ -21935,6 +21985,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Piggy’s Farm (Xbox One)",
+    "titleId": "1788310602",
+    "isTitleBased": true
+  },
+  {
     "title": "ACA NEOGEO FATAL FURY 2 for Windows",
     "titleId": "1788342021",
     "isTitleBased": true
@@ -22317,6 +22372,11 @@
   {
     "title": "Indiana Jones and the Great Circle",
     "titleId": "1792227428",
+    "isTitleBased": true
+  },
+  {
+    "title": "Combat Kart",
+    "titleId": "1792259900",
     "isTitleBased": true
   },
   {
@@ -23235,6 +23295,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Curious Copy Cats",
+    "titleId": "1802226567",
+    "isTitleBased": true
+  },
+  {
     "title": "Red Panda is Hungry (Windows)",
     "titleId": "1802262547",
     "isTitleBased": true
@@ -23742,6 +23807,11 @@
   {
     "title": "theHunter: Call of the Wild™ - Windows 10",
     "titleId": "1806542452",
+    "isTitleBased": true
+  },
+  {
+    "title": "RollerCoaster Tycoon Classic",
+    "titleId": "1806655067",
     "isTitleBased": true
   },
   {
@@ -24668,6 +24738,11 @@
     "title": "Will Die Alone",
     "titleId": "1817204190",
     "isTitleBased": true
+  },
+  {
+    "title": "Hunter: The Reckoning – Deathwish",
+    "titleId": "1817622272",
+    "isTitleBased": false
   },
   {
     "title": "Soulbind: Tales Of The Underworld",
@@ -25720,6 +25795,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Zoo Orbs: Safari (Xbox One)",
+    "titleId": "1829009418",
+    "isTitleBased": true
+  },
+  {
     "title": "The Night of the Rabbit",
     "titleId": "1829016863",
     "isTitleBased": true
@@ -25812,6 +25892,11 @@
   {
     "title": "Thermonuclear",
     "titleId": "1829994968",
+    "isTitleBased": true
+  },
+  {
+    "title": "Collie Call: The Future is Calling (Windows)",
+    "titleId": "1829995771",
     "isTitleBased": true
   },
   {
@@ -26192,6 +26277,11 @@
   {
     "title": "Schlag den Star - Das 3. Spiel",
     "titleId": "1833907881",
+    "isTitleBased": true
+  },
+  {
+    "title": "Zoo Orbs: Safari (Windows)",
+    "titleId": "1833930979",
     "isTitleBased": true
   },
   {
@@ -26998,6 +27088,11 @@
     "title": "Mothership Forever",
     "titleId": "1842719397",
     "isTitleBased": true
+  },
+  {
+    "title": "Tour de France 2026",
+    "titleId": "1842878873",
+    "isTitleBased": false
   },
   {
     "title": "Captain Blood",
@@ -29265,6 +29360,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The 7th Guest Remake",
+    "titleId": "1866686081",
+    "isTitleBased": false
+  },
+  {
     "title": "Stasis Valley",
     "titleId": "1866691480",
     "isTitleBased": true
@@ -29418,6 +29518,11 @@
     "title": "Relic Abyss",
     "titleId": "1868571541",
     "isTitleBased": false
+  },
+  {
+    "title": "Viscerafest",
+    "titleId": "1868571877",
+    "isTitleBased": true
   },
   {
     "title": "VED",
@@ -31965,6 +32070,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Piggy’s Farm (Windows)",
+    "titleId": "1894083501",
+    "isTitleBased": true
+  },
+  {
     "title": "My Singing Monsters Playground",
     "titleId": "1894122921",
     "isTitleBased": true
@@ -32338,6 +32448,11 @@
     "title": "My Universe - Interior Designer",
     "titleId": "1897886535",
     "isTitleBased": true
+  },
+  {
+    "title": "Airport Baggage Sim",
+    "titleId": "1897918694",
+    "isTitleBased": false
   },
   {
     "title": "Possessions - Perspective Puzzles",
@@ -32967,6 +33082,11 @@
   {
     "title": "7th Sector",
     "titleId": "1904361218",
+    "isTitleBased": true
+  },
+  {
+    "title": "Logiart Grimoire",
+    "titleId": "1904383012",
     "isTitleBased": true
   },
   {
@@ -34172,6 +34292,11 @@
   {
     "title": "Colorful Recolor",
     "titleId": "1917867997",
+    "isTitleBased": true
+  },
+  {
+    "title": "File Destined",
+    "titleId": "1917892678",
     "isTitleBased": true
   },
   {
@@ -35700,6 +35825,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Forever Ago",
+    "titleId": "1934596313",
+    "isTitleBased": false
+  },
+  {
     "title": "Vision Soft Reset",
     "titleId": "1934638648",
     "isTitleBased": true
@@ -36558,6 +36688,11 @@
     "title": "Y. Village - The Visitors",
     "titleId": "1943121689",
     "isTitleBased": true
+  },
+  {
+    "title": "Bluey's Happy Snaps",
+    "titleId": "1943249498",
+    "isTitleBased": false
   },
   {
     "title": "Max Payne® 2: The Fall of Max Payne",
@@ -40600,6 +40735,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Birthday Boy",
+    "titleId": "1985561326",
+    "isTitleBased": true
+  },
+  {
     "title": "Endzone - A World Apart: Survivor Edition",
     "titleId": "1985585702",
     "isTitleBased": true
@@ -44440,6 +44580,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Wuthering Waves",
+    "titleId": "2025121273",
+    "isTitleBased": false
+  },
+  {
     "title": "Knights of Braveland",
     "titleId": "2025132558",
     "isTitleBased": true
@@ -44703,6 +44848,11 @@
     "title": "DreamWorks Spirit Lucky's Big Adventure",
     "titleId": "2027359366",
     "isTitleBased": true
+  },
+  {
+    "title": "Ascend to ZERO",
+    "titleId": "2027362653",
+    "isTitleBased": false
   },
   {
     "title": "Planet Cube: Edge",
@@ -48145,6 +48295,11 @@
     "isTitleBased": true
   },
   {
+    "title": "BubbleMonsters",
+    "titleId": "2062168367",
+    "isTitleBased": true
+  },
+  {
     "title": "Iron Meat",
     "titleId": "2062191225",
     "isTitleBased": true
@@ -48627,7 +48782,7 @@
   {
     "title": "Little Helper Cafe: Sugar Cubes (Windows)",
     "titleId": "2067707880",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "EA SPORTS™ NBA LIVE 16",
@@ -50148,6 +50303,11 @@
     "title": "Jujutsu Kaisen Cursed Clash",
     "titleId": "2082961842",
     "isTitleBased": true
+  },
+  {
+    "title": "STRANGER THAN HEAVEN",
+    "titleId": "2083038530",
+    "isTitleBased": false
   },
   {
     "title": "Keypybara (Xbox Series)",
@@ -52550,6 +52710,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Piggy’s Farm (Xbox Series)",
+    "titleId": "2109230508",
+    "isTitleBased": true
+  },
+  {
     "title": "FINAL FANTASY XV WINDOWS EDITION",
     "titleId": "2109344129",
     "isTitleBased": false
@@ -52675,8 +52840,18 @@
     "isTitleBased": true
   },
   {
+    "title": "Way of the Hunter 2",
+    "titleId": "2110764382",
+    "isTitleBased": false
+  },
+  {
     "title": "Panzer Knights: Commander's Edition",
     "titleId": "2110778897",
+    "isTitleBased": false
+  },
+  {
+    "title": "Frog Sqwad",
+    "titleId": "2110784425",
     "isTitleBased": false
   },
   {
@@ -53840,6 +54015,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Serious Sam: Shatterverse",
+    "titleId": "2123131012",
+    "isTitleBased": true
+  },
+  {
     "title": "Undungeon",
     "titleId": "2123163620",
     "isTitleBased": true
@@ -54790,6 +54970,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Atomic Owl",
+    "titleId": "2133328792",
+    "isTitleBased": true
+  },
+  {
     "title": "Broken Sword - Shadow of the Templars: Reforged",
     "titleId": "2133362762",
     "isTitleBased": true
@@ -54928,6 +55113,11 @@
     "title": "Napoleon Maiden Episode.1 A maiden without the word impossible",
     "titleId": "2134452185",
     "isTitleBased": true
+  },
+  {
+    "title": "MOOSA: Dirty Fate",
+    "titleId": "2134456240",
+    "isTitleBased": false
   },
   {
     "title": "Blood of Mehran",
@@ -55107,6 +55297,11 @@
   {
     "title": "Lost in Random™",
     "titleId": "2136192977",
+    "isTitleBased": false
+  },
+  {
+    "title": "Alien Deathstorm",
+    "titleId": "2136274677",
     "isTitleBased": false
   },
   {
@@ -55910,6 +56105,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Vaunted (Game Preview)",
+    "titleId": "2145034013",
+    "isTitleBased": false
+  },
+  {
     "title": "Chemically Bonded",
     "titleId": "2145216504",
     "isTitleBased": true
@@ -55968,6 +56168,11 @@
     "title": "From the Bunker",
     "titleId": "2145916805",
     "isTitleBased": true
+  },
+  {
+    "title": "Dispatch",
+    "titleId": "2145964960",
+    "isTitleBased": false
   },
   {
     "title": "HoneyLand (Windows)",

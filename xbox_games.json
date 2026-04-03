@@ -5255,6 +5255,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Boxed Beasts (Windows)",
+    "titleId": "1618299538",
+    "isTitleBased": true
+  },
+  {
     "title": "Relicta",
     "titleId": "1618309410",
     "isTitleBased": true
@@ -5287,7 +5292,7 @@
   {
     "title": "Hacked: The Streamer",
     "titleId": "1618632140",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Garfield Kart Furious Racing",
@@ -5447,7 +5452,7 @@
   {
     "title": "Until Then",
     "titleId": "1620095408",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Despicable Me: Minion Rush",
@@ -7083,6 +7088,11 @@
     "title": "Merge Adventure: Magic Dragons",
     "titleId": "1636602453",
     "isTitleBased": false
+  },
+  {
+    "title": "Call of Duty®: Modern Warfare® - Digital Standard Edition (Windows)",
+    "titleId": "1636606847",
+    "isTitleBased": true
   },
   {
     "title": "Gravity Chase",
@@ -10532,7 +10542,7 @@
   {
     "title": "Legacy of Kain: Ascendance",
     "titleId": "1672818847",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Storyblocks: The King (Windows)",
@@ -11082,7 +11092,7 @@
   {
     "title": "Newfound Courage",
     "titleId": "1678444120",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "7 Days of Rose",
@@ -16495,6 +16505,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Constance",
+    "titleId": "1731932733",
+    "isTitleBased": true
+  },
+  {
     "title": "Beautiful Sakura: Racing Club (Windows)",
     "titleId": "1731966120",
     "isTitleBased": true
@@ -17517,7 +17532,7 @@
   {
     "title": "Super Meat Boy 3D",
     "titleId": "1743309413",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Sam & Max Save the World",
@@ -20810,7 +20825,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Pixel Into the Galaxy",
+    "title": "Pixel into the Galaxy",
     "titleId": "1776347058",
     "isTitleBased": true
   },
@@ -21262,7 +21277,7 @@
   {
     "title": "Sunset Motel",
     "titleId": "1780525037",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "LISA: The Painful - Definitive Edition",
@@ -24322,6 +24337,11 @@
   {
     "title": "Super Soccer Blast: America vs Europe",
     "titleId": "1812793649",
+    "isTitleBased": true
+  },
+  {
+    "title": "Haste",
+    "titleId": "1812810851",
     "isTitleBased": true
   },
   {
@@ -29435,6 +29455,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Zumba - Treasure of Marble Island",
+    "titleId": "1867302273",
+    "isTitleBased": true
+  },
+  {
     "title": "Evil Inside",
     "titleId": "1867425405",
     "isTitleBased": true
@@ -31432,6 +31457,11 @@
   {
     "title": "Tracks - The Train Set Game",
     "titleId": "1887639245",
+    "isTitleBased": true
+  },
+  {
+    "title": "Froggo's Quest",
+    "titleId": "1887659092",
     "isTitleBased": true
   },
   {
@@ -42447,7 +42477,7 @@
   {
     "title": "Priest Simulator: Vampire Show",
     "titleId": "2003536034",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Paint Path (Xbox One)",
@@ -45370,6 +45400,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Boxed Beasts (Xbox Series X/S)",
+    "titleId": "2031963723",
+    "isTitleBased": true
+  },
+  {
     "title": "A Game About Digging A Hole™",
     "titleId": "2031971566",
     "isTitleBased": true
@@ -46170,7 +46205,7 @@
     "isTitleBased": true
   },
   {
-    "title": "EXODUS™",
+    "title": "EXODUS",
     "titleId": "2039495553",
     "isTitleBased": false
   },
@@ -48197,7 +48232,7 @@
   {
     "title": "Under Par Golf Architect",
     "titleId": "2061154621",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Marshmallow Marvin",
@@ -50050,7 +50085,7 @@
     "isTitleBased": true
   },
   {
-    "title": "AGNI: Village of Calamity",
+    "title": "AGNI!",
     "titleId": "2080159525",
     "isTitleBased": true
   },
@@ -51252,7 +51287,7 @@
   {
     "title": "Darwin's Paradox!",
     "titleId": "2094503132",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Death Mask",
@@ -64445,7 +64480,7 @@
     "isTitleBased": true
   },
   {
-    "title": "RUGBY 18",
+    "title": "Rugby 18",
     "titleId": "920951865",
     "isTitleBased": true
   },

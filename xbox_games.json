@@ -6760,6 +6760,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Snack and Quack: Duckling Steps (Xbox One)",
+    "titleId": "1633036635",
+    "isTitleBased": true
+  },
+  {
     "title": "SONIC SUPERSTARS",
     "titleId": "1633152429",
     "isTitleBased": true
@@ -11122,7 +11127,7 @@
   {
     "title": "Newfound Courage",
     "titleId": "1678444120",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "7 Days of Rose",
@@ -14922,7 +14927,7 @@
   {
     "title": "People of Note",
     "titleId": "1715204609",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Emergency Crew",
@@ -14997,7 +15002,7 @@
   {
     "title": "Tri6: Infinite 2",
     "titleId": "1715804922",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Breakers Collection",
@@ -17037,6 +17042,11 @@
   {
     "title": "Reed Remastered",
     "titleId": "1737514117",
+    "isTitleBased": true
+  },
+  {
+    "title": "Without a Dawn",
+    "titleId": "1737560181",
     "isTitleBased": true
   },
   {
@@ -28960,6 +28970,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Find My Frogs",
+    "titleId": "1861635890",
+    "isTitleBased": true
+  },
+  {
     "title": "Arcade Archives 2 RIDGE RACER",
     "titleId": "1861701062",
     "isTitleBased": true
@@ -39717,7 +39732,7 @@
   {
     "title": "Noodlebound (Xbox Series)",
     "titleId": "1973804461",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Last Oasis (Game Preview)",
@@ -40417,6 +40432,11 @@
   {
     "title": "Shadows of Arcania (Xbox One)",
     "titleId": "1981188164",
+    "isTitleBased": true
+  },
+  {
+    "title": "Urban Jungle",
+    "titleId": "1981221876",
     "isTitleBased": true
   },
   {
@@ -45252,7 +45272,7 @@
   {
     "title": "Bus Bound",
     "titleId": "2029431164",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "ASMR Slicing",
@@ -45662,7 +45682,7 @@
   {
     "title": "ASCENDANCE UNBOUND",
     "titleId": "2033729128",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "while True: learn()",
@@ -54432,7 +54452,7 @@
   {
     "title": "Grimoire Groves",
     "titleId": "2125485651",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Still Wakes the Deep",
@@ -55452,7 +55472,7 @@
   {
     "title": "Manny's",
     "titleId": "2136010505",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "REZ PLZ",

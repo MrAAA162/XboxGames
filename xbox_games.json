@@ -5685,6 +5685,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Clockwork Blackout (Windows)",
+    "titleId": "1622578827",
+    "isTitleBased": true
+  },
+  {
     "title": "Scorchy Sky Trials (Xbox One)",
     "titleId": "1622671280",
     "isTitleBased": true
@@ -6247,6 +6252,11 @@
   {
     "title": "Bomboban (Windows)",
     "titleId": "1628633063",
+    "isTitleBased": true
+  },
+  {
+    "title": "Nickelodeon Extreme Tennis: Next!",
+    "titleId": "1628640162",
     "isTitleBased": true
   },
   {
@@ -7637,6 +7647,11 @@
   {
     "title": "Craftopia",
     "titleId": "1642353875",
+    "isTitleBased": true
+  },
+  {
+    "title": "Clockwork Blackout (Xbox One)",
+    "titleId": "1642364500",
     "isTitleBased": true
   },
   {
@@ -14833,6 +14848,11 @@
     "title": "Evertried",
     "titleId": "1714406869",
     "isTitleBased": true
+  },
+  {
+    "title": "Cook For Love",
+    "titleId": "1714410705",
+    "isTitleBased": false
   },
   {
     "title": "Firefighting Simulator - The Squad",
@@ -23777,7 +23797,7 @@
   {
     "title": "Call of the Elder Gods",
     "titleId": "1805523441",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Candy Trail (Windows)",
@@ -25857,7 +25877,7 @@
   {
     "title": "9th Dawn III",
     "titleId": "1828682259",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "Evil Nun: The Broken Mask",
@@ -29853,6 +29873,11 @@
     "title": "MiLE HiGH TAXi",
     "titleId": "1870632128",
     "isTitleBased": false
+  },
+  {
+    "title": "Flee The Fallen",
+    "titleId": "1870687932",
+    "isTitleBased": true
   },
   {
     "title": "She's Leaving",
@@ -34465,6 +34490,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Clockwork Blackout (Xbox Series X/S)",
+    "titleId": "1918259419",
+    "isTitleBased": true
+  },
+  {
     "title": "Werewolf Pinball",
     "titleId": "1918361672",
     "isTitleBased": true
@@ -35782,6 +35812,11 @@
   {
     "title": "Robocraft Infinity",
     "titleId": "193196495",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 POLARIS",
+    "titleId": "1932074707",
     "isTitleBased": true
   },
   {
@@ -45682,7 +45717,7 @@
   {
     "title": "ASCENDANCE UNBOUND",
     "titleId": "2033729128",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "while True: learn()",
@@ -55610,6 +55645,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Indoor Baseball",
+    "titleId": "2136871363",
+    "isTitleBased": true
+  },
+  {
     "title": "Bugsnax",
     "titleId": "2136950563",
     "isTitleBased": true
@@ -55967,7 +56007,7 @@
   {
     "title": "Bandit Trap",
     "titleId": "2141362005",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Worldless",

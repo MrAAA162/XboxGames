@@ -15170,7 +15170,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Sea of Thieves: 2025 Edition",
+    "title": "Sea of Thieves: 2026 Edition",
     "titleId": "1717113201",
     "isTitleBased": true
   },
@@ -25927,7 +25927,7 @@
   {
     "title": "9th Dawn III",
     "titleId": "1828682259",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Evil Nun: The Broken Mask",
@@ -27975,6 +27975,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Chef's Journey: Cooking Adventures",
+    "titleId": "1850252450",
+    "isTitleBased": false
+  },
+  {
     "title": "6Souls",
     "titleId": "1850315525",
     "isTitleBased": true
@@ -28500,7 +28505,7 @@
     "isTitleBased": true
   },
   {
-    "title": "The Sims™ + The Sims Packs",
+    "title": "The Sims™ Legacy Collection",
     "titleId": "1856025525",
     "isTitleBased": false
   },
@@ -31785,7 +31790,7 @@
     "isTitleBased": true
   },
   {
-    "title": "The Sims™ 2 + The Sims™ 2 Packs",
+    "title": "The Sims™ 2 Legacy Collection",
     "titleId": "1889369256",
     "isTitleBased": false
   },
@@ -32978,6 +32983,11 @@
     "title": "Aery - Winter Wonderland",
     "titleId": "1900999449",
     "isTitleBased": true
+  },
+  {
+    "title": "Pawbay",
+    "titleId": "1901009298",
+    "isTitleBased": false
   },
   {
     "title": "Shaolin vs Wutang",
@@ -48285,6 +48295,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Secrets of Velendar Castle - Escape Room",
+    "titleId": "2058596130",
+    "isTitleBased": false
+  },
+  {
     "title": "Attack of the Toy Tanks",
     "titleId": "2058605218",
     "isTitleBased": true
@@ -52275,6 +52290,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Chroma Zero",
+    "titleId": "2100882549",
+    "isTitleBased": true
+  },
+  {
     "title": "Mechstermination Force",
     "titleId": "2100895881",
     "isTitleBased": true
@@ -53077,6 +53097,11 @@
   {
     "title": "Dead Man´s Diary",
     "titleId": "2109456271",
+    "isTitleBased": true
+  },
+  {
+    "title": "OBLITACRATER",
+    "titleId": "2109567965",
     "isTitleBased": true
   },
   {
@@ -53937,7 +53962,7 @@
   {
     "title": "Eagle Island Twist",
     "titleId": "2118243068",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "Cookie Cutter",

@@ -14867,7 +14867,7 @@
   {
     "title": "Cook For Love",
     "titleId": "1714410705",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Firefighting Simulator - The Squad",
@@ -16135,6 +16135,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Causal Loop",
+    "titleId": "1727367899",
+    "isTitleBased": true
+  },
+  {
     "title": "STAY COOL, KOBAYASHI-SAN!: A RIVER CITY RANSOM STORY",
     "titleId": "1727373196",
     "isTitleBased": true
@@ -16447,6 +16452,11 @@
   {
     "title": "Bloodroots",
     "titleId": "1730368869",
+    "isTitleBased": true
+  },
+  {
+    "title": "Limbot",
+    "titleId": "1730394442",
     "isTitleBased": true
   },
   {
@@ -17993,6 +18003,11 @@
     "title": "Sports Renovations",
     "titleId": "1746694892",
     "isTitleBased": true
+  },
+  {
+    "title": "Blueberry",
+    "titleId": "1746704638",
+    "isTitleBased": false
   },
   {
     "title": "Legends Aligned",
@@ -20890,6 +20905,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Versebound",
+    "titleId": "1775673051",
+    "isTitleBased": true
+  },
+  {
     "title": "Republic of Pirates",
     "titleId": "1775673786",
     "isTitleBased": true
@@ -23050,6 +23070,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Elementallis",
+    "titleId": "1797803457",
+    "isTitleBased": true
+  },
+  {
     "title": "Kuky Adventure (Windows)",
     "titleId": "1797823152",
     "isTitleBased": true
@@ -23187,6 +23212,11 @@
   {
     "title": "Endless Fables: Dark Moor (Xbox One Version)",
     "titleId": "1799391615",
+    "isTitleBased": true
+  },
+  {
+    "title": "Yomi 2",
+    "titleId": "1799413239",
     "isTitleBased": true
   },
   {
@@ -28745,7 +28775,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Tom Clancy's Rainbow Six Siege -",
+    "title": "Tom Clancy's Rainbow Six Siege",
     "titleId": "1858402591",
     "isTitleBased": false
   },
@@ -32425,6 +32455,11 @@
     "isTitleBased": false
   },
   {
+    "title": "RetroSpace",
+    "titleId": "1895210295",
+    "isTitleBased": false
+  },
+  {
     "title": "Motesolo: No Girlfriend Since Birth",
     "titleId": "1895238803",
     "isTitleBased": true
@@ -32812,6 +32847,11 @@
   {
     "title": "Axobubble (Xbox One)",
     "titleId": "1899542897",
+    "isTitleBased": true
+  },
+  {
+    "title": "Barbarous: Survivor's Quest",
+    "titleId": "1899605529",
     "isTitleBased": true
   },
   {
@@ -40575,6 +40615,11 @@
     "isTitleBased": true
   },
   {
+    "title": "NITRO GEN OMEGA",
+    "titleId": "1981338612",
+    "isTitleBased": true
+  },
+  {
     "title": "Peaky Blinders: Mastermind",
     "titleId": "1981398452",
     "isTitleBased": true
@@ -40912,6 +40957,11 @@
   {
     "title": "Godsvivors",
     "titleId": "1984588613",
+    "isTitleBased": true
+  },
+  {
+    "title": "Spire Blast",
+    "titleId": "1984660194",
     "isTitleBased": true
   },
   {
@@ -41632,6 +41682,11 @@
   {
     "title": "The Legacy of Griselda",
     "titleId": "1991995742",
+    "isTitleBased": true
+  },
+  {
+    "title": "DIMENSIONS 2",
+    "titleId": "1992255823",
     "isTitleBased": true
   },
   {
@@ -44517,7 +44572,7 @@
   {
     "title": "MotoGP™26",
     "titleId": "2021005220",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Slender: The Arrival",
@@ -49647,7 +49702,7 @@
   {
     "title": "Dosa Divas",
     "titleId": "2073290230",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Ready or Not",
@@ -50400,7 +50455,7 @@
     "isTitleBased": true
   },
   {
-    "title": "AGNI!",
+    "title": "AGNITEST",
     "titleId": "2080159525",
     "isTitleBased": true
   },
@@ -50667,7 +50722,7 @@
   {
     "title": "REPLACED",
     "titleId": "2083118773",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Dead Tree of Ranchiuna",
@@ -50987,7 +51042,7 @@
   {
     "title": "Ground Zero",
     "titleId": "2086871459",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Lost Cube",
@@ -52510,6 +52565,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dragon Is Dead",
+    "titleId": "2103350728",
+    "isTitleBased": true
+  },
+  {
     "title": "Check and Slash (Windows)",
     "titleId": "2103363931",
     "isTitleBased": true
@@ -53962,7 +54022,7 @@
   {
     "title": "Eagle Island Twist",
     "titleId": "2118243068",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Cookie Cutter",
@@ -54537,6 +54597,11 @@
   {
     "title": "Zombie Soup",
     "titleId": "2124659425",
+    "isTitleBased": true
+  },
+  {
+    "title": "Our Metal Bowl",
+    "titleId": "2124675908",
     "isTitleBased": true
   },
   {

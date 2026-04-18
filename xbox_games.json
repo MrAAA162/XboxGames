@@ -4770,7 +4770,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Hela",
+    "title": "Hela: of Mice & Magic",
     "titleId": "1613107993",
     "isTitleBased": false
   },
@@ -11998,6 +11998,11 @@
     "title": "Lord of the Click: Interstellar Wars",
     "titleId": "1686616116",
     "isTitleBased": true
+  },
+  {
+    "title": "Rivage",
+    "titleId": "1686655508",
+    "isTitleBased": false
   },
   {
     "title": "Full Metal Sergeant",
@@ -19380,6 +19385,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Kingdom's Return: Time-Eating Fruit and the Ancient Monster",
+    "titleId": "1760526104",
+    "isTitleBased": true
+  },
+  {
     "title": "Touhou Luna Nights",
     "titleId": "1760551143",
     "isTitleBased": true
@@ -22945,6 +22955,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Forever Skies",
+    "titleId": "1795518228",
+    "isTitleBased": false
+  },
+  {
     "title": "Barbie™ Horse Trails",
     "titleId": "1795554480",
     "isTitleBased": true
@@ -24030,6 +24045,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Death By Scrolling",
+    "titleId": "1806584687",
+    "isTitleBased": true
+  },
+  {
     "title": "RollerCoaster Tycoon Classic",
     "titleId": "1806655067",
     "isTitleBased": true
@@ -25108,6 +25128,11 @@
     "title": "Slide Viking (Windows)",
     "titleId": "1818751429",
     "isTitleBased": true
+  },
+  {
+    "title": "Construction Simulator: Evolution",
+    "titleId": "1818865677",
+    "isTitleBased": false
   },
   {
     "title": "Giant Rush",
@@ -27065,6 +27090,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Ereban: Shadow Legacy",
+    "titleId": "1840144233",
+    "isTitleBased": true
+  },
+  {
     "title": "Random Heroes: Gold Edition",
     "titleId": "1840246441",
     "isTitleBased": true
@@ -27925,7 +27955,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Pinball M",
+    "title": "Pinball FX Midnight",
     "titleId": "1848728299",
     "isTitleBased": true
   },
@@ -29593,6 +29623,11 @@
     "title": "Burnhouse Lane",
     "titleId": "1866204162",
     "isTitleBased": true
+  },
+  {
+    "title": "METRO 2039",
+    "titleId": "1866333429",
+    "isTitleBased": false
   },
   {
     "title": "Iron Harvest (Windows)",
@@ -36225,6 +36260,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Corsair Cove",
+    "titleId": "1935260193",
+    "isTitleBased": false
+  },
+  {
     "title": "Fit and Fry (Xbox One)",
     "titleId": "1935356319",
     "isTitleBased": true
@@ -36837,6 +36877,11 @@
   {
     "title": "Empire of the Ants",
     "titleId": "1941057630",
+    "isTitleBased": true
+  },
+  {
+    "title": "Starstruck Vagabond",
+    "titleId": "1941156581",
     "isTitleBased": true
   },
   {
@@ -43487,7 +43532,7 @@
   {
     "title": "XC Tak Validation",
     "titleId": "2010198775",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "Fantastic Contraption",
@@ -43582,7 +43627,7 @@
   {
     "title": "PRAGMATA",
     "titleId": "2011061477",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Pacify",
@@ -44717,7 +44762,7 @@
   {
     "title": "Skautfold: Shrouded in Sanity",
     "titleId": "2021629395",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "Nocturnal Whispers",
@@ -48137,7 +48182,7 @@
   {
     "title": "Falling Out",
     "titleId": "2055752374",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "The Elf on the Shelf®: Christmas Heroes",
@@ -49690,6 +49735,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Guts 'n Grunts Sr.",
+    "titleId": "2072643237",
+    "isTitleBased": true
+  },
+  {
     "title": "Legends Of Orisha: Blood and Water",
     "titleId": "2072659092",
     "isTitleBased": false
@@ -51162,7 +51212,7 @@
   {
     "title": "MOUSE: P.I. For Hire",
     "titleId": "2087575977",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Book of Adventum",
@@ -51518,6 +51568,11 @@
     "title": "Megaparty: A Tootuff Adventure",
     "titleId": "2091623135",
     "isTitleBased": true
+  },
+  {
+    "title": "Kitaria Fables 2",
+    "titleId": "2091809561",
+    "isTitleBased": false
   },
   {
     "title": "Neptunia Game Maker R:Evolution",

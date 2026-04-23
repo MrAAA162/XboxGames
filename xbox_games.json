@@ -5550,6 +5550,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Gravebound Dash (Windows)",
+    "titleId": "1620899310",
+    "isTitleBased": true
+  },
+  {
     "title": "Vagante",
     "titleId": "1620954305",
     "isTitleBased": true
@@ -6777,7 +6782,7 @@
   {
     "title": "Snack and Quack: Duckling Steps (Xbox One)",
     "titleId": "1633036635",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "SONIC SUPERSTARS",
@@ -8120,6 +8125,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dentist Bling",
+    "titleId": "1646780412",
+    "isTitleBased": true
+  },
+  {
     "title": "Treachery in Beatdown City: Ultra Remix",
     "titleId": "1646787217",
     "isTitleBased": false
@@ -8623,6 +8633,11 @@
     "title": "Naheulbeuk's Dungeon Master",
     "titleId": "1651407582",
     "isTitleBased": true
+  },
+  {
+    "title": "DRAGON BALL XENOVERSE 3",
+    "titleId": "1651415071",
+    "isTitleBased": false
   },
   {
     "title": "The Safe Place",
@@ -9525,6 +9540,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Assassin's Creed Black Flag Resynced",
+    "titleId": "1661962317",
+    "isTitleBased": false
+  },
+  {
     "title": "Guntech 2",
     "titleId": "1662089078",
     "isTitleBased": true
@@ -9945,6 +9965,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Shy Cats Hidden Orchestra 2",
+    "titleId": "1666530622",
+    "isTitleBased": true
+  },
+  {
     "title": "Weedcraft Inc",
     "titleId": "1666548378",
     "isTitleBased": true
@@ -10130,7 +10155,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Kulebra and the Souls of Limbo",
+    "title": "Kulebra and the Souls of Limbo: Closure Edition",
     "titleId": "1668424649",
     "isTitleBased": true
   },
@@ -12225,6 +12250,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Moon Raider: Anniversary Edition",
+    "titleId": "1689543063",
+    "isTitleBased": true
+  },
+  {
     "title": "Dyna Bomb 2",
     "titleId": "1689582836",
     "isTitleBased": true
@@ -13800,6 +13830,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Fool's Pub",
+    "titleId": "1703928788",
+    "isTitleBased": true
+  },
+  {
     "title": "Clash: Artifacts of Chaos",
     "titleId": "1703939860",
     "isTitleBased": true
@@ -14850,6 +14885,11 @@
     "isTitleBased": true
   },
   {
+    "title": "DPS IDLE 2",
+    "titleId": "1713885313",
+    "isTitleBased": true
+  },
+  {
     "title": "Lord of the Click II",
     "titleId": "1713962807",
     "isTitleBased": true
@@ -15212,6 +15252,11 @@
   {
     "title": "Endless Deaths",
     "titleId": "1717271241",
+    "isTitleBased": true
+  },
+  {
+    "title": "Save My Wife (Windows)",
+    "titleId": "1717278535",
     "isTitleBased": true
   },
   {
@@ -16272,7 +16317,7 @@
   {
     "title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
     "titleId": "1728296368",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "DmC Devil May Cry: Definitive Edition",
@@ -17082,6 +17127,11 @@
   {
     "title": "Re:Touring",
     "titleId": "1736783596",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cralon",
+    "titleId": "1736935121",
     "isTitleBased": true
   },
   {
@@ -19600,6 +19650,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Survivor Mercs",
+    "titleId": "1762659260",
+    "isTitleBased": true
+  },
+  {
     "title": "The Lord of the Rings: Return to Moria™",
     "titleId": "1762703770",
     "isTitleBased": true
@@ -20400,6 +20455,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Save My Wife",
+    "titleId": "1770381407",
+    "isTitleBased": true
+  },
+  {
     "title": "MEGALAN 11 (Xbox Series X|S)",
     "titleId": "1770382770",
     "isTitleBased": true
@@ -20972,6 +21032,11 @@
   {
     "title": "FatalZone",
     "titleId": "1775857297",
+    "isTitleBased": true
+  },
+  {
+    "title": "DPS IDLE 2 (Xbox One)",
+    "titleId": "1775878547",
     "isTitleBased": true
   },
   {
@@ -21605,6 +21670,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Hoarder",
+    "titleId": "1782006454",
+    "isTitleBased": false
+  },
+  {
     "title": "Chef's Tail",
     "titleId": "1782127760",
     "isTitleBased": true
@@ -21677,6 +21747,11 @@
   {
     "title": "Hearts of Iron IV",
     "titleId": "1782845794",
+    "isTitleBased": true
+  },
+  {
+    "title": "Gravebound Dash (Xbox One)",
+    "titleId": "1782993166",
     "isTitleBased": true
   },
   {
@@ -21988,6 +22063,11 @@
     "title": "Stellar Docks: Deep Space (Xbox One)",
     "titleId": "1786086826",
     "isTitleBased": true
+  },
+  {
+    "title": "Stunt Paradise 2",
+    "titleId": "1786150355",
+    "isTitleBased": false
   },
   {
     "title": "King Slime in Cashtle (Xbox One)",
@@ -24005,7 +24085,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Monsters are Coming! Rock & Road",
+    "title": "Monsters are Coming!",
     "titleId": "1806088999",
     "isTitleBased": true
   },
@@ -24462,6 +24542,11 @@
   {
     "title": "Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles",
     "titleId": "1811494560",
+    "isTitleBased": true
+  },
+  {
+    "title": "PhotoCat Cozy Adventure",
+    "titleId": "1811501971",
     "isTitleBased": true
   },
   {
@@ -26432,6 +26517,11 @@
   {
     "title": "Arsene Lupin - Once A Thief",
     "titleId": "1833008309",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cozy Valley Life",
+    "titleId": "1833081413",
     "isTitleBased": true
   },
   {
@@ -28882,7 +28972,7 @@
   {
     "title": "Froggy Hates Snow",
     "titleId": "1858731712",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Thing: Remastered",
@@ -29365,6 +29455,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dark Hours",
+    "titleId": "1864028566",
+    "isTitleBased": true
+  },
+  {
     "title": "Chronicles of Albian 3: The Vanishing Village Collector's Edition",
     "titleId": "1864051732",
     "isTitleBased": true
@@ -29677,6 +29772,11 @@
   {
     "title": "Quack Jump",
     "titleId": "1866805552",
+    "isTitleBased": true
+  },
+  {
+    "title": "One Button Games 5-in-1 vol. 6 (Xbox One)",
+    "titleId": "1866822064",
     "isTitleBased": true
   },
   {
@@ -34400,6 +34500,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Planet of Lana II - Supporter Pack",
+    "titleId": "1915226299",
+    "isTitleBased": false
+  },
+  {
     "title": "DIY Fashion Star",
     "titleId": "1915281423",
     "isTitleBased": true
@@ -35332,6 +35437,11 @@
   {
     "title": "Warlock's Tower",
     "titleId": "1925552200",
+    "isTitleBased": true
+  },
+  {
+    "title": "Jay and Silent Bob: Chronic Blunt Punch",
+    "titleId": "1925571425",
     "isTitleBased": true
   },
   {
@@ -36465,6 +36575,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Gravebound Dash (Xbox Series X/S)",
+    "titleId": "1937071405",
+    "isTitleBased": true
+  },
+  {
     "title": "Skeljump",
     "titleId": "1937184860",
     "isTitleBased": true
@@ -36837,7 +36952,7 @@
   {
     "title": "Sudden Strike 5",
     "titleId": "1940560837",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Dungeons & Bombs",
@@ -37700,6 +37815,11 @@
     "isTitleBased": true
   },
   {
+    "title": "TerraTech Legion",
+    "titleId": "1949641254",
+    "isTitleBased": true
+  },
+  {
     "title": "The Beast Inside (Console Version)",
     "titleId": "1949662682",
     "isTitleBased": true
@@ -38087,6 +38207,11 @@
   {
     "title": "35MM",
     "titleId": "1953690296",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dungeonloop",
+    "titleId": "1953716215",
     "isTitleBased": true
   },
   {
@@ -41267,7 +41392,7 @@
   {
     "title": "Smash it Wild: Tactical Volleyball Roguelike",
     "titleId": "1986400873",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Platzle",
@@ -43532,7 +43657,7 @@
   {
     "title": "XC Tak Validation",
     "titleId": "2010198775",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Fantastic Contraption",
@@ -43682,6 +43807,11 @@
   {
     "title": "Dark Burial: Enhanced Edition (Windows 10)",
     "titleId": "2011748419",
+    "isTitleBased": true
+  },
+  {
+    "title": "One Button Games 5-in-1 vol. 6",
+    "titleId": "2011834319",
     "isTitleBased": true
   },
   {
@@ -44077,7 +44207,7 @@
   {
     "title": "WILL: Follow The Light",
     "titleId": "2015433008",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "VirtuaVerse",
@@ -44762,7 +44892,7 @@
   {
     "title": "Skautfold: Shrouded in Sanity",
     "titleId": "2021629395",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Nocturnal Whispers",
@@ -48145,6 +48275,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cats and Seek : Tokyo",
+    "titleId": "2055495747",
+    "isTitleBased": true
+  },
+  {
     "title": "Ah, Love! (Xbox One)",
     "titleId": "2055514030",
     "isTitleBased": true
@@ -48182,7 +48317,7 @@
   {
     "title": "Falling Out",
     "titleId": "2055752374",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Elf on the Shelf®: Christmas Heroes",
@@ -50517,7 +50652,7 @@
   {
     "title": "Forza Horizon 6",
     "titleId": "2079757188",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Streets of Rogue",
@@ -50772,7 +50907,7 @@
   {
     "title": "Mashina",
     "titleId": "2082455576",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Gravity Oddity",
@@ -50822,6 +50957,11 @@
   {
     "title": "Jujutsu Kaisen Cursed Clash",
     "titleId": "2082961842",
+    "isTitleBased": true
+  },
+  {
+    "title": "Plantera 2: Golden Acorn",
+    "titleId": "2082964047",
     "isTitleBased": true
   },
   {
@@ -51147,6 +51287,11 @@
   {
     "title": "Sintropia Fruits Together (Xbox One)",
     "titleId": "2086562024",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 STREET SMART",
+    "titleId": "2086689697",
     "isTitleBased": true
   },
   {
@@ -52237,6 +52382,11 @@
   {
     "title": "Alpacapaca Double Dash (Xbox Series X/S)",
     "titleId": "2099190035",
+    "isTitleBased": true
+  },
+  {
+    "title": "Drill Core",
+    "titleId": "2099244998",
     "isTitleBased": true
   },
   {
@@ -53645,6 +53795,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Black Sailors: Bay of All Saints",
+    "titleId": "2113423988",
+    "isTitleBased": false
+  },
+  {
     "title": "Bee Flowers (Windows)",
     "titleId": "2113490163",
     "isTitleBased": true
@@ -54240,6 +54395,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Total War: Warhammer III",
+    "titleId": "2119382094",
+    "isTitleBased": true
+  },
+  {
     "title": "Akka Arrh",
     "titleId": "2119387897",
     "isTitleBased": true
@@ -54337,7 +54497,7 @@
   {
     "title": "Invincible VS",
     "titleId": "2120617189",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Horror Tale 1: Kidnapper",
@@ -55585,6 +55745,11 @@
     "isTitleBased": false
   },
   {
+    "title": "One Button Games 5-in-1 vol. 6 (Windows)",
+    "titleId": "2133551632",
+    "isTitleBased": true
+  },
+  {
     "title": "Flip Lines",
     "titleId": "2133564168",
     "isTitleBased": false
@@ -56147,6 +56312,11 @@
   {
     "title": "Beautiful Sakura: Fighting Club",
     "titleId": "2139111044",
+    "isTitleBased": true
+  },
+  {
+    "title": "Save My Wife (XBOX SERIES)",
+    "titleId": "2139269757",
     "isTitleBased": true
   },
   {

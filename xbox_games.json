@@ -4785,6 +4785,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Isekai Villain",
+    "titleId": "1613291134",
+    "isTitleBased": false
+  },
+  {
     "title": "Tyranny - Gold Edition",
     "titleId": "1613301018",
     "isTitleBased": false
@@ -6952,6 +6957,11 @@
   {
     "title": "Shoulders of Giants: Ultimate",
     "titleId": "1635033134",
+    "isTitleBased": true
+  },
+  {
+    "title": "Traysia",
+    "titleId": "1635062778",
     "isTitleBased": true
   },
   {
@@ -12290,6 +12300,11 @@
     "isTitleBased": true
   },
   {
+    "title": "R-Type Dimensions III",
+    "titleId": "1689852285",
+    "isTitleBased": true
+  },
+  {
     "title": "Sacred 2 (J)",
     "titleId": "1689921786",
     "isTitleBased": false
@@ -13055,6 +13070,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Kettlebell: Inferno Hotel",
+    "titleId": "1696376279",
+    "isTitleBased": false
+  },
+  {
     "title": "ザ・ハウス・オブ・ザ・デッド：リメイク",
     "titleId": "1696435917",
     "isTitleBased": true
@@ -13168,6 +13188,11 @@
     "title": "Disjunction",
     "titleId": "1697327394",
     "isTitleBased": true
+  },
+  {
+    "title": "Moonbrella",
+    "titleId": "1697338169",
+    "isTitleBased": false
   },
   {
     "title": "Chicken Police - Paint it RED!",
@@ -14195,6 +14220,11 @@
     "isTitleBased": true
   },
   {
+    "title": "R-TYPE DX: Music Encore",
+    "titleId": "1707575974",
+    "isTitleBased": true
+  },
+  {
     "title": "Pnevmo-Capsula",
     "titleId": "1707576209",
     "isTitleBased": true
@@ -14357,6 +14387,11 @@
   {
     "title": "Finding America: The Heartland Collector's Edition",
     "titleId": "1708948752",
+    "isTitleBased": true
+  },
+  {
+    "title": "Word Quest: Cyberpunk",
+    "titleId": "1709000658",
     "isTitleBased": true
   },
   {
@@ -18315,6 +18350,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Lofsöng",
+    "titleId": "1749371948",
+    "isTitleBased": false
+  },
+  {
     "title": "Mekorama",
     "titleId": "1749440700",
     "isTitleBased": true
@@ -18422,6 +18462,11 @@
   {
     "title": "El Hijo - A Wild West Tale",
     "titleId": "1750555114",
+    "isTitleBased": true
+  },
+  {
+    "title": "Lacrosse 26",
+    "titleId": "1750584112",
     "isTitleBased": true
   },
   {
@@ -19213,6 +19258,11 @@
     "title": "UNBEATABLE",
     "titleId": "1758041918",
     "isTitleBased": true
+  },
+  {
+    "title": "HYPERyuki: Snowboard Syndicate",
+    "titleId": "1758135011",
+    "isTitleBased": false
   },
   {
     "title": "Escape From Tethys",
@@ -20628,6 +20678,11 @@
     "title": "Star Hunter DX",
     "titleId": "1772442243",
     "isTitleBased": true
+  },
+  {
+    "title": "Totopia",
+    "titleId": "1772468022",
+    "isTitleBased": false
   },
   {
     "title": "Driftland: The Magic Revival",
@@ -22305,6 +22360,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Micro Overdrive: Home Tour",
+    "titleId": "1788751821",
+    "isTitleBased": true
+  },
+  {
     "title": "Doug's Nightmare",
     "titleId": "1788806598",
     "isTitleBased": true
@@ -22670,6 +22730,11 @@
     "isTitleBased": false
   },
   {
+    "title": "SoulQuest",
+    "titleId": "1792298519",
+    "isTitleBased": false
+  },
+  {
     "title": "Starsand Island",
     "titleId": "1792306481",
     "isTitleBased": true
@@ -22998,6 +23063,11 @@
     "title": "Laika: Aged Through Blood",
     "titleId": "1794920029",
     "isTitleBased": true
+  },
+  {
+    "title": "Crashout Crew",
+    "titleId": "1794989506",
+    "isTitleBased": false
   },
   {
     "title": "Ballotron Galaxy",
@@ -27755,6 +27825,11 @@
     "isTitleBased": false
   },
   {
+    "title": "RV There Yet?",
+    "titleId": "1845885580",
+    "isTitleBased": false
+  },
+  {
     "title": "Bool Capture",
     "titleId": "1845916931",
     "isTitleBased": true
@@ -29287,6 +29362,11 @@
   {
     "title": "HOP'N'HOARD (WINDOWS)",
     "titleId": "1862103007",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Coma 3: Bloodlines",
+    "titleId": "1862141076",
     "isTitleBased": true
   },
   {
@@ -34260,6 +34340,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Kalanoro",
+    "titleId": "1912543312",
+    "isTitleBased": false
+  },
+  {
     "title": "Anima Flux Demo",
     "titleId": "1912581219",
     "isTitleBased": false
@@ -34888,6 +34973,11 @@
     "title": "Horror Tale 2: 4k Remaster",
     "titleId": "1918964429",
     "isTitleBased": true
+  },
+  {
+    "title": "Escape Academy 2: Back 2 School",
+    "titleId": "1919019459",
+    "isTitleBased": false
   },
   {
     "title": "Doraemon Dorayaki Shop Story",
@@ -36550,6 +36640,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Deep Dish Dungeon",
+    "titleId": "1936835421",
+    "isTitleBased": false
+  },
+  {
     "title": "Cities: Skylines - Remastered",
     "titleId": "1936845110",
     "isTitleBased": true
@@ -36588,6 +36683,11 @@
     "title": "Kyub",
     "titleId": "193718807",
     "isTitleBased": false
+  },
+  {
+    "title": "Journey of Johann: To The Sky",
+    "titleId": "1937198676",
+    "isTitleBased": true
   },
   {
     "title": "A Gummy's Life",
@@ -37765,6 +37865,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cat&Rabbit Pizza Farming",
+    "titleId": "1949212446",
+    "isTitleBased": true
+  },
+  {
     "title": "SILENT HILL 2",
     "titleId": "1949242128",
     "isTitleBased": true
@@ -38285,6 +38390,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Tears of Metal",
+    "titleId": "1954522566",
+    "isTitleBased": false
+  },
+  {
     "title": "Self-Delusion (Windows)",
     "titleId": "1954529713",
     "isTitleBased": true
@@ -38740,6 +38850,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Confinement",
+    "titleId": "1959524439",
+    "isTitleBased": true
+  },
+  {
     "title": "Rightfully, Beary Arms",
     "titleId": "1959542906",
     "isTitleBased": true
@@ -38917,6 +39032,11 @@
   {
     "title": "Galaxy Kingdoms",
     "titleId": "1961460766",
+    "isTitleBased": true
+  },
+  {
+    "title": "Monster Crown: Sin Eater",
+    "titleId": "1961480206",
     "isTitleBased": true
   },
   {
@@ -42095,6 +42215,11 @@
     "isTitleBased": true
   },
   {
+    "title": "#DRIVE Rally",
+    "titleId": "1993670577",
+    "isTitleBased": true
+  },
+  {
     "title": "3D Chess Game",
     "titleId": "1993684846",
     "isTitleBased": false
@@ -43915,6 +44040,11 @@
     "isTitleBased": true
   },
   {
+    "title": "This is Fine: Maximum Cope",
+    "titleId": "2012817755",
+    "isTitleBased": true
+  },
+  {
     "title": "Eville",
     "titleId": "2012825026",
     "isTitleBased": true
@@ -45307,6 +45437,11 @@
   {
     "title": "Song of Iron",
     "titleId": "2026132596",
+    "isTitleBased": true
+  },
+  {
+    "title": "Floor 9",
+    "titleId": "2026236016",
     "isTitleBased": true
   },
   {
@@ -48095,6 +48230,11 @@
     "isTitleBased": true
   },
   {
+    "title": "DOLLMAKER",
+    "titleId": "2053175398",
+    "isTitleBased": true
+  },
+  {
     "title": "PULMO",
     "titleId": "2053377372",
     "isTitleBased": true
@@ -48233,6 +48373,11 @@
     "title": "Get To Work",
     "titleId": "2054890337",
     "isTitleBased": true
+  },
+  {
+    "title": "AWAYSIS",
+    "titleId": "2055015500",
+    "isTitleBased": false
   },
   {
     "title": "Mahjong Solitair",
@@ -48740,6 +48885,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Saccharine Echo",
+    "titleId": "2060057414",
+    "isTitleBased": true
+  },
+  {
     "title": "Unspottable",
     "titleId": "2060146885",
     "isTitleBased": true
@@ -48838,6 +48988,11 @@
     "title": "Marshmallow Marvin",
     "titleId": "2061258786",
     "isTitleBased": true
+  },
+  {
+    "title": "Gaelic Football Laochra",
+    "titleId": "2061301296",
+    "isTitleBased": false
   },
   {
     "title": "pureya",
@@ -51142,6 +51297,11 @@
   {
     "title": "Bomber Crew",
     "titleId": "2084629317",
+    "isTitleBased": false
+  },
+  {
+    "title": "Vapor World: Over The Mind",
+    "titleId": "2084680545",
     "isTitleBased": false
   },
   {
@@ -56298,6 +56458,11 @@
     "title": "Space Station Sprint",
     "titleId": "2139029288",
     "isTitleBased": true
+  },
+  {
+    "title": "Golf With Your Friends 2",
+    "titleId": "2139052007",
+    "isTitleBased": false
   },
   {
     "title": "Vera Blanc: Full Moon",

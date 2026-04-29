@@ -6787,7 +6787,7 @@
   {
     "title": "Snack and Quack: Duckling Steps (Xbox One)",
     "titleId": "1633036635",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "SONIC SUPERSTARS",
@@ -7565,6 +7565,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Kiln",
+    "titleId": "1641465936",
+    "isTitleBased": true
+  },
+  {
     "title": "The Stone of Madness",
     "titleId": "1641481652",
     "isTitleBased": true
@@ -7693,6 +7698,11 @@
     "title": "Sokobear Winter (Windows)",
     "titleId": "1642658545",
     "isTitleBased": true
+  },
+  {
+    "title": "SpongeBob SquarePants: Titans of the Tide Demo",
+    "titleId": "1642757300",
+    "isTitleBased": false
   },
   {
     "title": "TRANSFORMERS: EARTHSPARK - Expedition",
@@ -9797,7 +9807,7 @@
   {
     "title": "ARC SEED",
     "titleId": "1664766652",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Void Gore",
@@ -12855,6 +12865,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Magic Twins",
+    "titleId": "1693795486",
+    "isTitleBased": true
+  },
+  {
     "title": "Alan Wake 2",
     "titleId": "1693830737",
     "isTitleBased": true
@@ -13862,6 +13877,11 @@
   {
     "title": "Clash: Artifacts of Chaos",
     "titleId": "1703939860",
+    "isTitleBased": true
+  },
+  {
+    "title": "Kristala",
+    "titleId": "1703986144",
     "isTitleBased": true
   },
   {
@@ -25365,6 +25385,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Old Market Simulator",
+    "titleId": "1819981071",
+    "isTitleBased": true
+  },
+  {
     "title": "LEGO® Voyagers",
     "titleId": "1819998160",
     "isTitleBased": true
@@ -34172,7 +34197,7 @@
   {
     "title": "Rival Stars Horse Racing",
     "titleId": "1910888016",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Icy Gifts (Xbox One)",
@@ -35197,7 +35222,7 @@
   {
     "title": "Drug Dealer Simulator 2",
     "titleId": "1921196301",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Last Labyrinth",
@@ -45677,7 +45702,7 @@
   {
     "title": "Gunboat God",
     "titleId": "2028532285",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Weeping Willow (Xbox Series X|S)",
@@ -54017,7 +54042,7 @@
   {
     "title": "Wax Heads",
     "titleId": "2114003529",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Bunny Park",
@@ -57148,6 +57173,11 @@
     "title": "3XTINCTION",
     "titleId": "2146388451",
     "isTitleBased": true
+  },
+  {
+    "title": "60 Seconds! Reatomized Demo",
+    "titleId": "2146391417",
+    "isTitleBased": false
   },
   {
     "title": "Let's Sing 2021",

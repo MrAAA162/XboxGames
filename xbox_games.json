@@ -2410,7 +2410,7 @@
     "isTitleBased": false
   },
   {
-    "title": "The Elder Scrolls Online: Tamriel Unlimited",
+    "title": "The Elder Scrolls Online",
     "titleId": "1285166951",
     "isTitleBased": false
   },
@@ -5830,6 +5830,11 @@
     "isTitleBased": true
   },
   {
+    "title": "BAHAMUT AND THE WAQWAQ TREE",
+    "titleId": "1624276033",
+    "isTitleBased": true
+  },
+  {
     "title": "Diesel Legacy: The Brazen Age",
     "titleId": "1624344529",
     "isTitleBased": true
@@ -6863,6 +6868,11 @@
     "title": "Firework - a modern tale",
     "titleId": "1634051782",
     "isTitleBased": true
+  },
+  {
+    "title": "No More Room in Hell 2",
+    "titleId": "1634088961",
+    "isTitleBased": false
   },
   {
     "title": "Football Manager 2021 Xbox Edition",
@@ -9470,6 +9480,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cat From Hell 2",
+    "titleId": "1660920487",
+    "isTitleBased": true
+  },
+  {
     "title": "Gal Guardians: Demon Purge",
     "titleId": "1661034431",
     "isTitleBased": true
@@ -9925,6 +9940,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Middle Evil: The Priest",
+    "titleId": "1665852018",
+    "isTitleBased": true
+  },
+  {
     "title": "Witchy Life Story",
     "titleId": "1665907749",
     "isTitleBased": true
@@ -10103,6 +10123,11 @@
     "title": "Halo Wars 2",
     "titleId": "1667928394",
     "isTitleBased": false
+  },
+  {
+    "title": "Ultra Crystal Rush (Xbox One)",
+    "titleId": "1667955234",
+    "isTitleBased": true
   },
   {
     "title": "Kubics",
@@ -10610,6 +10635,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Springbot: The Last Spark",
+    "titleId": "1672401938",
+    "isTitleBased": true
+  },
+  {
     "title": "Dungeon Keeper™",
     "titleId": "1672475558",
     "isTitleBased": false
@@ -10815,6 +10845,11 @@
     "isTitleBased": false
   },
   {
+    "title": "EA SPORTS™ College Football 27",
+    "titleId": "1674575880",
+    "isTitleBased": false
+  },
+  {
     "title": "Pipeline Tycoon",
     "titleId": "1674617666",
     "isTitleBased": true
@@ -10897,7 +10932,7 @@
   {
     "title": "Blindfire",
     "titleId": "1675226093",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Liquid Cat (Windows)",
@@ -11445,7 +11480,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Dying Light: The Beast Restored Land",
+    "title": "Dying Light: The Beast",
     "titleId": "1680544459",
     "isTitleBased": true
   },
@@ -12387,6 +12422,11 @@
   {
     "title": "Regalia: Of Men and Monarchs - Royal Edition",
     "titleId": "1690272430",
+    "isTitleBased": true
+  },
+  {
+    "title": "Aery - Calm Horizon",
+    "titleId": "1690283335",
     "isTitleBased": true
   },
   {
@@ -17205,7 +17245,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Total War: Warhammer III",
+    "title": "Total War: Warhammer III (Old Version)",
     "titleId": "1737329553",
     "isTitleBased": true
   },
@@ -17537,7 +17577,7 @@
   {
     "title": "ScooterFlow",
     "titleId": "1740314317",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Super Rolling Heroes Deluxe",
@@ -17667,6 +17707,11 @@
   {
     "title": "The Pathless",
     "titleId": "1741878550",
+    "isTitleBased": true
+  },
+  {
+    "title": "Bag Fight",
+    "titleId": "1741940049",
     "isTitleBased": true
   },
   {
@@ -17940,6 +17985,11 @@
     "isTitleBased": true
   },
   {
+    "title": "iDigging",
+    "titleId": "1744552935",
+    "isTitleBased": true
+  },
+  {
     "title": "Rusty Spout Rescue Adventure",
     "titleId": "1744569178",
     "isTitleBased": true
@@ -18137,7 +18187,7 @@
   {
     "title": "Blueberry",
     "titleId": "1746704638",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Legends Aligned",
@@ -20707,7 +20757,7 @@
   {
     "title": "Driftland: The Magic Revival",
     "titleId": "1772513621",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Messy Up",
@@ -22772,7 +22822,7 @@
   {
     "title": "Sledding Game",
     "titleId": "1792405589",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "A Rite from the Stars: Remaster Edition",
@@ -23950,6 +24000,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Ultra Crystal Rush (Xbox Series X/S)",
+    "titleId": "1804639035",
+    "isTitleBased": true
+  },
+  {
     "title": "Mask of Mists (Xbox Series X|S)",
     "titleId": "1804795180",
     "isTitleBased": true
@@ -24008,6 +24063,11 @@
     "title": "Prey",
     "titleId": "1805003112",
     "isTitleBased": true
+  },
+  {
+    "title": "The Immortal John Triptych",
+    "titleId": "1805011202",
+    "isTitleBased": false
   },
   {
     "title": "Mekabolt+",
@@ -25830,6 +25890,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Bober Constructions",
+    "titleId": "1825056025",
+    "isTitleBased": true
+  },
+  {
     "title": "Ziggy (Windows)",
     "titleId": "1825102531",
     "isTitleBased": true
@@ -26717,6 +26782,11 @@
   {
     "title": "A Sketchbook About Her Sun",
     "titleId": "1833553446",
+    "isTitleBased": true
+  },
+  {
+    "title": "Portrait of a Torn",
+    "titleId": "1833651636",
     "isTitleBased": true
   },
   {
@@ -28028,6 +28098,11 @@
     "title": "ScreamRide",
     "titleId": "1847402697",
     "isTitleBased": false
+  },
+  {
+    "title": "True Fear: Forsaken Souls Part 3",
+    "titleId": "1847513516",
+    "isTitleBased": true
   },
   {
     "title": "The Secret Order: Shadow Breach (Xbox One Version)",
@@ -29663,6 +29738,11 @@
     "title": "Bendy: Lone Wolf",
     "titleId": "1864828194",
     "isTitleBased": true
+  },
+  {
+    "title": "Monopoly: Star Wars™ Heroes vs. Villains",
+    "titleId": "1864843444",
+    "isTitleBased": false
   },
   {
     "title": "Disney Magic Kingdoms",
@@ -32340,6 +32420,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dungeon Clawler",
+    "titleId": "1891276362",
+    "isTitleBased": true
+  },
+  {
     "title": "Demon Skin",
     "titleId": "1891294325",
     "isTitleBased": true
@@ -32422,6 +32507,11 @@
   {
     "title": "To the Moon: Sigmund Minisode 1&2 (Holiday Special)",
     "titleId": "1892181795",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dracamar",
+    "titleId": "1892192256",
     "isTitleBased": true
   },
   {
@@ -33872,6 +33962,11 @@
   {
     "title": "Super Space Club",
     "titleId": "1907108430",
+    "isTitleBased": true
+  },
+  {
+    "title": "Underling Uprising",
+    "titleId": "1907156135",
     "isTitleBased": true
   },
   {
@@ -35510,6 +35605,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Zumba World - The Marble Monster Adventure",
+    "titleId": "1924808216",
+    "isTitleBased": true
+  },
+  {
     "title": "90'' Soccer",
     "titleId": "1924963402",
     "isTitleBased": true
@@ -35978,6 +36078,11 @@
     "title": "VAMPYR",
     "titleId": "1929508962",
     "isTitleBased": true
+  },
+  {
+    "title": "Salvation: Echoes of War",
+    "titleId": "1929509371",
+    "isTitleBased": false
   },
   {
     "title": "Truxton Extreme",
@@ -39225,6 +39330,11 @@
     "isTitleBased": true
   },
   {
+    "title": "EA SPORTS™ Madden NFL 27",
+    "titleId": "1962870476",
+    "isTitleBased": false
+  },
+  {
     "title": "Company of Heroes 2: Complete Collection",
     "titleId": "1962870492",
     "isTitleBased": true
@@ -40827,7 +40937,7 @@
   {
     "title": "Warhammer 40,000: Mechanicus II",
     "titleId": "1979514848",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Grit and Valor - 1949",
@@ -41017,6 +41127,11 @@
   {
     "title": "The Library of Babel",
     "titleId": "1981460472",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 CYBER COMMANDO",
+    "titleId": "1981465754",
     "isTitleBased": true
   },
   {
@@ -42837,6 +42952,11 @@
   {
     "title": "Rubberduck Wave Racer",
     "titleId": "1999827971",
+    "isTitleBased": true
+  },
+  {
+    "title": "Ultra Crystal Rush (Windows)",
+    "titleId": "1999883824",
     "isTitleBased": true
   },
   {
@@ -45305,6 +45425,11 @@
     "isTitleBased": true
   },
   {
+    "title": "70s-style Robot Anime Geppy-X",
+    "titleId": "2024528355",
+    "isTitleBased": true
+  },
+  {
     "title": "Medal of Honor Airborne™",
     "titleId": "2024562745",
     "isTitleBased": false
@@ -45472,7 +45597,7 @@
   {
     "title": "Heroes of Might and Magic: Olden Era (Game Preview)",
     "titleId": "2026289722",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Manairons",
@@ -46945,6 +47070,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Tiny Lands 2",
+    "titleId": "2039224994",
+    "isTitleBased": true
+  },
+  {
     "title": "Suika Nyaa (Xbox One)",
     "titleId": "2039259323",
     "isTitleBased": true
@@ -48010,6 +48140,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Strange Antiquities",
+    "titleId": "2050564609",
+    "isTitleBased": true
+  },
+  {
     "title": "Squad 51 vs. the Flying Saucers",
     "titleId": "2050765618",
     "isTitleBased": true
@@ -48400,6 +48535,11 @@
     "isTitleBased": true
   },
   {
+    "title": "RoadOut",
+    "titleId": "2054895680",
+    "isTitleBased": true
+  },
+  {
     "title": "AWAYSIS",
     "titleId": "2055015500",
     "isTitleBased": false
@@ -48587,7 +48727,7 @@
   {
     "title": "inKONBINI: One Store. Many Stories",
     "titleId": "2056728314",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Home Sheep Home: Farmageddon Party Edition",
@@ -49420,6 +49560,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dr. Psycho: Hospital Escape",
+    "titleId": "2065864942",
+    "isTitleBased": true
+  },
+  {
     "title": "Danganronpa V3: Killing Harmony Anniversary Edition",
     "titleId": "2065869943",
     "isTitleBased": true
@@ -49755,6 +49900,11 @@
     "isTitleBased": true
   },
   {
+    "title": "In Trusted Hands",
+    "titleId": "2069767141",
+    "isTitleBased": true
+  },
+  {
     "title": "Repit",
     "titleId": "2069792634",
     "isTitleBased": true
@@ -49975,9 +50125,9 @@
     "isTitleBased": true
   },
   {
-    "title": "Menace from the Deep Complete Editon",
+    "title": "Menace from the Deep: Complete Edition",
     "titleId": "2071877964",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Lost Artifacts",
@@ -51128,6 +51278,11 @@
     "title": "Overlord",
     "titleId": "208279263",
     "isTitleBased": false
+  },
+  {
+    "title": "Psyvariar 3",
+    "titleId": "2082886097",
+    "isTitleBased": true
   },
   {
     "title": "Lichtspeer: Double Speer Edition",
@@ -53237,7 +53392,7 @@
   {
     "title": "Adorable Adventures",
     "titleId": "2105457739",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Tenants",
@@ -54530,7 +54685,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Subnautica 2",
+    "title": "Subnautica 2 (Game Preview)",
     "titleId": "2119021593",
     "isTitleBased": false
   },
@@ -56135,6 +56290,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Bellwright",
+    "titleId": "2135464087",
+    "isTitleBased": false
+  },
+  {
     "title": "Doughlings: Invasion",
     "titleId": "2135476507",
     "isTitleBased": true
@@ -57102,7 +57262,7 @@
   {
     "title": "Coffee Talk Tokyo",
     "titleId": "2145430901",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "My Memory of Us",

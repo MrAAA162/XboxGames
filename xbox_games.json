@@ -5345,7 +5345,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Rally Mechanic Simulator",
+    "title": "Rally Car Mechanic Simulator",
     "titleId": "1618892988",
     "isTitleBased": false
   },
@@ -6262,6 +6262,11 @@
   {
     "title": "Super Tennis Blast",
     "titleId": "1628468632",
+    "isTitleBased": true
+  },
+  {
+    "title": "Table Flip Simulator",
+    "titleId": "1628492427",
     "isTitleBased": true
   },
   {
@@ -9405,6 +9410,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Paperly: Paper Plane Adventure",
+    "titleId": "1659664271",
+    "isTitleBased": false
+  },
+  {
     "title": "Ori and the Will of the Wisps",
     "titleId": "1659804324",
     "isTitleBased": true
@@ -9470,7 +9480,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Ungodly",
+    "title": "UnGodly",
     "titleId": "1660886629",
     "isTitleBased": false
   },
@@ -11015,6 +11025,11 @@
     "isTitleBased": true
   },
   {
+    "title": "BrokenLore: FOLLOW",
+    "titleId": "1676016667",
+    "isTitleBased": true
+  },
+  {
     "title": "Spooky's Jump Scare Mansion: HD Renovation",
     "titleId": "1676037121",
     "isTitleBased": true
@@ -11438,6 +11453,11 @@
     "title": "WATCH_DOGS",
     "titleId": "1680039386",
     "isTitleBased": false
+  },
+  {
+    "title": "Perfect Klondike Solitaire",
+    "titleId": "1680068944",
+    "isTitleBased": true
   },
   {
     "title": "Backrooms Level X",
@@ -14395,6 +14415,11 @@
     "isTitleBased": true
   },
   {
+    "title": "So Much Stuff Collector's Edition",
+    "titleId": "1708383800",
+    "isTitleBased": true
+  },
+  {
     "title": "Project ETHOS",
     "titleId": "1708500558",
     "isTitleBased": false
@@ -15867,6 +15892,11 @@
   {
     "title": "Word Quest Space",
     "titleId": "1723064655",
+    "isTitleBased": true
+  },
+  {
+    "title": "Rune Dice",
+    "titleId": "1723211080",
     "isTitleBased": true
   },
   {
@@ -19635,6 +19665,11 @@
     "isTitleBased": true
   },
   {
+    "title": "BeastLink",
+    "titleId": "1761210792",
+    "isTitleBased": false
+  },
+  {
     "title": "Juufuutei Raden™'s Guide for Pixel Museum",
     "titleId": "1761239368",
     "isTitleBased": true
@@ -20095,6 +20130,11 @@
     "isTitleBased": true
   },
   {
+    "title": "SUMMERHOUSE",
+    "titleId": "1765342554",
+    "isTitleBased": true
+  },
+  {
     "title": "Bravion (Windows)",
     "titleId": "1765406083",
     "isTitleBased": true
@@ -20410,6 +20450,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Paper Pixel (Xbox Series)",
+    "titleId": "1768842875",
+    "isTitleBased": true
+  },
+  {
     "title": "River City Girls 2",
     "titleId": "1769121996",
     "isTitleBased": true
@@ -20703,6 +20748,11 @@
     "title": "ATLAS (Game Preview)",
     "titleId": "1771834186",
     "isTitleBased": false
+  },
+  {
+    "title": "Faircroft's Antiques: The Forbidden Crypt Collector's Edition",
+    "titleId": "1771895153",
+    "isTitleBased": true
   },
   {
     "title": "Lightyear Frontier (Game Preview)",
@@ -25805,6 +25855,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Secret Paws - Cozy Apartments",
+    "titleId": "1824125632",
+    "isTitleBased": true
+  },
+  {
     "title": "Mystic Pathways",
     "titleId": "1824129047",
     "isTitleBased": true
@@ -25942,6 +25997,11 @@
   {
     "title": "The Chess Lv.100",
     "titleId": "1825231131",
+    "isTitleBased": false
+  },
+  {
+    "title": "Backrooms",
+    "titleId": "1825231591",
     "isTitleBased": false
   },
   {
@@ -30485,6 +30545,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Kiko's Apple Adventure",
+    "titleId": "1871916755",
+    "isTitleBased": true
+  },
+  {
     "title": "Planet Zoo: Console Edition",
     "titleId": "1871994086",
     "isTitleBased": true
@@ -32095,6 +32160,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Countryside Farm Clues",
+    "titleId": "1888416582",
+    "isTitleBased": false
+  },
+  {
     "title": "Escape String",
     "titleId": "1888450261",
     "isTitleBased": true
@@ -33222,6 +33292,11 @@
   {
     "title": "Fran Bow",
     "titleId": "1899291024",
+    "isTitleBased": true
+  },
+  {
+    "title": "Haneda Girl",
+    "titleId": "1899443020",
     "isTitleBased": true
   },
   {
@@ -36425,6 +36500,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arcade Archives 2 ARKANOID",
+    "titleId": "1933007158",
+    "isTitleBased": true
+  },
+  {
     "title": "GladMort",
     "titleId": "1933095188",
     "isTitleBased": true
@@ -36687,6 +36767,11 @@
   {
     "title": "Heroes Trials",
     "titleId": "1935874120",
+    "isTitleBased": true
+  },
+  {
+    "title": "Riven",
+    "titleId": "1935887689",
     "isTitleBased": true
   },
   {
@@ -37132,6 +37217,11 @@
   {
     "title": "Headliner: NoviNews",
     "titleId": "1940198155",
+    "isTitleBased": true
+  },
+  {
+    "title": "Jewel Match Solitaire L'Amour",
+    "titleId": "1940209442",
     "isTitleBased": true
   },
   {
@@ -37970,6 +38060,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Savara",
+    "titleId": "1948714522",
+    "isTitleBased": false
+  },
+  {
     "title": "Stable Stories - Forest and Meadow Ride",
     "titleId": "1948763092",
     "isTitleBased": true
@@ -38107,7 +38202,7 @@
   {
     "title": "Mixtape",
     "titleId": "1950263247",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Hellpoint",
@@ -39580,6 +39675,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Mariachi Legends",
+    "titleId": "1965148978",
+    "isTitleBased": false
+  },
+  {
     "title": "F1® 24",
     "titleId": "1965191913",
     "isTitleBased": true
@@ -41005,6 +41105,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Super Adventure Hand",
+    "titleId": "1980078432",
+    "isTitleBased": true
+  },
+  {
     "title": "Suikaiju (Windows)",
     "titleId": "1980176822",
     "isTitleBased": true
@@ -41548,6 +41653,11 @@
     "title": "World of Tanks Blitz",
     "titleId": "1985239734",
     "isTitleBased": false
+  },
+  {
+    "title": "Paper Pixel",
+    "titleId": "1985304384",
+    "isTitleBased": true
   },
   {
     "title": "XENOTILT: HOSTILE PINBALL ACTION",
@@ -42423,6 +42533,11 @@
     "title": "Candle Knight",
     "titleId": "1994699092",
     "isTitleBased": true
+  },
+  {
+    "title": "Marsupilami 2 – Salsa Palombia",
+    "titleId": "1994706436",
+    "isTitleBased": false
   },
   {
     "title": "Wildekin",
@@ -44305,6 +44420,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Axe Cop",
+    "titleId": "2013905593",
+    "isTitleBased": true
+  },
+  {
     "title": "Aniquilation",
     "titleId": "2014034747",
     "isTitleBased": true
@@ -44388,6 +44508,11 @@
     "title": "Tourist Trap",
     "titleId": "2014396112",
     "isTitleBased": true
+  },
+  {
+    "title": "PAPERHEAD",
+    "titleId": "2014430340",
+    "isTitleBased": false
   },
   {
     "title": "Teacup",
@@ -44527,6 +44652,11 @@
   {
     "title": "Closer the Distance",
     "titleId": "2015781000",
+    "isTitleBased": true
+  },
+  {
+    "title": "Microsoft Jewel",
+    "titleId": "2015790908",
     "isTitleBased": true
   },
   {
@@ -46392,6 +46522,11 @@
   {
     "title": "Mining Rail 2",
     "titleId": "2033660200",
+    "isTitleBased": true
+  },
+  {
+    "title": "Countryside Farm Clues (Xbox One)",
+    "titleId": "2033667590",
     "isTitleBased": true
   },
   {
@@ -57222,6 +57357,11 @@
   {
     "title": "West of Dead",
     "titleId": "2144997626",
+    "isTitleBased": true
+  },
+  {
+    "title": "Mori Carta",
+    "titleId": "2145001590",
     "isTitleBased": true
   },
   {

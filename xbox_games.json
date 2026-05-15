@@ -4787,7 +4787,7 @@
   {
     "title": "Isekai Villain",
     "titleId": "1613291134",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Tyranny - Gold Edition",
@@ -9585,6 +9585,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Little Things",
+    "titleId": "1661934379",
+    "isTitleBased": true
+  },
+  {
     "title": "Assassin's Creed Black Flag Resynced",
     "titleId": "1661962317",
     "isTitleBased": false
@@ -12282,6 +12287,11 @@
   {
     "title": "Astral Takers",
     "titleId": "1689233846",
+    "isTitleBased": true
+  },
+  {
+    "title": "Black Jacket",
+    "titleId": "1689241275",
     "isTitleBased": true
   },
   {
@@ -23947,7 +23957,7 @@
   {
     "title": "AAT Test Game 29",
     "titleId": "1803733345",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "LEGO Star Wars II",
@@ -27920,6 +27930,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Codename: Black Crow",
+    "titleId": "1845224726",
+    "isTitleBased": true
+  },
+  {
     "title": "Trine 2: Complete Story",
     "titleId": "1845231868",
     "isTitleBased": true
@@ -30510,6 +30525,11 @@
     "isTitleBased": true
   },
   {
+    "title": "MILKY WAY TD SURVIVORS AUTOBATTLER",
+    "titleId": "1871640896",
+    "isTitleBased": true
+  },
+  {
     "title": "Grizzly Bear is Hungry - Xbox Series X/S",
     "titleId": "1871641137",
     "isTitleBased": true
@@ -32162,7 +32182,7 @@
   {
     "title": "Countryside Farm Clues",
     "titleId": "1888416582",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Escape String",
@@ -32242,6 +32262,11 @@
   {
     "title": "Deep Space Anomaly",
     "titleId": "1889204779",
+    "isTitleBased": true
+  },
+  {
+    "title": "MILKY WAY TD SURVIVORS AUTOBATTLER (Xbox One)",
+    "titleId": "1889232588",
     "isTitleBased": true
   },
   {
@@ -33482,7 +33507,7 @@
   {
     "title": "Pawbay",
     "titleId": "1901009298",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Shaolin vs Wutang",
@@ -38062,7 +38087,7 @@
   {
     "title": "Savara",
     "titleId": "1948714522",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Stable Stories - Forest and Meadow Ride",
@@ -38732,6 +38757,11 @@
   {
     "title": "Paper Dash - Ghost Hunt",
     "titleId": "1955842277",
+    "isTitleBased": true
+  },
+  {
+    "title": "Slime Jumper",
+    "titleId": "1955874561",
     "isTitleBased": true
   },
   {
@@ -42397,6 +42427,11 @@
   {
     "title": "Garden Story",
     "titleId": "1992947450",
+    "isTitleBased": true
+  },
+  {
+    "title": "Paper Pixel (Windows)",
+    "titleId": "1992954285",
     "isTitleBased": true
   },
   {
@@ -51375,6 +51410,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Word Quest: Horror",
+    "titleId": "2082469716",
+    "isTitleBased": true
+  },
+  {
     "title": "Gravity Oddity",
     "titleId": "2082493011",
     "isTitleBased": true
@@ -52242,6 +52282,11 @@
   {
     "title": "Kona II: Brume",
     "titleId": "2092303758",
+    "isTitleBased": true
+  },
+  {
+    "title": "Gallipoli",
+    "titleId": "2092402415",
     "isTitleBased": true
   },
   {
@@ -54880,6 +54925,11 @@
     "isTitleBased": true
   },
   {
+    "title": "MILKY WAY TD SURVIVORS AUTOBATTLER (Windows)",
+    "titleId": "2119464685",
+    "isTitleBased": true
+  },
+  {
     "title": "Red Bow",
     "titleId": "2119495218",
     "isTitleBased": true
@@ -56072,7 +56122,7 @@
   {
     "title": "Directive 8020",
     "titleId": "2131786732",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "ACA NEOGEO BURNING FIGHT",

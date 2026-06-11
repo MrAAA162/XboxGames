@@ -4795,7 +4795,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Sea of Stars",
+    "title": "Sea of Stars: Sunset Edition",
     "titleId": "1613348546",
     "isTitleBased": true
   },
@@ -4837,6 +4837,11 @@
   {
     "title": "Five Nights at Freddy's 3",
     "titleId": "1613695074",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sokobear Autumn (Windows)",
+    "titleId": "1613699739",
     "isTitleBased": true
   },
   {
@@ -5352,7 +5357,7 @@
   {
     "title": "Rally Car Mechanic Simulator",
     "titleId": "1618892988",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Tales of Symphonia Remastered",
@@ -5735,6 +5740,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Leafy Corner",
+    "titleId": "1622751657",
+    "isTitleBased": false
+  },
+  {
     "title": "Valfaris",
     "titleId": "1622859130",
     "isTitleBased": true
@@ -6053,6 +6063,11 @@
     "title": "Aureole - Wings of Hope",
     "titleId": "1626184316",
     "isTitleBased": true
+  },
+  {
+    "title": "Leaf Blower Co.",
+    "titleId": "1626204440",
+    "isTitleBased": false
   },
   {
     "title": "Dragon Snack (Xbox Series)",
@@ -6535,6 +6550,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Soccer Kid Collection (QUByte Classics)",
+    "titleId": "1630146003",
+    "isTitleBased": true
+  },
+  {
     "title": "Volgarr the Viking II",
     "titleId": "1630163029",
     "isTitleBased": true
@@ -6938,6 +6958,11 @@
     "title": "Super Arcade Soccer 2021",
     "titleId": "1634482046",
     "isTitleBased": true
+  },
+  {
+    "title": "Akatori",
+    "titleId": "1634507681",
+    "isTitleBased": false
   },
   {
     "title": "MathLand",
@@ -7675,6 +7700,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Biomechanical Toy (QUByte Classics)",
+    "titleId": "1641829907",
+    "isTitleBased": true
+  },
+  {
     "title": "Albion Online",
     "titleId": "1641858093",
     "isTitleBased": true
@@ -7813,6 +7843,11 @@
     "title": "Midnight Cat Heist (Xbox Series X/S)",
     "titleId": "1643039488",
     "isTitleBased": true
+  },
+  {
+    "title": "Blood Dungeon",
+    "titleId": "1643147108",
+    "isTitleBased": false
   },
   {
     "title": "Alice: Madness Returns™",
@@ -8390,6 +8425,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Samurai Zero",
+    "titleId": "1648134379",
+    "isTitleBased": false
+  },
+  {
     "title": "Jaden & Jasmine: The Curse of Deception",
     "titleId": "1648258499",
     "isTitleBased": true
@@ -8483,6 +8523,11 @@
     "title": "Ary and the Secret of Seasons",
     "titleId": "1648951692",
     "isTitleBased": true
+  },
+  {
+    "title": "The Road of Dust and Sorrow",
+    "titleId": "1649026496",
+    "isTitleBased": false
   },
   {
     "title": "World of Tanks: HEAT",
@@ -8600,6 +8645,11 @@
     "isTitleBased": false
   },
   {
+    "title": "DAEMORGEN: Dawn of Demons (XBox One)",
+    "titleId": "1650152885",
+    "isTitleBased": true
+  },
+  {
     "title": "Die After Sunset",
     "titleId": "1650158255",
     "isTitleBased": true
@@ -8633,6 +8683,11 @@
     "title": "Solitaire Dreamscapes",
     "titleId": "1650393061",
     "isTitleBased": true
+  },
+  {
+    "title": "Alien: Isolation 2",
+    "titleId": "1650402290",
+    "isTitleBased": false
   },
   {
     "title": "Deus Ex: Mankind Divided™",
@@ -9015,6 +9070,11 @@
     "isTitleBased": true
   },
   {
+    "title": "JOIN US",
+    "titleId": "1653995535",
+    "isTitleBased": false
+  },
+  {
     "title": "MythForce",
     "titleId": "1653999253",
     "isTitleBased": true
@@ -9280,6 +9340,11 @@
     "isTitleBased": true
   },
   {
+    "title": "DAEMORGEN: Dawn of Demons (XBox Series)",
+    "titleId": "1656813237",
+    "isTitleBased": true
+  },
+  {
     "title": "Sweet Bakery Tycoon",
     "titleId": "1656836695",
     "isTitleBased": true
@@ -9445,6 +9510,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Chico's Delivery (Xbox Series)",
+    "titleId": "1658611962",
+    "isTitleBased": true
+  },
+  {
     "title": "Amazecards (Xbox One)",
     "titleId": "1658660555",
     "isTitleBased": true
@@ -9462,6 +9532,11 @@
   {
     "title": "Resident Evil Requiem",
     "titleId": "1658810016",
+    "isTitleBased": true
+  },
+  {
+    "title": "Where Winds Meet",
+    "titleId": "1658822323",
     "isTitleBased": true
   },
   {
@@ -9483,6 +9558,11 @@
     "title": "Captain Tideborne and the Siren's Call",
     "titleId": "1659195640",
     "isTitleBased": true
+  },
+  {
+    "title": "Disney•Pixar Toy Story: Retro Roundup!",
+    "titleId": "1659307066",
+    "isTitleBased": false
   },
   {
     "title": "Neon Apex: Beyond the Limit",
@@ -10285,6 +10365,11 @@
     "isTitleBased": true
   },
   {
+    "title": "gen ATLAS",
+    "titleId": "1668168936",
+    "isTitleBased": false
+  },
+  {
     "title": "BREAKING BRICKS",
     "titleId": "1668214490",
     "isTitleBased": true
@@ -10317,6 +10402,11 @@
   {
     "title": "2 Synchro Hedgehogs (for Windows 10)",
     "titleId": "1668379163",
+    "isTitleBased": true
+  },
+  {
+    "title": "Chico's Delivery (Windows)",
+    "titleId": "1668385190",
     "isTitleBased": true
   },
   {
@@ -10597,7 +10687,7 @@
   {
     "title": "Terrinoth®: Heroes of Descent",
     "titleId": "1670845812",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "ACA NEOGEO METAL SLUG 4 for Windows",
@@ -10852,7 +10942,7 @@
   {
     "title": "Echo Generation 2",
     "titleId": "1673398628",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Lara Returns to the castle (XBOX SERIES)",
@@ -11022,6 +11112,11 @@
   {
     "title": "Shame Legacy",
     "titleId": "1674927377",
+    "isTitleBased": true
+  },
+  {
+    "title": "Eco Mahjong",
+    "titleId": "1674947555",
     "isTitleBased": true
   },
   {
@@ -11325,6 +11420,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Rayman Legends Retold",
+    "titleId": "1677630070",
+    "isTitleBased": false
+  },
+  {
     "title": "Captain Bones",
     "titleId": "1677710402",
     "isTitleBased": true
@@ -11367,6 +11467,11 @@
   {
     "title": "Farm Together",
     "titleId": "1678270415",
+    "isTitleBased": true
+  },
+  {
+    "title": "Moves: Perfect Pair (Xbox Series)",
+    "titleId": "1678291788",
     "isTitleBased": true
   },
   {
@@ -12200,6 +12305,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Thief: The Dark Project Remastered",
+    "titleId": "1685959047",
+    "isTitleBased": false
+  },
+  {
     "title": "Indoor Kickball",
     "titleId": "1686154202",
     "isTitleBased": true
@@ -12482,6 +12592,11 @@
   {
     "title": "Live Factory",
     "titleId": "1689626534",
+    "isTitleBased": true
+  },
+  {
+    "title": "Re:Re:Ghosted",
+    "titleId": "1689677342",
     "isTitleBased": true
   },
   {
@@ -13160,6 +13275,11 @@
     "isTitleBased": true
   },
   {
+    "title": "HITMAN Classic Trilogy Remastered",
+    "titleId": "1694869486",
+    "isTitleBased": false
+  },
+  {
     "title": "Akinofa",
     "titleId": "1694926512",
     "isTitleBased": true
@@ -13323,6 +13443,11 @@
     "title": "GRAVEN",
     "titleId": "1696466008",
     "isTitleBased": false
+  },
+  {
+    "title": "Gas Station Simulator (Xbox Series)",
+    "titleId": "1696603875",
+    "isTitleBased": true
   },
   {
     "title": "Just a Phrase by POWGI",
@@ -13800,6 +13925,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Rayman Origins: Enhanced Edition",
+    "titleId": "1700983074",
+    "isTitleBased": true
+  },
+  {
     "title": "Anvil Saga",
     "titleId": "1701001802",
     "isTitleBased": true
@@ -13887,7 +14017,7 @@
   {
     "title": "HYPERWIRED",
     "titleId": "1701767515",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Trivia: Knowledge Trainer - the Quiz Game",
@@ -13952,6 +14082,11 @@
   {
     "title": "Autumn's Journey",
     "titleId": "1702244274",
+    "isTitleBased": true
+  },
+  {
+    "title": "Junkster",
+    "titleId": "1702245509",
     "isTitleBased": true
   },
   {
@@ -14345,7 +14480,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Tom Clancy's Rainbow Six Siege X - Elite Edition",
+    "title": "Tom Clancy's Rainbow Six Siege - Elite Edition",
     "titleId": "1706534234",
     "isTitleBased": false
   },
@@ -14710,6 +14845,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Penguin's ArcticDex (Windows)",
+    "titleId": "1709862953",
+    "isTitleBased": true
+  },
+  {
     "title": "Super Mega Baseball™ 4",
     "titleId": "1709883356",
     "isTitleBased": false
@@ -14772,6 +14912,11 @@
   {
     "title": "SKINWALKER: First Blood",
     "titleId": "1710339841",
+    "isTitleBased": false
+  },
+  {
+    "title": "Terrible Lizards",
+    "titleId": "1710440811",
     "isTitleBased": false
   },
   {
@@ -15415,6 +15560,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Magicians: The Devil's Deal",
+    "titleId": "1716201384",
+    "isTitleBased": false
+  },
+  {
     "title": "Cyber Tank (Windows)",
     "titleId": "1716226310",
     "isTitleBased": true
@@ -15557,6 +15707,11 @@
   {
     "title": "Sokobear Cave (Windows)",
     "titleId": "1717529908",
+    "isTitleBased": true
+  },
+  {
+    "title": "Spellthief Erinn (Xbox Series X/S)",
+    "titleId": "1717613352",
     "isTitleBased": true
   },
   {
@@ -15987,6 +16142,11 @@
   {
     "title": "9th Dawn Remake",
     "titleId": "1722019576",
+    "isTitleBased": true
+  },
+  {
+    "title": "Bobobby 3D: Stranded Rush (Xbox Series)",
+    "titleId": "1722069710",
     "isTitleBased": true
   },
   {
@@ -16600,6 +16760,11 @@
     "isTitleBased": true
   },
   {
+    "title": "GHOSTLESS",
+    "titleId": "1727804565",
+    "isTitleBased": false
+  },
+  {
     "title": "Arkham Horror: Mother’s Embrace",
     "titleId": "1727835390",
     "isTitleBased": true
@@ -16617,6 +16782,11 @@
   {
     "title": "Plants vs. Zombies™: Replanted",
     "titleId": "1728022534",
+    "isTitleBased": true
+  },
+  {
+    "title": "Amanda the Adventurer 3",
+    "titleId": "1728054958",
     "isTitleBased": true
   },
   {
@@ -17050,6 +17220,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Hamstory",
+    "titleId": "1732322271",
+    "isTitleBased": true
+  },
+  {
     "title": "Cobra Kai 2: Dojos Rising",
     "titleId": "1732400170",
     "isTitleBased": true
@@ -17425,6 +17600,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Hoa 2",
+    "titleId": "1736452559",
+    "isTitleBased": false
+  },
+  {
     "title": "Alien: Isolation",
     "titleId": "1736454335",
     "isTitleBased": true
@@ -17658,6 +17838,11 @@
     "title": "ComputerHead: Springloaded",
     "titleId": "1738930252",
     "isTitleBased": true
+  },
+  {
+    "title": "DeadRoot",
+    "titleId": "1738995900",
+    "isTitleBased": false
   },
   {
     "title": "End of Abyss",
@@ -18315,6 +18500,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Cat Lines",
+    "titleId": "1745442371",
+    "isTitleBased": true
+  },
+  {
     "title": "ACA NEOGEO PUZZLED",
     "titleId": "1745554488",
     "isTitleBased": true
@@ -18347,6 +18537,11 @@
   {
     "title": "Mixups by POWGI",
     "titleId": "1745918155",
+    "isTitleBased": true
+  },
+  {
+    "title": "Penguin's ArcticDex",
+    "titleId": "1745982386",
     "isTitleBased": true
   },
   {
@@ -18567,6 +18762,11 @@
   {
     "title": "Gematombe",
     "titleId": "1748044049",
+    "isTitleBased": true
+  },
+  {
+    "title": "Jungle Shoot (Xbox Series)",
+    "titleId": "1748044280",
     "isTitleBased": true
   },
   {
@@ -18860,6 +19060,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Broken Reality 2000",
+    "titleId": "1751342499",
+    "isTitleBased": true
+  },
+  {
     "title": "AAA Dynamic Scenes",
     "titleId": "1751360232",
     "isTitleBased": true
@@ -19017,7 +19222,7 @@
   {
     "title": "STORY OF SEASONS: Grand Bazaar",
     "titleId": "1753146034",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Crack The Egg!",
@@ -20005,6 +20210,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sea of Remnants",
+    "titleId": "1762455655",
+    "isTitleBased": false
+  },
+  {
     "title": "Dash and Roll",
     "titleId": "1762516874",
     "isTitleBased": true
@@ -20680,6 +20890,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Summer Seaside Search",
+    "titleId": "1768994193",
+    "isTitleBased": true
+  },
+  {
     "title": "River City Girls 2",
     "titleId": "1769121996",
     "isTitleBased": true
@@ -20815,7 +21030,7 @@
     "isTitleBased": true
   },
   {
-    "title": "EMPULSE",
+    "title": "EMPULSE (Game Preview)",
     "titleId": "1770110484",
     "isTitleBased": false
   },
@@ -20847,6 +21062,11 @@
   {
     "title": "Garlic",
     "titleId": "1770351776",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 CAMELTRY",
+    "titleId": "1770370049",
     "isTitleBased": true
   },
   {
@@ -20883,6 +21103,11 @@
     "title": "Disciples: Domination",
     "titleId": "1770625509",
     "isTitleBased": true
+  },
+  {
+    "title": "Nomori",
+    "titleId": "1770809781",
+    "isTitleBased": false
   },
   {
     "title": "ACA NEOGEO BASEBALL STARS 2 for Windows",
@@ -20928,6 +21153,11 @@
     "title": "Santa's Winter Wonders",
     "titleId": "1771555773",
     "isTitleBased": true
+  },
+  {
+    "title": "Vivarium",
+    "titleId": "1771579130",
+    "isTitleBased": false
   },
   {
     "title": "Croc Legend of the Gobbos",
@@ -21640,6 +21870,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Backrooms: Escape Together",
+    "titleId": "1777567504",
+    "isTitleBased": false
+  },
+  {
     "title": "Age of Wonders: Planetfall",
     "titleId": "1777571402",
     "isTitleBased": true
@@ -22190,9 +22425,19 @@
     "isTitleBased": true
   },
   {
+    "title": "Beatdown City Survivors",
+    "titleId": "1783517095",
+    "isTitleBased": true
+  },
+  {
     "title": "Stasis: Bone Totem",
     "titleId": "1783528863",
     "isTitleBased": true
+  },
+  {
+    "title": "Bad Magpie",
+    "titleId": "1783623917",
+    "isTitleBased": false
   },
   {
     "title": "AEW: Fight Forever",
@@ -22308,6 +22553,11 @@
     "title": "Assault Suit Leynos 2 Saturn Tribute",
     "titleId": "1784987658",
     "isTitleBased": true
+  },
+  {
+    "title": "Planet Zoo 2",
+    "titleId": "1784999896",
+    "isTitleBased": false
   },
   {
     "title": "Lost Words: Beyond the Page",
@@ -22523,6 +22773,11 @@
     "title": "Smart Moves 2",
     "titleId": "1786573857",
     "isTitleBased": true
+  },
+  {
+    "title": "Charlatan",
+    "titleId": "1786775837",
+    "isTitleBased": false
   },
   {
     "title": "Yum Yum Cookstar",
@@ -23045,6 +23300,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Perceptum",
+    "titleId": "1792002466",
+    "isTitleBased": false
+  },
+  {
     "title": "The Rabbit Crazy Adventure One More Time (Xbox One)",
     "titleId": "1792055040",
     "isTitleBased": true
@@ -23062,6 +23322,11 @@
   {
     "title": "Legend of Ixtona",
     "titleId": "1792128139",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sokobear Autumn",
+    "titleId": "1792153167",
     "isTitleBased": true
   },
   {
@@ -23422,7 +23687,7 @@
   {
     "title": "Crashout Crew",
     "titleId": "1794989506",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Ballotron Galaxy",
@@ -23472,6 +23737,11 @@
   {
     "title": "Foregone",
     "titleId": "1795644417",
+    "isTitleBased": true
+  },
+  {
+    "title": "Escape the Backrooms",
+    "titleId": "1795790912",
     "isTitleBased": true
   },
   {
@@ -24065,6 +24335,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Gobliiins Collection",
+    "titleId": "1802484064",
+    "isTitleBased": true
+  },
+  {
     "title": "Capcom Arcade Stadium",
     "titleId": "1802600743",
     "isTitleBased": true
@@ -24540,6 +24815,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Do You Really Know About Soccer? (Xbox One)",
+    "titleId": "1806301166",
+    "isTitleBased": true
+  },
+  {
     "title": "DayD: Through Time",
     "titleId": "1806333404",
     "isTitleBased": true
@@ -24623,6 +24903,11 @@
     "title": "ILL",
     "titleId": "1807397064",
     "isTitleBased": false
+  },
+  {
+    "title": "Backyard Baseball",
+    "titleId": "1807479023",
+    "isTitleBased": true
   },
   {
     "title": "F1™ 2017",
@@ -24932,6 +25217,11 @@
   {
     "title": "Space Filler (Windows)",
     "titleId": "1811108941",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hexfire Witch (Xbox One)",
+    "titleId": "1811129580",
     "isTitleBased": true
   },
   {
@@ -25317,6 +25607,11 @@
   {
     "title": "No More Heroes 3",
     "titleId": "1814825729",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 Tatakae! Big Fighter",
+    "titleId": "1815009810",
     "isTitleBased": true
   },
   {
@@ -25977,7 +26272,7 @@
   {
     "title": "The Necromancer's Tale",
     "titleId": "1822313704",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Hand of Fate",
@@ -26315,6 +26610,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arashi Gaiden",
+    "titleId": "1825903159",
+    "isTitleBased": true
+  },
+  {
     "title": "Oh! Edo Towns",
     "titleId": "1825919037",
     "isTitleBased": true
@@ -26347,6 +26647,16 @@
   {
     "title": "Koh-Lanta",
     "titleId": "1826345314",
+    "isTitleBased": true
+  },
+  {
+    "title": "Find The Cats (Xbox One)",
+    "titleId": "1826390129",
+    "isTitleBased": true
+  },
+  {
+    "title": "Give Us A Sign",
+    "titleId": "1826391109",
     "isTitleBased": true
   },
   {
@@ -26673,6 +26983,11 @@
     "title": "Call of Duty®: Black Ops (2010)",
     "titleId": "1829266835",
     "isTitleBased": true
+  },
+  {
+    "title": "Trine 6: Together in Time",
+    "titleId": "1829304007",
+    "isTitleBased": false
   },
   {
     "title": "Have a Nice Death",
@@ -27020,6 +27335,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Crossfire",
+    "titleId": "1833059385",
+    "isTitleBased": false
+  },
+  {
     "title": "Cozy Valley Life",
     "titleId": "1833081413",
     "isTitleBased": true
@@ -27167,6 +27487,11 @@
   {
     "title": "ASTRO AQUA KITTY",
     "titleId": "1833995435",
+    "isTitleBased": true
+  },
+  {
+    "title": "Steamboat Incident",
+    "titleId": "1833997940",
     "isTitleBased": true
   },
   {
@@ -27320,7 +27645,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Senua’s Saga: Hellblade II",
+    "title": "Hellblade II: Senua's Saga",
     "titleId": "1835926818",
     "isTitleBased": true
   },
@@ -27977,7 +28302,7 @@
   {
     "title": "Tour de France 2026",
     "titleId": "1842878873",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Captain Blood",
@@ -28950,6 +29275,11 @@
     "isTitleBased": true
   },
   {
+    "title": "FORENSIC - M.E. Protocol",
+    "titleId": "1852802217",
+    "isTitleBased": true
+  },
+  {
     "title": "Chompy Chomp Chomp Party: Ultimate Tournament Edition",
     "titleId": "1852826550",
     "isTitleBased": true
@@ -29417,6 +29747,11 @@
   {
     "title": "Call of Toys: Tower Defense!",
     "titleId": "1857703882",
+    "isTitleBased": true
+  },
+  {
+    "title": "Anubis Dungeon",
+    "titleId": "1857799800",
     "isTitleBased": true
   },
   {
@@ -29970,6 +30305,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Beholgar 2",
+    "titleId": "1863589645",
+    "isTitleBased": true
+  },
+  {
     "title": "Blacksmith Master (Game Preview)",
     "titleId": "1863593626",
     "isTitleBased": true
@@ -30342,7 +30682,7 @@
   {
     "title": "The 7th Guest Remake",
     "titleId": "1866686081",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Stasis Valley",
@@ -30477,6 +30817,11 @@
   {
     "title": "Assault On Metaltron",
     "titleId": "1867897848",
+    "isTitleBased": true
+  },
+  {
+    "title": "Find The Cats",
+    "titleId": "1868018491",
     "isTitleBased": true
   },
   {
@@ -31170,6 +31515,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Anubis Dungeon (Windows)",
+    "titleId": "1874764956",
+    "isTitleBased": true
+  },
+  {
     "title": "Tales of Kenzera™: ZAU",
     "titleId": "1874881573",
     "isTitleBased": true
@@ -31277,6 +31627,11 @@
   {
     "title": "OPUS: Echo of Starsong - Full Bloom Edition",
     "titleId": "1875889584",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sokobear Autumn (Xbox One)",
+    "titleId": "1875891300",
     "isTitleBased": true
   },
   {
@@ -31638,6 +31993,11 @@
     "title": "Breathedge",
     "titleId": "1879813340",
     "isTitleBased": true
+  },
+  {
+    "title": "Building Relationships",
+    "titleId": "1879918914",
+    "isTitleBased": false
   },
   {
     "title": "Arcade Spirits",
@@ -32185,6 +32545,11 @@
     "isTitleBased": true
   },
   {
+    "title": "My Cannibal Family",
+    "titleId": "1885002037",
+    "isTitleBased": false
+  },
+  {
     "title": "Arcade Archives 2 DEVASTATORS",
     "titleId": "1885029240",
     "isTitleBased": true
@@ -32360,6 +32725,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Summer Seaside Search (Xbox One)",
+    "titleId": "1886639392",
+    "isTitleBased": true
+  },
+  {
     "title": "Candy Crush Jelly Saga",
     "titleId": "1886639947",
     "isTitleBased": false
@@ -32447,6 +32817,11 @@
   {
     "title": "GOST of Time (Windows)",
     "titleId": "1887414402",
+    "isTitleBased": true
+  },
+  {
+    "title": "Death Run - Round 1",
+    "titleId": "1887450239",
     "isTitleBased": true
   },
   {
@@ -33105,6 +33480,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Digital Story & Art Collection - Halo: Campaign Evolved",
+    "titleId": "1893812325",
+    "isTitleBased": false
+  },
+  {
     "title": "Threes!",
     "titleId": "1893820784",
     "isTitleBased": false
@@ -33730,6 +34110,11 @@
     "isTitleBased": true
   },
   {
+    "title": "A Heavy Morning",
+    "titleId": "1899804614",
+    "isTitleBased": false
+  },
+  {
     "title": "Monster Panic",
     "titleId": "1899878313",
     "isTitleBased": true
@@ -33747,7 +34132,7 @@
   {
     "title": "Viking Frontiers",
     "titleId": "1900013719",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "WRC 10 FIA World Rally Championship Xbox One",
@@ -34052,6 +34437,11 @@
   {
     "title": "Autobahn Police Simulator 3",
     "titleId": "1902834375",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dino Hex Trap (Windows)",
+    "titleId": "1902915650",
     "isTitleBased": true
   },
   {
@@ -34445,6 +34835,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Mahjongus: Mystery of Fortescue",
+    "titleId": "1907322955",
+    "isTitleBased": true
+  },
+  {
     "title": "NHL® 15 Full Game",
     "titleId": "1907337607",
     "isTitleBased": false
@@ -34488,6 +34883,11 @@
     "title": "Solasta: Crown of the Magister",
     "titleId": "1907729638",
     "isTitleBased": true
+  },
+  {
+    "title": "The Wolf Among Us 2",
+    "titleId": "1907781913",
+    "isTitleBased": false
   },
   {
     "title": "DREDGE",
@@ -35080,7 +35480,7 @@
     "isTitleBased": true
   },
   {
-    "title": "WordGuess",
+    "title": "Wordle Game",
     "titleId": "1914302784",
     "isTitleBased": false
   },
@@ -35097,6 +35497,11 @@
   {
     "title": "METAL SUITS: Counter-attack",
     "titleId": "1914475682",
+    "isTitleBased": true
+  },
+  {
+    "title": "Moves: Perfect Pair (Windows)",
+    "titleId": "1914517374",
     "isTitleBased": true
   },
   {
@@ -35590,6 +35995,11 @@
     "isTitleBased": false
   },
   {
+    "title": "WORD SEARCH BY JGABRIB",
+    "titleId": "1919399595",
+    "isTitleBased": true
+  },
+  {
     "title": "Royal Romances: The Power of Chosen One CE Xbox",
     "titleId": "1919408396",
     "isTitleBased": true
@@ -35790,6 +36200,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Forest of Deceit",
+    "titleId": "1921251044",
+    "isTitleBased": true
+  },
+  {
     "title": "Last Labyrinth",
     "titleId": "1921294143",
     "isTitleBased": true
@@ -35812,6 +36227,11 @@
   {
     "title": "Midnight Swamp",
     "titleId": "1921616586",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cat Girl Survivor",
+    "titleId": "1921702474",
     "isTitleBased": true
   },
   {
@@ -35872,6 +36292,11 @@
   {
     "title": "Stasis",
     "titleId": "1922470106",
+    "isTitleBased": false
+  },
+  {
+    "title": "Jungle Shoot (Windows)",
+    "titleId": "1922567975",
     "isTitleBased": true
   },
   {
@@ -36115,6 +36540,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Mechaconda",
+    "titleId": "1925331421",
+    "isTitleBased": true
+  },
+  {
     "title": "Gex Trilogy",
     "titleId": "1925360122",
     "isTitleBased": true
@@ -36272,6 +36702,11 @@
   {
     "title": "Teeny Tiny Trains",
     "titleId": "1926815176",
+    "isTitleBased": true
+  },
+  {
+    "title": "Moves: Perfect Pair",
+    "titleId": "1926871816",
     "isTitleBased": true
   },
   {
@@ -37035,6 +37470,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Gym Simulator 26",
+    "titleId": "1934460823",
+    "isTitleBased": true
+  },
+  {
     "title": "Forever Ago",
     "titleId": "1934596313",
     "isTitleBased": false
@@ -37043,6 +37483,16 @@
     "title": "Vision Soft Reset",
     "titleId": "1934638648",
     "isTitleBased": true
+  },
+  {
+    "title": "MechCrisis",
+    "titleId": "1934685626",
+    "isTitleBased": true
+  },
+  {
+    "title": "GUNDAM ROGUE ORBIT",
+    "titleId": "1934747265",
+    "isTitleBased": false
   },
   {
     "title": "Possum is Hungry (Windows)",
@@ -37057,7 +37507,7 @@
   {
     "title": "One Move Away",
     "titleId": "1935021255",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "United Assault - Battle of the Bulge",
@@ -37460,9 +37910,9 @@
     "isTitleBased": true
   },
   {
-    "title": "STARSEEKER: Astroneer Expeditions",
+    "title": "STARSEEKER: Astroneer Expeditions (Game Preview)",
     "titleId": "1938588110",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Die With Glory",
@@ -37965,6 +38415,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Damways (Xbox Series)",
+    "titleId": "1943272115",
+    "isTitleBased": true
+  },
+  {
     "title": "EVERDARK: Undead Apocalypse",
     "titleId": "1943307403",
     "isTitleBased": true
@@ -37977,7 +38432,7 @@
   {
     "title": "Copa City",
     "titleId": "1943534281",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Digimon Story Time Stranger",
@@ -38192,6 +38647,11 @@
   {
     "title": "Space Warlord Baby Trading Simulator",
     "titleId": "1945826524",
+    "isTitleBased": true
+  },
+  {
+    "title": "Penguin's ArcticDex (Xbox One)",
+    "titleId": "1945986616",
     "isTitleBased": true
   },
   {
@@ -38752,7 +39212,7 @@
   {
     "title": "NBA THE RUN",
     "titleId": "1951198596",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Bottle: Pilgrim Redux",
@@ -39172,6 +39632,11 @@
   {
     "title": "MechWarrior 5: Clans",
     "titleId": "1955779192",
+    "isTitleBased": false
+  },
+  {
+    "title": "Design and Conjure",
+    "titleId": "1955819851",
     "isTitleBased": false
   },
   {
@@ -39695,6 +40160,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Do You Really Know About Soccer? (Xbox Series)",
+    "titleId": "1961161944",
+    "isTitleBased": true
+  },
+  {
     "title": "Starfield Digital Artbook & Original Soundtrack",
     "titleId": "1961172653",
     "isTitleBased": false
@@ -39950,6 +40420,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Barbie™ Rewind",
+    "titleId": "1963342407",
+    "isTitleBased": false
+  },
+  {
     "title": "Ratopia",
     "titleId": "1963384435",
     "isTitleBased": true
@@ -40178,6 +40653,11 @@
     "title": "Capcom Fighting Collection 2",
     "titleId": "1965711939",
     "isTitleBased": true
+  },
+  {
+    "title": "Skatesterre",
+    "titleId": "1965785964",
+    "isTitleBased": false
   },
   {
     "title": "BRAVELY DEFAULT FLYING FAIRY HD Remaster",
@@ -40505,6 +40985,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Wolf Among Us Remastered",
+    "titleId": "1969422076",
+    "isTitleBased": false
+  },
+  {
     "title": "Motorhome: Traveling America Collector's Edition",
     "titleId": "1969439350",
     "isTitleBased": true
@@ -40568,6 +41053,11 @@
     "title": "It Reaches",
     "titleId": "1969875165",
     "isTitleBased": false
+  },
+  {
+    "title": "Chico's Delivery (Xbox One)",
+    "titleId": "1969900681",
+    "isTitleBased": true
   },
   {
     "title": "MY HERO ACADEMIA: All’s Justice",
@@ -40720,6 +41210,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arizona Sunshine®",
+    "titleId": "1971337952",
+    "isTitleBased": false
+  },
+  {
     "title": "FATAL FRAME II: Crimson Butterfly REMAKE Digital Art Book & Digital Soundtrack",
     "titleId": "1971377551",
     "isTitleBased": false
@@ -40772,6 +41267,11 @@
   {
     "title": "Bunninjutsu (Windows)",
     "titleId": "1971962800",
+    "isTitleBased": true
+  },
+  {
+    "title": "Spellthief Erinn (Xbox One)",
+    "titleId": "1971983163",
     "isTitleBased": true
   },
   {
@@ -40972,6 +41472,11 @@
   {
     "title": "Guards",
     "titleId": "1973819083",
+    "isTitleBased": true
+  },
+  {
+    "title": "Beat The Champions",
+    "titleId": "1973831270",
     "isTitleBased": true
   },
   {
@@ -41273,6 +41778,11 @@
     "title": "Night in the Woods Win10",
     "titleId": "1976637866",
     "isTitleBased": false
+  },
+  {
+    "title": "Jungle Shoot (Xbox One)",
+    "titleId": "1976713944",
+    "isTitleBased": true
   },
   {
     "title": "Au Revoir",
@@ -42775,6 +43285,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Tallowmere 2: Curse of the Kittens (Xbox)",
+    "titleId": "1991993415",
+    "isTitleBased": true
+  },
+  {
     "title": "The Legacy of Griselda",
     "titleId": "1991995742",
     "isTitleBased": true
@@ -43098,6 +43613,11 @@
     "title": "Signs of the Sojourner",
     "titleId": "1995355240",
     "isTitleBased": true
+  },
+  {
+    "title": "Once Alive",
+    "titleId": "1995386885",
+    "isTitleBased": false
   },
   {
     "title": "Super Juicy Stack (Windows)",
@@ -43702,6 +44222,11 @@
   {
     "title": "Mortal Kombat: Legacy Kollection",
     "titleId": "2000897177",
+    "isTitleBased": true
+  },
+  {
+    "title": "DAEMORGEN: Dawn of Demons (Windows)",
+    "titleId": "2000948170",
     "isTitleBased": true
   },
   {
@@ -44437,6 +44962,11 @@
   {
     "title": "Dead Space",
     "titleId": "2008403666",
+    "isTitleBased": true
+  },
+  {
+    "title": "Wild West Supermarket Simulator",
+    "titleId": "2008415720",
     "isTitleBased": true
   },
   {
@@ -45520,6 +46050,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Cub",
+    "titleId": "2019118756",
+    "isTitleBased": true
+  },
+  {
     "title": "Wasteland 2: Director's Cut",
     "titleId": "2019181131",
     "isTitleBased": false
@@ -45822,6 +46357,11 @@
   {
     "title": "Green Soldiers Heroes",
     "titleId": "2021421406",
+    "isTitleBased": true
+  },
+  {
+    "title": "Save My Scrap",
+    "titleId": "2021436247",
     "isTitleBased": true
   },
   {
@@ -46590,6 +47130,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Bobobby 3D: Stranded Rush",
+    "titleId": "2028861406",
+    "isTitleBased": true
+  },
+  {
     "title": "ROMEO IS A DEAD MAN",
     "titleId": "2028872815",
     "isTitleBased": true
@@ -47063,6 +47608,11 @@
     "title": "Super Solitaire (Xbox)",
     "titleId": "2032990976",
     "isTitleBased": true
+  },
+  {
+    "title": "BrokenLore: Don't Lie",
+    "titleId": "2033008967",
+    "isTitleBased": false
   },
   {
     "title": "Fallen Knight",
@@ -48000,6 +48550,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Clarity: The Seven Demons of Vanguardia",
+    "titleId": "2041565858",
+    "isTitleBased": true
+  },
+  {
     "title": "Cult of the Lamb",
     "titleId": "2041731932",
     "isTitleBased": true
@@ -48530,6 +49085,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Moss: The Forgotten Relic",
+    "titleId": "2046411883",
+    "isTitleBased": true
+  },
+  {
     "title": "SCHiM",
     "titleId": "2046480698",
     "isTitleBased": true
@@ -48607,6 +49167,11 @@
   {
     "title": "Truck and Logistics Simulator",
     "titleId": "2047601430",
+    "isTitleBased": true
+  },
+  {
+    "title": "Summer Seaside Search (Windows)",
+    "titleId": "2047629553",
     "isTitleBased": true
   },
   {
@@ -48728,6 +49293,16 @@
     "title": "Castle of Monsters: The Last Knight (XBOX SERIES)",
     "titleId": "2048641965",
     "isTitleBased": true
+  },
+  {
+    "title": "Hexfire Witch (Xbox Series X/S)",
+    "titleId": "2048688428",
+    "isTitleBased": true
+  },
+  {
+    "title": "Wo Long 2: Wings of Ember",
+    "titleId": "2048748295",
+    "isTitleBased": false
   },
   {
     "title": "Goosebumps Dead of Night",
@@ -48883,6 +49458,11 @@
     "title": "Monster Prom 2: Monster Camp XXL",
     "titleId": "2050785251",
     "isTitleBased": true
+  },
+  {
+    "title": "Spyder: Agent 8",
+    "titleId": "2050794390",
+    "isTitleBased": false
   },
   {
     "title": "Battleminer Giants",
@@ -49460,6 +50040,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Escape Simulator",
+    "titleId": "2056732620",
+    "isTitleBased": true
+  },
+  {
     "title": "Home Sheep Home: Farmageddon Party Edition",
     "titleId": "2056748167",
     "isTitleBased": true
@@ -49482,6 +50067,11 @@
   {
     "title": "Aery - Vikings",
     "titleId": "2056975578",
+    "isTitleBased": true
+  },
+  {
+    "title": "Do You Really Know About Soccer? (Windows)",
+    "titleId": "2057005378",
     "isTitleBased": true
   },
   {
@@ -49832,6 +50422,11 @@
   {
     "title": "The Surge",
     "titleId": "20605635",
+    "isTitleBased": true
+  },
+  {
+    "title": "Anubis Dungeon (Xbox One)",
+    "titleId": "2060591945",
     "isTitleBased": true
   },
   {
@@ -50220,6 +50815,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Beetle Shock (Xbox Series)",
+    "titleId": "2064872888",
+    "isTitleBased": true
+  },
+  {
     "title": "Dustoff Z",
     "titleId": "2064895836",
     "isTitleBased": true
@@ -50602,7 +51202,7 @@
   {
     "title": "Solarpunk",
     "titleId": "2069221794",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Legendary Spell",
@@ -51425,6 +52025,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Cassette Beasts 2002",
+    "titleId": "2077507158",
+    "isTitleBased": false
+  },
+  {
     "title": "Alina of the Arena",
     "titleId": "2077540326",
     "isTitleBased": true
@@ -52220,6 +52825,11 @@
     "isTitleBased": true
   },
   {
+    "title": "SPORTAL",
+    "titleId": "2084531649",
+    "isTitleBased": true
+  },
+  {
     "title": "DUAL PATHS (WINDOWS)",
     "titleId": "2084625174",
     "isTitleBased": true
@@ -52230,7 +52840,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Vapor World: Over The Mind",
+    "title": "Vapor World: Over The Mind (Game Preview)",
     "titleId": "2084680545",
     "isTitleBased": false
   },
@@ -52242,6 +52852,11 @@
   {
     "title": "Nachtmahr",
     "titleId": "2084735474",
+    "isTitleBased": true
+  },
+  {
+    "title": "Bobobby 3D: Stranded Rush (Windows)",
+    "titleId": "2084844297",
     "isTitleBased": true
   },
   {
@@ -52595,6 +53210,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Persona 6",
+    "titleId": "2088993614",
+    "isTitleBased": false
+  },
+  {
     "title": "Outlaws + Handful of Missions: Remaster",
     "titleId": "2088993727",
     "isTitleBased": true
@@ -52870,6 +53490,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Detectorist Guild",
+    "titleId": "2092524716",
+    "isTitleBased": false
+  },
+  {
     "title": "Final Shot",
     "titleId": "2092610424",
     "isTitleBased": true
@@ -52898,6 +53523,11 @@
     "title": "The Elder Scrolls III: Morrowind Game of the Year Edition (PC)",
     "titleId": "2092675376",
     "isTitleBased": false
+  },
+  {
+    "title": "Hexfire Witch (Windows)",
+    "titleId": "2092806113",
+    "isTitleBased": true
   },
   {
     "title": "The Wild at Heart",
@@ -53027,6 +53657,11 @@
   {
     "title": "Darwin's Paradox!",
     "titleId": "2094503132",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Sinking Forest - 沈んだ森",
+    "titleId": "2094547688",
     "isTitleBased": true
   },
   {
@@ -53375,6 +54010,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arcade Archives 2 ACE DRIVER",
+    "titleId": "2098451485",
+    "isTitleBased": true
+  },
+  {
     "title": "The Jackbox Party Pack 7",
     "titleId": "2098462228",
     "isTitleBased": true
@@ -53475,6 +54115,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Kat-tastic Hidden Object",
+    "titleId": "2099000346",
+    "isTitleBased": true
+  },
+  {
     "title": "AI: THE SOMNIUM FILES Nirvana Initiative",
     "titleId": "2099005661",
     "isTitleBased": true
@@ -53508,6 +54153,11 @@
     "title": "Ah, Love! Season 3",
     "titleId": "2099347761",
     "isTitleBased": true
+  },
+  {
+    "title": "STORY OF SEASONS: Grand Bazaar Digital Artbook and Soundtrack",
+    "titleId": "2099430711",
+    "isTitleBased": false
   },
   {
     "title": "Urban Trial Tricky Deluxe Edition",
@@ -53675,6 +54325,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Quest of Dungeloria",
+    "titleId": "2100730878",
+    "isTitleBased": true
+  },
+  {
     "title": "Sir Whoopass: Immortal Death",
     "titleId": "2100742349",
     "isTitleBased": true
@@ -53748,6 +54403,11 @@
     "title": "Tennis Elbow 4",
     "titleId": "2101116288",
     "isTitleBased": true
+  },
+  {
+    "title": "Crazy Taxi: World Tour",
+    "titleId": "2101159611",
+    "isTitleBased": false
   },
   {
     "title": "A YEAR OF SPRINGS",
@@ -54165,6 +54825,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Damways (Windows)",
+    "titleId": "2105541844",
+    "isTitleBased": true
+  },
+  {
     "title": "The Tenants",
     "titleId": "2105623196",
     "isTitleBased": true
@@ -54515,6 +55180,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Mina The Hollower",
+    "titleId": "2109269529",
+    "isTitleBased": true
+  },
+  {
     "title": "FINAL FANTASY XV WINDOWS EDITION",
     "titleId": "2109344129",
     "isTitleBased": false
@@ -54577,6 +55247,11 @@
   {
     "title": "World of Outlaws: Dirt Racing 24",
     "titleId": "2109806164",
+    "isTitleBased": true
+  },
+  {
+    "title": "Spellthief Erinn (Windows)",
+    "titleId": "2109862981",
     "isTitleBased": true
   },
   {
@@ -55010,6 +55685,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Find The Cats (Windows)",
+    "titleId": "2114567052",
+    "isTitleBased": true
+  },
+  {
     "title": "Skate City",
     "titleId": "2114598073",
     "isTitleBased": true
@@ -55140,6 +55820,11 @@
     "isTitleBased": true
   },
   {
+    "title": "HOT WHEELS™ Infinite Rush",
+    "titleId": "2115682077",
+    "isTitleBased": false
+  },
+  {
     "title": "Crackdown",
     "titleId": "211568986",
     "isTitleBased": false
@@ -55168,6 +55853,11 @@
     "title": "ACA NEOGEO TOP HUNTER RODDY & CATHY",
     "titleId": "2116045375",
     "isTitleBased": true
+  },
+  {
+    "title": "RuneScape: Dragonwilds",
+    "titleId": "2116052231",
+    "isTitleBased": false
   },
   {
     "title": "Care Bears: To The Rescue",
@@ -55402,6 +56092,11 @@
   {
     "title": "Kaiju Wars",
     "titleId": "2117949914",
+    "isTitleBased": true
+  },
+  {
+    "title": "What have you done, Father?",
+    "titleId": "2117988744",
     "isTitleBased": true
   },
   {
@@ -56170,6 +56865,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Disney•Pixar Toy Story 3 Complete Edition",
+    "titleId": "2126017609",
+    "isTitleBased": false
+  },
+  {
     "title": "ACA NEOGEO WORLD HEROES 2 for Windows",
     "titleId": "2126018591",
     "isTitleBased": true
@@ -56182,6 +56882,11 @@
   {
     "title": "9 Clues 2: The Ward (XboxVersion)",
     "titleId": "2126024203",
+    "isTitleBased": true
+  },
+  {
+    "title": "Murky Divers",
+    "titleId": "2126139968",
     "isTitleBased": true
   },
   {
@@ -56287,6 +56992,11 @@
   {
     "title": "Tales from Candleforth",
     "titleId": "2127064350",
+    "isTitleBased": true
+  },
+  {
+    "title": "Driving is Hard",
+    "titleId": "2127068157",
     "isTitleBased": true
   },
   {
@@ -56915,6 +57625,11 @@
     "isTitleBased": false
   },
   {
+    "title": "FINAL FANTASY VII REBIRTH",
+    "titleId": "2133578420",
+    "isTitleBased": true
+  },
+  {
     "title": "SOULVARS",
     "titleId": "2133618440",
     "isTitleBased": true
@@ -57112,7 +57827,7 @@
   {
     "title": "Bellwright",
     "titleId": "2135464087",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Doughlings: Invasion",
@@ -57168,6 +57883,11 @@
     "title": "Heroes of Might and Magic II - Gold Edition",
     "titleId": "2135930151",
     "isTitleBased": false
+  },
+  {
+    "title": "Cozy Grove: Camp Spirit",
+    "titleId": "2135982180",
+    "isTitleBased": true
   },
   {
     "title": "Manny's",

@@ -7890,7 +7890,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Craftopia",
+    "title": "Craftopia (Game Preview)",
     "titleId": "1642353875",
     "isTitleBased": true
   },
@@ -8697,6 +8697,11 @@
   {
     "title": "Ary and the Secret of Seasons",
     "titleId": "1648951692",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dragon Quest Heroes: Torneko‘s Mystery Dungeon -Classic HD-",
+    "titleId": "1648958347",
     "isTitleBased": true
   },
   {
@@ -10450,6 +10455,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Barbarian Saga: The Beastmaster",
+    "titleId": "1666187104",
+    "isTitleBased": true
+  },
+  {
     "title": "Radio Squid",
     "titleId": "1666214543",
     "isTitleBased": true
@@ -11797,6 +11807,11 @@
   {
     "title": "Captain Bones",
     "titleId": "1677710402",
+    "isTitleBased": true
+  },
+  {
+    "title": "Thunder Hoop Collection (QUByte Classics)",
+    "titleId": "1677732493",
     "isTitleBased": true
   },
   {
@@ -14975,6 +14990,11 @@
     "isTitleBased": true
   },
   {
+    "title": "BIRDCAGE",
+    "titleId": "1705852276",
+    "isTitleBased": true
+  },
+  {
     "title": "Dangerous Driving",
     "titleId": "1705868586",
     "isTitleBased": true
@@ -15712,7 +15732,7 @@
   {
     "title": "The Royal Writ",
     "titleId": "1712139951",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Crossbow Crusade",
@@ -16590,7 +16610,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Mafia: Definitive Edition",
+    "title": "Mafia: Definitive Edition for XBOX One",
     "titleId": "1720075101",
     "isTitleBased": false
   },
@@ -19315,9 +19335,9 @@
     "isTitleBased": true
   },
   {
-    "title": "Valheim (Game Preview)",
+    "title": "Valheim",
     "titleId": "1745661457",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "The Walking Vegetables: Radical Edition",
@@ -21085,6 +21105,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arcade Archives 2 KARNOV",
+    "titleId": "1762082517",
+    "isTitleBased": true
+  },
+  {
     "title": "DC's Justice League: Cosmic Chaos",
     "titleId": "1762192861",
     "isTitleBased": true
@@ -22725,6 +22750,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Shadow Cat (Xbox Series)",
+    "titleId": "1776646425",
+    "isTitleBased": true
+  },
+  {
     "title": "Trainlax",
     "titleId": "1776654335",
     "isTitleBased": true
@@ -23678,6 +23708,11 @@
     "title": "Kovox Pitch",
     "titleId": "1785576970",
     "isTitleBased": true
+  },
+  {
+    "title": "METAL SLUG ULTIMATE COLLECTION",
+    "titleId": "1785629179",
+    "isTitleBased": false
   },
   {
     "title": "Bright Paw: Definitive Edition",
@@ -25390,6 +25425,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Shadow Cat (Xbox One)",
+    "titleId": "1801709497",
+    "isTitleBased": true
+  },
+  {
     "title": "Robot Detour",
     "titleId": "1801802836",
     "isTitleBased": true
@@ -25892,6 +25932,11 @@
   {
     "title": "Justice Chronicles",
     "titleId": "1805643411",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dumb Ways to Build",
+    "titleId": "1805657529",
     "isTitleBased": true
   },
   {
@@ -28000,6 +28045,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Shadow Cat (Windows)",
+    "titleId": "1827047394",
+    "isTitleBased": true
+  },
+  {
     "title": "Puzzletronics: Digital Infinite",
     "titleId": "1827084963",
     "isTitleBased": true
@@ -28102,6 +28152,11 @@
   {
     "title": "Fox Legend Windows",
     "titleId": "1827873295",
+    "isTitleBased": true
+  },
+  {
+    "title": "Corner Shop: NightShift",
+    "titleId": "1827889846",
     "isTitleBased": true
   },
   {
@@ -29010,6 +29065,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sugar Box (Windows)",
+    "titleId": "1836526419",
+    "isTitleBased": true
+  },
+  {
     "title": "Faeria",
     "titleId": "1836570582",
     "isTitleBased": true
@@ -29117,6 +29177,11 @@
   {
     "title": "911: Cannibal",
     "titleId": "1837458997",
+    "isTitleBased": true
+  },
+  {
+    "title": "THE BATHROOMS",
+    "titleId": "1837466690",
     "isTitleBased": true
   },
   {
@@ -29532,6 +29597,11 @@
   {
     "title": "KEYQUACK QUEST",
     "titleId": "1841603397",
+    "isTitleBased": true
+  },
+  {
+    "title": "myPOPGOES",
+    "titleId": "1841668103",
     "isTitleBased": true
   },
   {
@@ -30635,7 +30705,7 @@
     "isTitleBased": true
   },
   {
-    "title": "EA SPORTS FC™ 26 Xbox One",
+    "title": "EA SPORTS FC™ 26 XBOX One",
     "titleId": "1852068331",
     "isTitleBased": false
   },
@@ -33020,6 +33090,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Ondeh Ondeh Kaya's Tasty Tale",
+    "titleId": "1874236110",
+    "isTitleBased": false
+  },
+  {
     "title": "Milo`s Escape (Xbox Series)",
     "titleId": "1874313622",
     "isTitleBased": true
@@ -35105,7 +35180,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Cipher Monk: Cassete Equation (Xbox Series)",
+    "title": "Cipher Monk: Cassette Equation (Xbox Series)",
     "titleId": "1893065886",
     "isTitleBased": true
   },
@@ -35197,6 +35272,11 @@
   {
     "title": "Party Panic",
     "titleId": "1893912101",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sugar Box (Xbox One)",
+    "titleId": "1893963317",
     "isTitleBased": true
   },
   {
@@ -36785,7 +36865,7 @@
     "isTitleBased": true
   },
   {
-    "title": "EA SPORTS FC™ 26 Xbox Series X|S",
+    "title": "EA SPORTS FC™ 26 XBOX Series X|S",
     "titleId": "1909324253",
     "isTitleBased": false
   },
@@ -36952,6 +37032,11 @@
   {
     "title": "SCHiM (Asian version)",
     "titleId": "1910987747",
+    "isTitleBased": true
+  },
+  {
+    "title": "Retro Cube Slider (Windows)",
+    "titleId": "1911017299",
     "isTitleBased": true
   },
   {
@@ -37790,7 +37875,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Cipher Monk: Cassete Equation (Windows)",
+    "title": "Cipher Monk: Cassette Equation (Windows)",
     "titleId": "1918948631",
     "isTitleBased": true
   },
@@ -38028,6 +38113,11 @@
     "title": "Marathon",
     "titleId": "1921177861",
     "isTitleBased": false
+  },
+  {
+    "title": "VORON: Raven’s Story (Windows)",
+    "titleId": "1921180490",
+    "isTitleBased": true
   },
   {
     "title": "Drug Dealer Simulator 2",
@@ -38992,6 +39082,11 @@
   {
     "title": "Mortal Glory 2",
     "titleId": "1930493464",
+    "isTitleBased": true
+  },
+  {
+    "title": "VORON: Raven’s Story (Xbox Series X|S)",
+    "titleId": "1930544338",
     "isTitleBased": true
   },
   {
@@ -40938,6 +41033,11 @@
     "title": "Winter Ember",
     "titleId": "1948184622",
     "isTitleBased": true
+  },
+  {
+    "title": "The Last Caretaker",
+    "titleId": "1948218576",
+    "isTitleBased": false
   },
   {
     "title": "Perfect Ninja Painter 4",
@@ -44340,6 +44440,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Jewel Match Solitaire X",
+    "titleId": "1980398174",
+    "isTitleBased": true
+  },
+  {
     "title": "Fluffy Horde",
     "titleId": "1980402933",
     "isTitleBased": true
@@ -45342,6 +45447,11 @@
   {
     "title": "Axis Football 2024",
     "titleId": "1989717874",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cat Mirror (Windows)",
+    "titleId": "1989744987",
     "isTitleBased": true
   },
   {
@@ -47437,6 +47547,11 @@
   {
     "title": "SuperCity: farm, build and decorate!",
     "titleId": "2009717444",
+    "isTitleBased": false
+  },
+  {
+    "title": "Chosen by Odin",
+    "titleId": "2009789025",
     "isTitleBased": false
   },
   {
@@ -52730,6 +52845,11 @@
     "isTitleBased": false
   },
   {
+    "title": "The Trolley Solution",
+    "titleId": "2057431206",
+    "isTitleBased": true
+  },
+  {
     "title": "The Texas Chain Saw Massacre",
     "titleId": "2057463803",
     "isTitleBased": true
@@ -53237,6 +53357,11 @@
   {
     "title": "Fernbus Simulator",
     "titleId": "2062455421",
+    "isTitleBased": true
+  },
+  {
+    "title": "Unbox the Room",
+    "titleId": "2062523547",
     "isTitleBased": true
   },
   {
@@ -55102,6 +55227,11 @@
   {
     "title": "The Legend of Fireball",
     "titleId": "2080479328",
+    "isTitleBased": true
+  },
+  {
+    "title": "Catch Flex",
+    "titleId": "2080569101",
     "isTitleBased": true
   },
   {
@@ -61470,6 +61600,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Mia's Journey (Windows)",
+    "titleId": "2141356489",
+    "isTitleBased": true
+  },
+  {
     "title": "Bandit Trap",
     "titleId": "2141362005",
     "isTitleBased": true
@@ -62087,6 +62222,11 @@
   {
     "title": "Paper Flight - Beyond Time",
     "titleId": "2146903847",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sugar Box (Xbox Series)",
+    "titleId": "2146935244",
     "isTitleBased": true
   },
   {

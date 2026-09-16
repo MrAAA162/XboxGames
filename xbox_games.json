@@ -5397,7 +5397,7 @@
   {
     "title": "Active Matter",
     "titleId": "1619206606",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Sky Rogue",
@@ -13035,7 +13035,7 @@
     "isTitleBased": false
   },
   {
-    "title": "TCG Card Shop Simulator (Game Preview)",
+    "title": "TCG Card Shop Simulator",
     "titleId": "1689317374",
     "isTitleBased": true
   },
@@ -14462,7 +14462,7 @@
   {
     "title": "Gunstoppable",
     "titleId": "1700604072",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Three Minutes To Eight",
@@ -19950,6 +19950,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Wolfsschanze – Operation Götterdämmerung",
+    "titleId": "1751141074",
+    "isTitleBased": true
+  },
+  {
     "title": "METAL GEAR SOLID Δ: SNAKE EATER",
     "titleId": "1751185882",
     "isTitleBased": true
@@ -23030,9 +23035,9 @@
     "isTitleBased": true
   },
   {
-    "title": "Little Witch in the Woods (Game Preview)",
+    "title": "Little Witch in the Woods",
     "titleId": "1778148060",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Grab 50 Coins (Windows)",
@@ -23302,7 +23307,7 @@
   {
     "title": "Dune: Awakening",
     "titleId": "1780788060",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Tennis Manager 2021",
@@ -24497,7 +24502,7 @@
   {
     "title": "Bus Simulator 27",
     "titleId": "1792094560",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Zomborg",
@@ -27880,6 +27885,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arcade Archives 2 Mr.Do!'s Castle",
+    "titleId": "1825022066",
+    "isTitleBased": true
+  },
+  {
     "title": "Gunvolt Chronicles: Luminous Avenger iX",
     "titleId": "1825036772",
     "isTitleBased": true
@@ -29907,7 +29917,7 @@
   {
     "title": "Agefield High: Rock the School",
     "titleId": "1843393925",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Acorn Avengers",
@@ -31902,7 +31912,7 @@
   {
     "title": "1x1 Street Football: mini soccer PvP",
     "titleId": "1862759841",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Hexa Chippy (Xbox One)",
@@ -35535,7 +35545,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Scramble Knights Royale",
+    "title": "Scramble Knights Online",
     "titleId": "1895210075",
     "isTitleBased": true
   },
@@ -45215,7 +45225,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Cipher Monk: Cassete Equation (Xbox One)",
+    "title": "Cipher Monk: Cassette Equation (Xbox One)",
     "titleId": "1985908186",
     "isTitleBased": true
   },
@@ -46735,6 +46745,11 @@
     "isTitleBased": true
   },
   {
+    "title": "King's Blade (Xbox Series X|S)",
+    "titleId": "2000254635",
+    "isTitleBased": true
+  },
+  {
     "title": "Minesweeper Genius",
     "titleId": "2000350026",
     "isTitleBased": true
@@ -47197,6 +47212,11 @@
   {
     "title": "RIDE 5",
     "titleId": "2004727734",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 DACHOLER",
+    "titleId": "2004782024",
     "isTitleBased": true
   },
   {
@@ -55885,6 +55905,11 @@
     "isTitleBased": true
   },
   {
+    "title": "King's Blade",
+    "titleId": "2084798048",
+    "isTitleBased": true
+  },
+  {
     "title": "Bobobby 3D: Stranded Rush (Windows)",
     "titleId": "2084844297",
     "isTitleBased": true
@@ -56552,6 +56577,11 @@
   {
     "title": "Kona II: Brume",
     "titleId": "2092303758",
+    "isTitleBased": true
+  },
+  {
+    "title": "Gladio Mori",
+    "titleId": "2092327513",
     "isTitleBased": true
   },
   {
@@ -59082,7 +59112,7 @@
   {
     "title": "RuneScape: Dragonwilds",
     "titleId": "2116052231",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Care Bears: To The Rescue",

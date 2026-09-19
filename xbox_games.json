@@ -7320,7 +7320,7 @@
     "isTitleBased": true
   },
   {
-    "title": "DiRT Rally 2.0 (Windows)",
+    "title": "DiRT Rally 2.0",
     "titleId": "1636827856",
     "isTitleBased": true
   },
@@ -8085,7 +8085,7 @@
     "isTitleBased": false
   },
   {
-    "title": "ENDLESS Legend™ 2 (Game Preview)",
+    "title": "ENDLESS Legend™ 2",
     "titleId": "1644006979",
     "isTitleBased": false
   },
@@ -8198,6 +8198,11 @@
     "title": "Full Throttle Pixel Racing",
     "titleId": "1645120058",
     "isTitleBased": false
+  },
+  {
+    "title": "Shockwave Triggers",
+    "titleId": "1645157314",
+    "isTitleBased": true
   },
   {
     "title": "Mortal Shell II",
@@ -8668,6 +8673,11 @@
     "title": "Lost Eidolons: Veil of the Witch",
     "titleId": "1648660389",
     "isTitleBased": true
+  },
+  {
+    "title": "Bloomwalker",
+    "titleId": "1648681486",
+    "isTitleBased": false
   },
   {
     "title": "Sonic Origins",
@@ -10485,6 +10495,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cat Lines (Xbox Series XS)",
+    "titleId": "1666110804",
+    "isTitleBased": true
+  },
+  {
     "title": "Barbarian Saga: The Beastmaster",
     "titleId": "1666187104",
     "isTitleBased": true
@@ -11257,6 +11272,11 @@
   {
     "title": "Chicken Rescue (Xbox Series)",
     "titleId": "1672675093",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cat Lines (Xbox One)",
+    "titleId": "1672685077",
     "isTitleBased": true
   },
   {
@@ -13745,6 +13765,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Ultimate Admiral: Dreadnoughts",
+    "titleId": "1693968741",
+    "isTitleBased": true
+  },
+  {
     "title": "Look Mum No Computer",
     "titleId": "1693978901",
     "isTitleBased": true
@@ -14227,6 +14252,11 @@
   {
     "title": "Hokko Life",
     "titleId": "1698597039",
+    "isTitleBased": true
+  },
+  {
+    "title": "Total War: PHARAOH DYNASTIES",
+    "titleId": "1698635264",
     "isTitleBased": true
   },
   {
@@ -14937,6 +14967,11 @@
   {
     "title": "Axis Football 2020",
     "titleId": "1704577564",
+    "isTitleBased": true
+  },
+  {
+    "title": "Pop the Ghosts (XBOX One)",
+    "titleId": "1704598696",
     "isTitleBased": true
   },
   {
@@ -19527,7 +19562,7 @@
   {
     "title": "Roman Sands RE:Build",
     "titleId": "1746876452",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Submerged: Hidden Depths",
@@ -20057,7 +20092,7 @@
   {
     "title": "Flamecraft",
     "titleId": "1752031475",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Toy Soldiers: War Chest",
@@ -21078,6 +21113,11 @@
     "title": "My Universe - School Teacher",
     "titleId": "1761109525",
     "isTitleBased": true
+  },
+  {
+    "title": "MELTY BLOOD: TWI-LUMINA",
+    "titleId": "1761155505",
+    "isTitleBased": false
   },
   {
     "title": "BeastLink",
@@ -22265,6 +22305,11 @@
     "isTitleBased": false
   },
   {
+    "title": "The Grinch 2: Saving Christmas",
+    "titleId": "1771716407",
+    "isTitleBased": true
+  },
+  {
     "title": "Celestial Fall",
     "titleId": "1771752301",
     "isTitleBased": true
@@ -23343,6 +23388,11 @@
     "title": "Shin Megami Tensei V: Vengeance",
     "titleId": "1781047490",
     "isTitleBased": true
+  },
+  {
+    "title": "SONIC PICO PARK",
+    "titleId": "1781066822",
+    "isTitleBased": false
   },
   {
     "title": "The VideoKid",
@@ -27815,6 +27865,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Total War: SHOGUN 2 - Complete Edition",
+    "titleId": "1824347946",
+    "isTitleBased": true
+  },
+  {
     "title": "ComputerHead: Springloaded (Xbox One)",
     "titleId": "1824458896",
     "isTitleBased": true
@@ -29680,6 +29735,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Folletti",
+    "titleId": "1841396877",
+    "isTitleBased": true
+  },
+  {
     "title": "CONSCRIPT",
     "titleId": "1841498671",
     "isTitleBased": true
@@ -30810,7 +30870,7 @@
     "isTitleBased": true
   },
   {
-    "title": "EA SPORTS FC™ 26 XBOX One",
+    "title": "EA SPORTS FC™ 26 Xbox One",
     "titleId": "1852068331",
     "isTitleBased": false
   },
@@ -33515,6 +33575,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Kernel Hearts",
+    "titleId": "1877397841",
+    "isTitleBased": true
+  },
+  {
     "title": "Little Orpheus",
     "titleId": "1877421008",
     "isTitleBased": true
@@ -34435,6 +34500,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Pop the Ghosts (Windows)",
+    "titleId": "1885795067",
+    "isTitleBased": true
+  },
+  {
     "title": "FATAL FURY: City of the Wolves",
     "titleId": "1885859783",
     "isTitleBased": true
@@ -35185,6 +35255,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Pop the Ghosts (XBOX Series)",
+    "titleId": "1892214222",
+    "isTitleBased": true
+  },
+  {
     "title": "ELDEN RING",
     "titleId": "1892245301",
     "isTitleBased": true
@@ -35263,6 +35338,11 @@
     "title": "Kitaria Fables",
     "titleId": "1892832276",
     "isTitleBased": true
+  },
+  {
+    "title": "Isekai Rondo Otogi",
+    "titleId": "1892844721",
+    "isTitleBased": false
   },
   {
     "title": "Beyond These Stars",
@@ -35735,6 +35815,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Ever After Again: A Stories Adventure",
+    "titleId": "1897099986",
+    "isTitleBased": false
+  },
+  {
     "title": "Notice Me Leena-senpai!",
     "titleId": "1897125619",
     "isTitleBased": true
@@ -36057,7 +36142,7 @@
   {
     "title": "The Walking Dead: Streets of Survival",
     "titleId": "1900056095",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "WRC 10 FIA World Rally Championship Xbox One",
@@ -36995,7 +37080,7 @@
     "isTitleBased": true
   },
   {
-    "title": "EA SPORTS FC™ 26 XBOX Series X|S",
+    "title": "EA SPORTS FC™ 26 Xbox Series X|S",
     "titleId": "1909324253",
     "isTitleBased": false
   },
@@ -37062,6 +37147,11 @@
   {
     "title": "Freddy Farmer",
     "titleId": "1909998344",
+    "isTitleBased": true
+  },
+  {
+    "title": "HYPERVIOLENT",
+    "titleId": "1910081531",
     "isTitleBased": true
   },
   {
@@ -38427,6 +38517,11 @@
   {
     "title": "Linn: Path of Orchards",
     "titleId": "1922994269",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hidden Dogs",
+    "titleId": "1923002854",
     "isTitleBased": true
   },
   {
@@ -40320,6 +40415,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Ranger's Path: National Park Simulator",
+    "titleId": "1940422365",
+    "isTitleBased": false
+  },
+  {
     "title": "Illyriad - MMO Grand Strategy",
     "titleId": "1940436544",
     "isTitleBased": false
@@ -40578,6 +40678,11 @@
     "title": "Zoffice (Windows 10)",
     "titleId": "1942850407",
     "isTitleBased": true
+  },
+  {
+    "title": "Leingham Tavern Story: Alan and the Time Goddess",
+    "titleId": "1942877929",
+    "isTitleBased": false
   },
   {
     "title": "Gift of Parthax",
@@ -47355,6 +47460,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Hope in the City",
+    "titleId": "2005840241",
+    "isTitleBased": false
+  },
+  {
     "title": "Mystic Fate",
     "titleId": "2005921688",
     "isTitleBased": true
@@ -47945,6 +48055,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Princess of the Water Lilies",
+    "titleId": "2011911494",
+    "isTitleBased": false
+  },
+  {
     "title": "Cyber Tank 2 (Xbox One)",
     "titleId": "2011972679",
     "isTitleBased": true
@@ -48160,6 +48275,11 @@
     "isTitleBased": true
   },
   {
+    "title": "METRO QUESTER ZERO",
+    "titleId": "2013801461",
+    "isTitleBased": false
+  },
+  {
     "title": "True Virus",
     "titleId": "2013832919",
     "isTitleBased": true
@@ -48262,7 +48382,7 @@
   {
     "title": "PAPERHEAD",
     "titleId": "2014430340",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Teacup",
@@ -51515,6 +51635,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Faraday Blues",
+    "titleId": "2042629482",
+    "isTitleBased": false
+  },
+  {
     "title": "Llamasoft: The Jeff Minter Story",
     "titleId": "2042662123",
     "isTitleBased": true
@@ -52347,7 +52472,7 @@
   {
     "title": "Spyder: Agent 8",
     "titleId": "2050794390",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Battleminer Giants",
@@ -54755,6 +54880,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Shelterra the Skyworld",
+    "titleId": "2074849188",
+    "isTitleBased": false
+  },
+  {
     "title": "Oddworld: Soulstorm Enhanced Edition",
     "titleId": "2074956981",
     "isTitleBased": true
@@ -56037,6 +56167,11 @@
   {
     "title": "OCTOPATH TRAVELER II",
     "titleId": "2086200115",
+    "isTitleBased": true
+  },
+  {
+    "title": "DESOLUS",
+    "titleId": "2086291565",
     "isTitleBased": true
   },
   {
@@ -59080,6 +59215,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Dragon Ruins II: Aftermath",
+    "titleId": "2115708864",
+    "isTitleBased": false
+  },
+  {
     "title": "Plane Mechanic Simulator",
     "titleId": "2115790805",
     "isTitleBased": false
@@ -59368,6 +59508,11 @@
     "title": "CLUTCH",
     "titleId": "2118003585",
     "isTitleBased": false
+  },
+  {
+    "title": "Ratatan",
+    "titleId": "2118059691",
+    "isTitleBased": true
   },
   {
     "title": "EA SPORTS™ College Football 26",
@@ -60525,6 +60670,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Ayasa: Shadows of Silence",
+    "titleId": "2129009212",
+    "isTitleBased": false
+  },
+  {
     "title": "Silly Polly Beast",
     "titleId": "2129043429",
     "isTitleBased": true
@@ -61045,6 +61195,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Survival Machine",
+    "titleId": "2133829340",
+    "isTitleBased": false
+  },
+  {
     "title": "The Boba Teashop",
     "titleId": "2133854210",
     "isTitleBased": true
@@ -61232,6 +61387,11 @@
   {
     "title": "Staying Fresh (for Windows)",
     "titleId": "2135542104",
+    "isTitleBased": true
+  },
+  {
+    "title": "Such a Guy",
+    "titleId": "2135555470",
     "isTitleBased": true
   },
   {

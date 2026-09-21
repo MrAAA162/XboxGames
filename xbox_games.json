@@ -12675,6 +12675,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Death Simulator",
+    "titleId": "1684903257",
+    "isTitleBased": true
+  },
+  {
     "title": "Purrfect Rescue",
     "titleId": "1684904215",
     "isTitleBased": true
@@ -34635,6 +34640,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Zombuffoonery",
+    "titleId": "1887036168",
+    "isTitleBased": true
+  },
+  {
     "title": "Why Pizza? (Xbox Series X|S)",
     "titleId": "1887143367",
     "isTitleBased": true
@@ -35397,6 +35407,11 @@
   {
     "title": "The Last Shot Arcades",
     "titleId": "1893341199",
+    "isTitleBased": true
+  },
+  {
+    "title": "Kingdom of Night",
+    "titleId": "1893342349",
     "isTitleBased": true
   },
   {
@@ -54343,6 +54358,11 @@
     "title": "In Trusted Hands",
     "titleId": "2069767141",
     "isTitleBased": true
+  },
+  {
+    "title": "EA SPORTS FC™ 27 - PC",
+    "titleId": "2069780007",
+    "isTitleBased": false
   },
   {
     "title": "Repit",

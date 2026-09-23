@@ -1,0 +1,43 @@
+name: Sync to XAUGamesDB
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout XboxGames
+        uses: actions/checkout@v6
+
+      - name: Checkout XAUGamesDB
+        uses: actions/checkout@v6
+        with:
+          repository: MrAAA162/XAUGamesDB
+          token: ${{ secrets.XAUGAMESDB_TOKEN }}
+          path: xaugamesdb
+
+      - name: Copy files
+        run: |
+          cp xbox_games.db xaugamesdb/xbox_games.db
+          cp xbox_games.json xaugamesdb/xbox_games.json
+
+      - name: Commit and push
+        working-directory: xaugamesdb
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add xbox_games.db xbox_games.json
+
+          if git diff --cached --quiet; then
+            echo "No changes to sync."
+            exit 0
+          fi
+
+          git commit -m "Sync files from XboxGames"
+          git push origin main

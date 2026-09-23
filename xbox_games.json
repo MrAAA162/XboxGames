@@ -6120,6 +6120,11 @@
     "isTitleBased": true
   },
   {
+    "title": "PAO PAO",
+    "titleId": "1626128750",
+    "isTitleBased": false
+  },
+  {
     "title": "Captains Old Ship",
     "titleId": "1626154182",
     "isTitleBased": false
@@ -10320,6 +10325,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Chromatic Conundrum",
+    "titleId": "1664540997",
+    "isTitleBased": false
+  },
+  {
     "title": "Arcade Archives 2 STEEL WORKER",
     "titleId": "1664606511",
     "isTitleBased": true
@@ -13142,6 +13152,11 @@
   {
     "title": "Tiny Mage in Puzzle Land",
     "titleId": "1689732921",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tiny Techie in Puzzle Land (Windows)",
+    "titleId": "1689765608",
     "isTitleBased": true
   },
   {
@@ -16975,6 +16990,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Camp Manager Simulator",
+    "titleId": "1722697445",
+    "isTitleBased": false
+  },
+  {
     "title": "Love Shore",
     "titleId": "1722708396",
     "isTitleBased": true
@@ -17382,6 +17402,11 @@
   {
     "title": "Busway Islands - Puzzle",
     "titleId": "1726388890",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tiny Techie in Puzzle Land (Xbox Series)",
+    "titleId": "1726405861",
     "isTitleBased": true
   },
   {
@@ -17807,6 +17832,11 @@
   {
     "title": "The Rabbit Crazy Adventure",
     "titleId": "1729900071",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cubic Cosmos",
+    "titleId": "1729920906",
     "isTitleBased": true
   },
   {
@@ -21240,6 +21270,16 @@
     "isTitleBased": true
   },
   {
+    "title": "Whisker Mess (Xbox One)",
+    "titleId": "1762255964",
+    "isTitleBased": true
+  },
+  {
+    "title": "Whisker Mess (Xbox Series)",
+    "titleId": "1762306316",
+    "isTitleBased": true
+  },
+  {
     "title": "One Step After Fall (Windows)",
     "titleId": "1762313974",
     "isTitleBased": true
@@ -22515,6 +22555,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Keep Driving",
+    "titleId": "1773155860",
+    "isTitleBased": true
+  },
+  {
     "title": "Jurassic Park Classic Games Collection",
     "titleId": "1773156258",
     "isTitleBased": true
@@ -23083,6 +23128,11 @@
     "title": "Warhammer 40,000: Speed Freeks",
     "titleId": "1777974087",
     "isTitleBased": true
+  },
+  {
+    "title": "Of Ash and Steel",
+    "titleId": "1777999104",
+    "isTitleBased": false
   },
   {
     "title": "Little Witch in the Woods",
@@ -23990,6 +24040,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Let's Build a Dungeon",
+    "titleId": "1786610519",
+    "isTitleBased": false
+  },
+  {
     "title": "Charlatan",
     "titleId": "1786775837",
     "isTitleBased": false
@@ -23997,6 +24052,11 @@
   {
     "title": "Yum Yum Cookstar",
     "titleId": "1786776587",
+    "isTitleBased": true
+  },
+  {
+    "title": "Storebound",
+    "titleId": "1786938473",
     "isTitleBased": true
   },
   {
@@ -25122,6 +25182,11 @@
   {
     "title": "Zombie Derby (Windows)",
     "titleId": "1797086953",
+    "isTitleBased": true
+  },
+  {
+    "title": "Whisker Mess (Windows)",
+    "titleId": "1797114498",
     "isTitleBased": true
   },
   {
@@ -30785,6 +30850,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Winx Club - Moonlight Quest",
+    "titleId": "1850989072",
+    "isTitleBased": false
+  },
+  {
     "title": "Creepy Tale: Some Other Place (Windows)",
     "titleId": "1851020436",
     "isTitleBased": true
@@ -31782,6 +31852,11 @@
   {
     "title": "Ho Ho & Move",
     "titleId": "1860846982",
+    "isTitleBased": true
+  },
+  {
+    "title": "BLACKSHARD",
+    "titleId": "1860905173",
     "isTitleBased": true
   },
   {
@@ -37642,6 +37717,11 @@
   {
     "title": "Curse of the Dead Gods",
     "titleId": "1914646696",
+    "isTitleBased": true
+  },
+  {
+    "title": "PIT OF GOBLIN",
+    "titleId": "1914650134",
     "isTitleBased": true
   },
   {
@@ -43790,6 +43870,11 @@
     "isTitleBased": false
   },
   {
+    "title": "TOYCRAFTER",
+    "titleId": "1971895621",
+    "isTitleBased": true
+  },
+  {
     "title": "Ziggurat",
     "titleId": "1971898235",
     "isTitleBased": false
@@ -44470,6 +44555,11 @@
     "isTitleBased": true
   },
   {
+    "title": "For The Warp: Void Echoes",
+    "titleId": "1977670064",
+    "isTitleBased": false
+  },
+  {
     "title": "Farming Simulator 25",
     "titleId": "1977690926",
     "isTitleBased": true
@@ -44558,6 +44648,11 @@
     "title": "Energy Lab",
     "titleId": "1978642159",
     "isTitleBased": true
+  },
+  {
+    "title": "GACHIAKUTA: BREAKOUT",
+    "titleId": "1978646672",
+    "isTitleBased": false
   },
   {
     "title": "Neon Chrome Overseer Edition",
@@ -45945,6 +46040,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Whirlight - No Time To Trip",
+    "titleId": "1991975311",
+    "isTitleBased": true
+  },
+  {
     "title": "Tallowmere 2: Curse of the Kittens (Xbox)",
     "titleId": "1991993415",
     "isTitleBased": true
@@ -46042,6 +46142,11 @@
   {
     "title": "Little Legs (Windows)",
     "titleId": "1992777385",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tiny Techie in Puzzle Land",
+    "titleId": "1992794149",
     "isTitleBased": true
   },
   {
@@ -47395,6 +47500,11 @@
     "isTitleBased": true
   },
   {
+    "title": "MR. RECORDS",
+    "titleId": "2005073961",
+    "isTitleBased": false
+  },
+  {
     "title": "Arcade Archives 2 SATAN OF SATURN",
     "titleId": "2005089749",
     "isTitleBased": true
@@ -48647,6 +48757,11 @@
   {
     "title": "The Catch: Carp & Coarse Fishing",
     "titleId": "2016552136",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cozy Meowmory",
+    "titleId": "2016564942",
     "isTitleBased": true
   },
   {
@@ -51558,6 +51673,11 @@
     "title": "Angry Birds 2",
     "titleId": "2041767726",
     "isTitleBased": false
+  },
+  {
+    "title": "Gothic II Complete Classic",
+    "titleId": "2041780296",
+    "isTitleBased": true
   },
   {
     "title": "Screw Infinity 3D-Puzzle Game",
@@ -54583,6 +54703,11 @@
     "title": "Draconic Resurgence (Xbox Series)",
     "titleId": "2071863914",
     "isTitleBased": true
+  },
+  {
+    "title": "Alphadia F",
+    "titleId": "2071869599",
+    "isTitleBased": false
   },
   {
     "title": "Menace from the Deep: Complete Edition",
@@ -60112,7 +60237,7 @@
   {
     "title": "Graveyard Keeper 2",
     "titleId": "2123584275",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Emergency Room Simulator",
@@ -62527,6 +62652,11 @@
   {
     "title": "Let's Sing 2021",
     "titleId": "2146442135",
+    "isTitleBased": true
+  },
+  {
+    "title": "Samson - A Tyndalston Story",
+    "titleId": "2146443604",
     "isTitleBased": true
   },
   {

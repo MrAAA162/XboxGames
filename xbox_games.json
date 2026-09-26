@@ -9217,7 +9217,7 @@
   {
     "title": "CONTROL Resonant",
     "titleId": "1653280174",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Monster Ramp Racing",
@@ -9847,7 +9847,7 @@
   {
     "title": "Disney/Pixar Toy Story: Retro Roundup!",
     "titleId": "1659307066",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Super Dev Quest (Windows)",
@@ -11430,6 +11430,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Roots (Xbox One)",
+    "titleId": "1674115906",
+    "isTitleBased": true
+  },
+  {
     "title": "Krampus Kills",
     "titleId": "1674140576",
     "isTitleBased": true
@@ -12872,7 +12877,7 @@
   {
     "title": "Rivage",
     "titleId": "1686655508",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Full Metal Sergeant",
@@ -13857,6 +13862,11 @@
   {
     "title": "Avatar The Last Airbender: Quest for Balance",
     "titleId": "1694852268",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Slormancer",
+    "titleId": "1694863005",
     "isTitleBased": true
   },
   {
@@ -16655,6 +16665,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Moonlight Chess",
+    "titleId": "1719308136",
+    "isTitleBased": true
+  },
+  {
     "title": "Gelly Break Deluxe",
     "titleId": "1719360585",
     "isTitleBased": true
@@ -16775,6 +16790,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Roots",
+    "titleId": "1720537047",
+    "isTitleBased": true
+  },
+  {
     "title": "Minecraft Dungeons for Windows",
     "titleId": "1720633196",
     "isTitleBased": false
@@ -16787,6 +16807,11 @@
   {
     "title": "Brainrot Kart",
     "titleId": "1720764822",
+    "isTitleBased": true
+  },
+  {
+    "title": "Seafarer: The Ship Sim",
+    "titleId": "1720808392",
     "isTitleBased": true
   },
   {
@@ -18107,7 +18132,7 @@
   {
     "title": "Titanic Escape Simulator",
     "titleId": "1732453063",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Darksiders Genesis",
@@ -18832,6 +18857,11 @@
   {
     "title": "Castlevania Advance Collection",
     "titleId": "1739606934",
+    "isTitleBased": true
+  },
+  {
+    "title": "Colorbound",
+    "titleId": "1739607393",
     "isTitleBased": true
   },
   {
@@ -22257,7 +22287,7 @@
   {
     "title": "Nomori",
     "titleId": "1770809781",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "ACA NEOGEO BASEBALL STARS 2 for Windows",
@@ -22487,6 +22517,11 @@
   {
     "title": "Beautiful Sakura: Football Club (Xbox One)",
     "titleId": "1772771071",
+    "isTitleBased": true
+  },
+  {
+    "title": "Wrack: Reclamation",
+    "titleId": "1772830356",
     "isTitleBased": true
   },
   {
@@ -24262,7 +24297,7 @@
   {
     "title": "Doug's Nightmare",
     "titleId": "1788806598",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "Murder Diaries 3 - Santa's Trail of Blood",
@@ -25102,7 +25137,7 @@
   {
     "title": "Underhero",
     "titleId": "1796022981",
-    "isTitleBased": true
+    "isTitleBased": false
   },
   {
     "title": "Universe For Sale",
@@ -26927,7 +26962,7 @@
   {
     "title": "YAR: Forgotten Throne",
     "titleId": "1813553080",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Roadside Research (Game Preview)",
@@ -29727,7 +29762,7 @@
   {
     "title": "Train Yard Builder",
     "titleId": "1840790806",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "DARKLAND III",
@@ -30492,7 +30527,7 @@
   {
     "title": "Candy Shop Simulator",
     "titleId": "1847332903",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "PopSlinger Vol. 2 - Loveless",
@@ -32825,6 +32860,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Runes Quest",
+    "titleId": "1869996068",
+    "isTitleBased": true
+  },
+  {
     "title": "Heroes Battle Awakening",
     "titleId": "1870007286",
     "isTitleBased": true
@@ -34087,7 +34127,7 @@
   {
     "title": "Silver Pines",
     "titleId": "1881387671",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Sunshine Manor",
@@ -35715,14 +35755,14 @@
     "isTitleBased": false
   },
   {
-    "title": "Scramble Knights Online",
+    "title": "Scramble Knights Online (Game Preview)",
     "titleId": "1895210075",
     "isTitleBased": true
   },
   {
     "title": "RetroSpace",
     "titleId": "1895210295",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Motesolo: No Girlfriend Since Birth",
@@ -35817,6 +35857,11 @@
   {
     "title": "Modularis (Xbox One)",
     "titleId": "1896083100",
+    "isTitleBased": true
+  },
+  {
+    "title": "Runes Quest (Windows)",
+    "titleId": "1896146843",
     "isTitleBased": true
   },
   {
@@ -36482,7 +36527,7 @@
   {
     "title": "Echo Weaver",
     "titleId": "1902353069",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Shikaku Room",
@@ -38327,7 +38372,7 @@
   {
     "title": "SiN Reloaded",
     "titleId": "1920296991",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Puzzle by Nikoli W Masyu (Windows)",
@@ -39502,7 +39547,7 @@
   {
     "title": "Carry The Glass",
     "titleId": "1931143698",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Hanoi Puzzles: Solid Match",
@@ -41275,6 +41320,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Runes Quest (Xbox One)",
+    "titleId": "1947338420",
+    "isTitleBased": true
+  },
+  {
     "title": "Carnival Heroes",
     "titleId": "1947373892",
     "isTitleBased": true
@@ -41670,6 +41720,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Deck of Haunts",
+    "titleId": "1951070148",
+    "isTitleBased": true
+  },
+  {
     "title": "Spider Solitaire Collection Free",
     "titleId": "1951151137",
     "isTitleBased": false
@@ -41762,6 +41817,11 @@
   {
     "title": "Vosaria: Lair of the Forgotten",
     "titleId": "1951858060",
+    "isTitleBased": true
+  },
+  {
+    "title": "Roots (Windows)",
+    "titleId": "1951902312",
     "isTitleBased": true
   },
   {
@@ -42047,6 +42107,11 @@
   {
     "title": "Minigolf Adventure",
     "titleId": "1954760880",
+    "isTitleBased": true
+  },
+  {
+    "title": "Vampire Blood Dynasty",
+    "titleId": "1954785645",
     "isTitleBased": true
   },
   {
@@ -45052,6 +45117,11 @@
   {
     "title": "Rising Dusk",
     "titleId": "1982510179",
+    "isTitleBased": true
+  },
+  {
+    "title": "Moonlight Chess (Windows)",
+    "titleId": "1982688757",
     "isTitleBased": true
   },
   {
@@ -48350,6 +48420,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Angle Of Attack",
+    "titleId": "2013124674",
+    "isTitleBased": true
+  },
+  {
     "title": "Dragon Sinker: Descendants of Legend",
     "titleId": "2013142116",
     "isTitleBased": true
@@ -48407,6 +48482,11 @@
   {
     "title": "The Gunk",
     "titleId": "2013672301",
+    "isTitleBased": true
+  },
+  {
+    "title": "Drive Me Crazy",
+    "titleId": "2013758431",
     "isTitleBased": true
   },
   {
@@ -53667,7 +53747,7 @@
   {
     "title": "Tenebris Somnia",
     "titleId": "2061000848",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Mystic Gate",
@@ -60482,7 +60562,7 @@
   {
     "title": "Disney/Pixar Toy Story 3 Complete Edition",
     "titleId": "2126017609",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "ACA NEOGEO WORLD HEROES 2 for Windows",
@@ -60747,6 +60827,11 @@
   {
     "title": "Monica e a Guarda dos Coelhos",
     "titleId": "2128075254",
+    "isTitleBased": true
+  },
+  {
+    "title": "Moonlight Chess (Xbox One)",
+    "titleId": "2128077671",
     "isTitleBased": true
   },
   {
@@ -62287,6 +62372,11 @@
   {
     "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
     "titleId": "2142487375",
+    "isTitleBased": true
+  },
+  {
+    "title": "Five Elements Chess",
+    "titleId": "2142562353",
     "isTitleBased": true
   },
   {

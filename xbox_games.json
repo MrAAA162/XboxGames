@@ -5820,6 +5820,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Prison Run and Gun",
+    "titleId": "1623297519",
+    "isTitleBased": true
+  },
+  {
     "title": "Atelier Karia: The Night Kingdom & the Guide of Memories",
     "titleId": "1623300155",
     "isTitleBased": false
@@ -9165,6 +9170,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Vorlec (Windows)",
+    "titleId": "1652810927",
+    "isTitleBased": true
+  },
+  {
     "title": "Mushroom Savior (For Windows 10)",
     "titleId": "1652829137",
     "isTitleBased": true
@@ -10245,6 +10255,11 @@
     "isTitleBased": false
   },
   {
+    "title": "TALAKA",
+    "titleId": "1663765970",
+    "isTitleBased": false
+  },
+  {
     "title": "White Day: A Labyrinth Named School",
     "titleId": "1663897592",
     "isTitleBased": true
@@ -10327,6 +10342,11 @@
   {
     "title": "Chromatic Conundrum",
     "titleId": "1664540997",
+    "isTitleBased": false
+  },
+  {
+    "title": "BOMBANANA!",
+    "titleId": "1664599867",
     "isTitleBased": false
   },
   {
@@ -15195,6 +15215,16 @@
     "isTitleBased": false
   },
   {
+    "title": "Candlemates (Xbox Series)",
+    "titleId": "1706595599",
+    "isTitleBased": true
+  },
+  {
+    "title": "Luma Island",
+    "titleId": "1706608185",
+    "isTitleBased": true
+  },
+  {
     "title": "The Alters",
     "titleId": "1706610063",
     "isTitleBased": true
@@ -16023,6 +16053,11 @@
     "title": "Colossus Down",
     "titleId": "1713543499",
     "isTitleBased": true
+  },
+  {
+    "title": "Football Manager 27",
+    "titleId": "1713715695",
+    "isTitleBased": false
   },
   {
     "title": "Carrot Crusade - Mimika's Reckoning (Xbox One)",
@@ -20625,6 +20660,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Aether & Iron",
+    "titleId": "1756071422",
+    "isTitleBased": false
+  },
+  {
     "title": "West of Loathing",
     "titleId": "1756095682",
     "isTitleBased": false
@@ -20782,6 +20822,11 @@
   {
     "title": "SokoBunny",
     "titleId": "1757469201",
+    "isTitleBased": false
+  },
+  {
+    "title": "A Game About Penguins",
+    "titleId": "1757510746",
     "isTitleBased": false
   },
   {
@@ -29740,6 +29785,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Vorlec",
+    "titleId": "1840604715",
+    "isTitleBased": true
+  },
+  {
     "title": "Meowgic Mix (Windows)",
     "titleId": "1840607912",
     "isTitleBased": true
@@ -35985,6 +36035,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Spray Trace (Xbox One)",
+    "titleId": "1897401943",
+    "isTitleBased": true
+  },
+  {
     "title": "ReactorX",
     "titleId": "1897447749",
     "isTitleBased": true
@@ -40615,6 +40670,11 @@
     "isTitleBased": true
   },
   {
+    "title": "ACRODRIFT: FPV Drone Simulator",
+    "titleId": "1941155107",
+    "isTitleBased": false
+  },
+  {
     "title": "Starstruck Vagabond",
     "titleId": "1941156581",
     "isTitleBased": true
@@ -44903,6 +44963,11 @@
     "title": "Fluffy Horde",
     "titleId": "1980402933",
     "isTitleBased": true
+  },
+  {
+    "title": "Fallen Tear: The Ascension",
+    "titleId": "1980412263",
+    "isTitleBased": false
   },
   {
     "title": "50 Years",
@@ -53020,6 +53085,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Candlemates (Xbox One)",
+    "titleId": "2054122072",
+    "isTitleBased": true
+  },
+  {
     "title": "Catnigma",
     "titleId": "2054164358",
     "isTitleBased": true
@@ -60932,6 +61002,11 @@
   {
     "title": "Habitat Shapes: The Tropical Journey (Xbox Series)",
     "titleId": "2129191113",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Vorlec (Xbox One)",
+    "titleId": "2129195190",
     "isTitleBased": true
   },
   {

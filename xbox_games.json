@@ -5095,6 +5095,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Voltaire: The Vegan Vampire",
+    "titleId": "1616167005",
+    "isTitleBased": true
+  },
+  {
     "title": "EA SPORTS FC™ 24",
     "titleId": "1616230842",
     "isTitleBased": false
@@ -18262,7 +18267,7 @@
   {
     "title": "Castlevania: Belmont's Curse",
     "titleId": "1733505304",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Gummy Invaders",
@@ -24342,7 +24347,7 @@
   {
     "title": "Doug's Nightmare",
     "titleId": "1788806598",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Murder Diaries 3 - Santa's Trail of Blood",
@@ -25182,7 +25187,7 @@
   {
     "title": "Underhero",
     "titleId": "1796022981",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Universe For Sale",
@@ -26187,6 +26192,11 @@
   {
     "title": "ReactorX 2",
     "titleId": "1805490295",
+    "isTitleBased": true
+  },
+  {
+    "title": "Minecraft Dungeons II",
+    "titleId": "1805509784",
     "isTitleBased": true
   },
   {
@@ -31957,7 +31967,7 @@
   {
     "title": "ACE COMBAT 8: WINGS OF THEVE",
     "titleId": "1860967704",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Autonauts",
@@ -35367,7 +35377,7 @@
   {
     "title": "NEIGHBORS: Suburban Warfare",
     "titleId": "1891759317",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Zumba - Marble Zombie Invasion",
@@ -44745,6 +44755,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Five Hearts Under One Roof season2",
+    "titleId": "1978108912",
+    "isTitleBased": true
+  },
+  {
     "title": "ACA NEOGEO MAGICAL DROP II",
     "titleId": "1978162500",
     "isTitleBased": true
@@ -45592,7 +45607,7 @@
   {
     "title": "Transport Fever 3",
     "titleId": "1985991719",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Dragon Age™: The Veilguard - PC",
@@ -51410,6 +51425,11 @@
     "isTitleBased": true
   },
   {
+    "title": "ACE COMBAT ZERO: THE BELKAN WAR (Xbox Series X|S Version)",
+    "titleId": "2038033103",
+    "isTitleBased": true
+  },
+  {
     "title": "AeternoBlade II: Infinity",
     "titleId": "2038068683",
     "isTitleBased": true
@@ -53310,6 +53330,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Space Grunts: Chrono Shard",
+    "titleId": "2056335895",
+    "isTitleBased": true
+  },
+  {
     "title": "They Are Here: Alien Abduction Horror",
     "titleId": "2056426151",
     "isTitleBased": false
@@ -55187,7 +55212,7 @@
   {
     "title": "Shelterra the Skyworld",
     "titleId": "2074849188",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Oddworld: Soulstorm Enhanced Edition",
@@ -57950,7 +57975,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Sir Whoopass: Immortal Death",
+    "title": "Sir Whoopass",
     "titleId": "2100742349",
     "isTitleBased": true
   },
@@ -59007,7 +59032,7 @@
   {
     "title": "Way of the Hunter 2",
     "titleId": "2110764382",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Panzer Knights: Commander's Edition",
@@ -66650,7 +66675,7 @@
     "isTitleBased": false
   },
   {
-    "title": "The Witcher 3: Wild Hunt – Complete Edition",
+    "title": "The Witcher 3: Wild Hunt — Remastered",
     "titleId": "530462567",
     "isTitleBased": false
   },

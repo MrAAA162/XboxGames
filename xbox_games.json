@@ -5800,6 +5800,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Candlemates (Windows)",
+    "titleId": "1623012573",
+    "isTitleBased": true
+  },
+  {
     "title": "With Eyes of Ice",
     "titleId": "1623064491",
     "isTitleBased": true
@@ -6953,6 +6958,11 @@
     "title": "SULFUR",
     "titleId": "1633204436",
     "isTitleBased": false
+  },
+  {
+    "title": "Queens Domain",
+    "titleId": "1633269754",
+    "isTitleBased": true
   },
   {
     "title": "Metamorphosis: Xbox Edition",
@@ -14110,6 +14120,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Troll Slayer",
+    "titleId": "1696507391",
+    "isTitleBased": true
+  },
+  {
     "title": "Gas Station Simulator (Xbox Series)",
     "titleId": "1696603875",
     "isTitleBased": true
@@ -16805,6 +16820,11 @@
     "isTitleBased": true
   },
   {
+    "title": "I Want to Play the Villain!",
+    "titleId": "1720057782",
+    "isTitleBased": false
+  },
+  {
     "title": "Mafia: Definitive Edition for XBOX One",
     "titleId": "1720075101",
     "isTitleBased": false
@@ -16812,6 +16832,11 @@
   {
     "title": "SimCity 2000™ Special Edition",
     "titleId": "1720099545",
+    "isTitleBased": false
+  },
+  {
+    "title": "The Aquarium",
+    "titleId": "1720101373",
     "isTitleBased": false
   },
   {
@@ -22075,6 +22100,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Hidden Objects Adventure",
+    "titleId": "1768159168",
+    "isTitleBased": true
+  },
+  {
     "title": "WonderCat Adventures",
     "titleId": "1768172289",
     "isTitleBased": true
@@ -22530,6 +22560,11 @@
     "isTitleBased": true
   },
   {
+    "title": "STEINS;GATE RE:BOOT",
+    "titleId": "1772268105",
+    "isTitleBased": false
+  },
+  {
     "title": "Super Star Blast",
     "titleId": "1772304991",
     "isTitleBased": true
@@ -22947,6 +22982,11 @@
   {
     "title": "Inhuman Resources: A Literary Machination",
     "titleId": "1775503484",
+    "isTitleBased": true
+  },
+  {
+    "title": "Railroad Swap (Xbox One)",
+    "titleId": "1775668079",
     "isTitleBased": true
   },
   {
@@ -28820,6 +28860,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Fallen City Brawl",
+    "titleId": "1830424268",
+    "isTitleBased": true
+  },
+  {
     "title": "Forklift Simulator",
     "titleId": "1830452855",
     "isTitleBased": true
@@ -30503,6 +30548,11 @@
     "title": "Next of Kin: Fidelity",
     "titleId": "1845962995",
     "isTitleBased": true
+  },
+  {
+    "title": "Mombo Combo Legacy",
+    "titleId": "1845979267",
+    "isTitleBased": false
   },
   {
     "title": "Gigapocalypse",
@@ -34420,6 +34470,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Troll Slayer (XBOX One)",
+    "titleId": "1882628122",
+    "isTitleBased": true
+  },
+  {
     "title": "Silent Scream",
     "titleId": "1882656783",
     "isTitleBased": true
@@ -34452,6 +34507,11 @@
   {
     "title": "Beyond Doors",
     "titleId": "1882814863",
+    "isTitleBased": true
+  },
+  {
+    "title": "Choice of Life: Samosbor",
+    "titleId": "1882820339",
     "isTitleBased": true
   },
   {
@@ -37575,6 +37635,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Railroad Swap (Xbox Series)",
+    "titleId": "1911383362",
+    "isTitleBased": true
+  },
+  {
     "title": "Immortals of Aveum™",
     "titleId": "1911404173",
     "isTitleBased": true
@@ -40365,6 +40430,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Jackbox Party Pack 12",
+    "titleId": "1937485146",
+    "isTitleBased": true
+  },
+  {
     "title": "The Church in the Darkness",
     "titleId": "1937488056",
     "isTitleBased": true
@@ -43115,6 +43185,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Hazard Levels",
+    "titleId": "1962387251",
+    "isTitleBased": true
+  },
+  {
     "title": "Like a Dragon: Pirate Yakuza in Hawaii",
     "titleId": "1962388658",
     "isTitleBased": true
@@ -45410,6 +45485,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Dungeon Quest (Xbox Series)",
+    "titleId": "1983551824",
+    "isTitleBased": true
+  },
+  {
     "title": "Gang Blast",
     "titleId": "1983573482",
     "isTitleBased": true
@@ -46533,6 +46613,11 @@
     "title": "Ancient Stories: Gods of Egypt",
     "titleId": "1993658612",
     "isTitleBased": true
+  },
+  {
+    "title": "Penguin Lifter",
+    "titleId": "1993661023",
+    "isTitleBased": false
   },
   {
     "title": "#DRIVE Rally",
@@ -47952,6 +48037,11 @@
   {
     "title": "PACER",
     "titleId": "2006937710",
+    "isTitleBased": true
+  },
+  {
+    "title": "Spray Trace (Windows)",
+    "titleId": "2006971513",
     "isTitleBased": true
   },
   {
@@ -50365,6 +50455,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Last Case",
+    "titleId": "2028607442",
+    "isTitleBased": true
+  },
+  {
     "title": "Marvel's Midnight Suns for Xbox Series X|S",
     "titleId": "2028627076",
     "isTitleBased": true
@@ -50532,6 +50627,11 @@
   {
     "title": "ASMR Slicing",
     "titleId": "2029448252",
+    "isTitleBased": true
+  },
+  {
+    "title": "Marupoyo",
+    "titleId": "2029468895",
     "isTitleBased": true
   },
   {
@@ -51280,6 +51380,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Chained Beasts",
+    "titleId": "2036001782",
+    "isTitleBased": false
+  },
+  {
     "title": "Little Misfortune",
     "titleId": "2036022873",
     "isTitleBased": true
@@ -51317,6 +51422,11 @@
   {
     "title": "Boomerforge (Windows)",
     "titleId": "2036295031",
+    "isTitleBased": true
+  },
+  {
+    "title": "Railroad Swap (Windows)",
+    "titleId": "2036299729",
     "isTitleBased": true
   },
   {
@@ -52620,6 +52730,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Troll Slayer (Windows)",
+    "titleId": "2047762891",
+    "isTitleBased": true
+  },
+  {
     "title": "The Last Hero of Nostalgaia",
     "titleId": "2047811112",
     "isTitleBased": true
@@ -52733,6 +52848,11 @@
     "title": "Wo Long 2: Wings of Ember",
     "titleId": "2048748295",
     "isTitleBased": false
+  },
+  {
+    "title": "DuneCrawl",
+    "titleId": "2048782456",
+    "isTitleBased": true
   },
   {
     "title": "Goosebumps Dead of Night",
@@ -57760,6 +57880,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Meat Grinder: Hotdog Simulator",
+    "titleId": "2098190451",
+    "isTitleBased": false
+  },
+  {
     "title": "Candy Crush Saga",
     "titleId": "2098202394",
     "isTitleBased": false
@@ -58432,6 +58557,11 @@
   {
     "title": "STAR WARS: Galactic Racer™",
     "titleId": "2103902874",
+    "isTitleBased": false
+  },
+  {
+    "title": "Retro Arcade Shop Simulator",
+    "titleId": "2103970137",
     "isTitleBased": false
   },
   {
@@ -60805,6 +60935,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dungeon Quest (Xbox One)",
+    "titleId": "2126056862",
+    "isTitleBased": true
+  },
+  {
     "title": "Murky Divers",
     "titleId": "2126139968",
     "isTitleBased": true
@@ -61577,6 +61712,11 @@
   {
     "title": "Battlefield™ 1 Revolution",
     "titleId": "2133058400",
+    "isTitleBased": false
+  },
+  {
+    "title": "A Game About Digging A Hole™ Together",
+    "titleId": "2133156751",
     "isTitleBased": false
   },
   {
@@ -62683,6 +62823,11 @@
     "title": "Bridge Constructor Studio",
     "titleId": "2143317425",
     "isTitleBased": false
+  },
+  {
+    "title": "Choice of Life: Floors",
+    "titleId": "2143318557",
+    "isTitleBased": true
   },
   {
     "title": "Super Impossible Road",

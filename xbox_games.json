@@ -8675,6 +8675,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Platypus Steps (Xbox Series)",
+    "titleId": "1648525111",
+    "isTitleBased": true
+  },
+  {
     "title": "Little Droid",
     "titleId": "1648532653",
     "isTitleBased": true
@@ -9737,6 +9742,11 @@
   {
     "title": "Worms W.M.D",
     "titleId": "1657689138",
+    "isTitleBased": true
+  },
+  {
+    "title": "My Life: Zoo Vet",
+    "titleId": "1657704419",
     "isTitleBased": true
   },
   {
@@ -11000,6 +11010,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Maneater 2",
+    "titleId": "1669756858",
+    "isTitleBased": false
+  },
+  {
     "title": "Gold Mining Simulator",
     "titleId": "1669831089",
     "isTitleBased": true
@@ -11410,6 +11425,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Nightmare Circus",
+    "titleId": "1673600708",
+    "isTitleBased": false
+  },
+  {
     "title": "Egging On",
     "titleId": "1673618851",
     "isTitleBased": true
@@ -11518,6 +11538,11 @@
     "title": "Booom-Slang!",
     "titleId": "1674343547",
     "isTitleBased": true
+  },
+  {
+    "title": "Banker Simulator",
+    "titleId": "1674407004",
+    "isTitleBased": false
   },
   {
     "title": "Paper Plane Arena - Lost Places",
@@ -13915,6 +13940,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Platypus Steps (Windows)",
+    "titleId": "1694518466",
+    "isTitleBased": true
+  },
+  {
     "title": "Bonds of the Skies",
     "titleId": "1694557830",
     "isTitleBased": true
@@ -14660,6 +14690,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Wake: A Lovecraftian Fishing Tale",
+    "titleId": "1701037538",
+    "isTitleBased": false
+  },
+  {
     "title": "Self-Delusion",
     "titleId": "1701069444",
     "isTitleBased": true
@@ -14727,6 +14762,11 @@
   {
     "title": "Beautiful Sakura: Surfing Club (Windows)",
     "titleId": "1701591001",
+    "isTitleBased": true
+  },
+  {
+    "title": "House Cleaner Simulator",
+    "titleId": "1701674641",
     "isTitleBased": true
   },
   {
@@ -17367,6 +17407,11 @@
   {
     "title": "Whipseey and the Lost Atlas",
     "titleId": "1724902545",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cat Pipes: More Meow",
+    "titleId": "1724903576",
     "isTitleBased": true
   },
   {
@@ -20570,6 +20615,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Kitties on Planets (Xbox One)",
+    "titleId": "1754401397",
+    "isTitleBased": true
+  },
+  {
     "title": "Aery - Surreal World",
     "titleId": "1754457436",
     "isTitleBased": true
@@ -20940,6 +20990,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sneaky Purr (Xbox Series)",
+    "titleId": "1757583761",
+    "isTitleBased": true
+  },
+  {
     "title": "Aircraft Evolution",
     "titleId": "1757653087",
     "isTitleBased": true
@@ -20972,6 +21027,11 @@
   {
     "title": "Cat in Rain (Windows)",
     "titleId": "1757862533",
+    "isTitleBased": true
+  },
+  {
+    "title": "Sneaky Purr (Xbox One)",
+    "titleId": "1757905031",
     "isTitleBased": true
   },
   {
@@ -24745,6 +24805,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cat Pipes: More Meow (Xbox One)",
+    "titleId": "1791395744",
+    "isTitleBased": true
+  },
+  {
     "title": "Yakuza: Like a Dragon",
     "titleId": "1791400679",
     "isTitleBased": true
@@ -24902,6 +24967,11 @@
   {
     "title": "A Rite from the Stars: Remaster Edition",
     "titleId": "1792422213",
+    "isTitleBased": true
+  },
+  {
+    "title": "Dreadway",
+    "titleId": "1792471780",
     "isTitleBased": true
   },
   {
@@ -25437,6 +25507,16 @@
   {
     "title": "Magic Jigsaw Puzzles – Puzzle game HD",
     "titleId": "1797206542",
+    "isTitleBased": false
+  },
+  {
+    "title": "Overhours",
+    "titleId": "1797214123",
+    "isTitleBased": false
+  },
+  {
+    "title": "Prospice: Anomalous Logistics",
+    "titleId": "1797225273",
     "isTitleBased": false
   },
   {
@@ -28163,6 +28243,11 @@
     "title": "Mirror's Edge™ Catalyst",
     "titleId": "1824138520",
     "isTitleBased": false
+  },
+  {
+    "title": "Sproutrex (Windows)",
+    "titleId": "1824171270",
+    "isTitleBased": true
   },
   {
     "title": "Aaero2",
@@ -31870,6 +31955,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sproutrex (Xbox Series)",
+    "titleId": "1858496833",
+    "isTitleBased": true
+  },
+  {
     "title": "Pinball FX2 VR",
     "titleId": "1858554654",
     "isTitleBased": true
@@ -33972,6 +34062,11 @@
   {
     "title": "The Dark Pictures Anthology: Man Of Medan",
     "titleId": "1877913231",
+    "isTitleBased": true
+  },
+  {
+    "title": "Color Attack",
+    "titleId": "1877914869",
     "isTitleBased": true
   },
   {
@@ -36647,6 +36742,11 @@
   {
     "title": "Construction Crew",
     "titleId": "1901090490",
+    "isTitleBased": false
+  },
+  {
+    "title": "Alex Hill: Whispers at White Oak Inn",
+    "titleId": "1901133032",
     "isTitleBased": false
   },
   {
@@ -39420,6 +39520,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sproutrex",
+    "titleId": "1927554512",
+    "isTitleBased": true
+  },
+  {
     "title": "Parasol Stars: The Story of Bubble Bobble III",
     "titleId": "1927563697",
     "isTitleBased": true
@@ -41018,6 +41123,11 @@
     "title": "UNO®",
     "titleId": "1942002005",
     "isTitleBased": false
+  },
+  {
+    "title": "Sneaky Purr (Windows)",
+    "titleId": "1942036922",
+    "isTitleBased": true
   },
   {
     "title": "Skinwalker 3D",
@@ -47620,6 +47730,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Haunted Paws",
+    "titleId": "2002838854",
+    "isTitleBased": false
+  },
+  {
     "title": "Elta: Defy All Gods",
     "titleId": "2002847517",
     "isTitleBased": false
@@ -50100,6 +50215,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Escapists 3",
+    "titleId": "2024982581",
+    "isTitleBased": false
+  },
+  {
     "title": "Demons Are Coming!",
     "titleId": "2025087313",
     "isTitleBased": true
@@ -50880,6 +51000,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Aftergods",
+    "titleId": "2030944370",
+    "isTitleBased": false
+  },
+  {
     "title": "The Last Door: Season 2 Collector's Edition",
     "titleId": "2030947936",
     "isTitleBased": true
@@ -51237,6 +51362,11 @@
   {
     "title": "Spellbearers",
     "titleId": "2034742768",
+    "isTitleBased": true
+  },
+  {
+    "title": "Solid Void - Halloween Nonograms",
+    "titleId": "2034777763",
     "isTitleBased": true
   },
   {
@@ -59060,6 +59190,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cat Pipes: More Meow (Xbox Series)",
+    "titleId": "2108235247",
+    "isTitleBased": true
+  },
+  {
     "title": "Ladders by POWGI",
     "titleId": "2108304147",
     "isTitleBased": true
@@ -61265,6 +61400,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Goldilock One: The Mists of Jakaira",
+    "titleId": "2128207459",
+    "isTitleBased": false
+  },
+  {
     "title": "ACA NEOGEO SOCCER BRAWL",
     "titleId": "2128212053",
     "isTitleBased": true
@@ -61452,6 +61592,11 @@
   {
     "title": "Indivisible",
     "titleId": "2129874876",
+    "isTitleBased": true
+  },
+  {
+    "title": "Platypus Steps (Xbox One)",
+    "titleId": "2129888472",
     "isTitleBased": true
   },
   {

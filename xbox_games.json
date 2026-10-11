@@ -1915,7 +1915,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Mafia III",
+    "title": "Mafia III for XBOX One",
     "titleId": "1192666733",
     "isTitleBased": false
   },
@@ -6152,7 +6152,7 @@
   {
     "title": "Leaf Blower Co.",
     "titleId": "1626204440",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Dragon Snack (Xbox Series)",
@@ -6960,7 +6960,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Queens Domain",
+    "title": "Queen's Domain",
     "titleId": "1633269754",
     "isTitleBased": true
   },
@@ -25940,7 +25940,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Throne and Liberty",
+    "title": "Throne and Liberty AGS",
     "titleId": "1801842805",
     "isTitleBased": true
   },
@@ -26560,7 +26560,7 @@
     "isTitleBased": true
   },
   {
-    "title": "theHunter: Call of the Wild™ - Windows 10",
+    "title": "theHunter: Call of the Wild™",
     "titleId": "1806542452",
     "isTitleBased": true
   },
@@ -35842,7 +35842,7 @@
   {
     "title": "Ice Cream Simulator",
     "titleId": "1893089731",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Battle Stations Blockade",
@@ -40257,7 +40257,7 @@
   {
     "title": "Forever Ago",
     "titleId": "1934596313",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Vision Soft Reset",
@@ -56197,7 +56197,7 @@
   {
     "title": "Clive Barker's Hellraiser: Revival",
     "titleId": "2079449748",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Burn in Health (Windows)",
@@ -58742,7 +58742,7 @@
   {
     "title": "STAR WARS: Galactic Racer™",
     "titleId": "2103902874",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Retro Arcade Shop Simulator",
@@ -60285,7 +60285,7 @@
     "isTitleBased": true
   },
   {
-    "title": "CLUTCH",
+    "title": "Maverick Game_Clutch",
     "titleId": "2118003585",
     "isTitleBased": false
   },
@@ -61822,7 +61822,7 @@
   {
     "title": "House 2",
     "titleId": "2131942976",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "ACL Pro Cornhole",

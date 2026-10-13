@@ -7195,6 +7195,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Wild n Chill",
+    "titleId": "1635357809",
+    "isTitleBased": false
+  },
+  {
     "title": "Oniken",
     "titleId": "1635445457",
     "isTitleBased": true
@@ -9292,6 +9297,11 @@
   {
     "title": "ComputerHead: Leapbound (Windows)",
     "titleId": "1653613745",
+    "isTitleBased": true
+  },
+  {
+    "title": "Gaelco Sports Collection (QUByte Classics)",
+    "titleId": "1653638051",
     "isTitleBased": true
   },
   {
@@ -13705,6 +13715,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Phantom Floor",
+    "titleId": "1692824512",
+    "isTitleBased": false
+  },
+  {
     "title": "Cats and Seek : Osaka",
     "titleId": "1692828729",
     "isTitleBased": true
@@ -18052,6 +18067,11 @@
   {
     "title": ".T.E.S.T: Expected Behaviour",
     "titleId": "1730295429",
+    "isTitleBased": true
+  },
+  {
+    "title": "House Builder 2",
+    "titleId": "1730315012",
     "isTitleBased": true
   },
   {
@@ -23030,6 +23050,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Gigils: Chomp Together",
+    "titleId": "1775192738",
+    "isTitleBased": false
+  },
+  {
     "title": "Depersonalization",
     "titleId": "1775319200",
     "isTitleBased": true
@@ -27780,6 +27805,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Fantasy Boy",
+    "titleId": "1819485707",
+    "isTitleBased": true
+  },
+  {
     "title": "WWE 2K15",
     "titleId": "181948997",
     "isTitleBased": false
@@ -29900,6 +29930,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Sword & Shield Simulator",
+    "titleId": "1839248696",
+    "isTitleBased": false
+  },
+  {
     "title": "FAR: Changing Tides Windows Edition",
     "titleId": "1839283754",
     "isTitleBased": true
@@ -31442,6 +31477,11 @@
   {
     "title": "AereA",
     "titleId": "1853323925",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tingus Goose",
+    "titleId": "1853381679",
     "isTitleBased": true
   },
   {
@@ -37490,6 +37530,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Beyond The Evil",
+    "titleId": "1908291720",
+    "isTitleBased": false
+  },
+  {
     "title": "Galaxy Champions TV",
     "titleId": "1908509778",
     "isTitleBased": true
@@ -39157,6 +39202,11 @@
   {
     "title": "Pets Hidden In The Office",
     "titleId": "1924033897",
+    "isTitleBased": true
+  },
+  {
+    "title": "Primal Planet",
+    "titleId": "1924094263",
     "isTitleBased": true
   },
   {
@@ -43845,6 +43895,11 @@
     "isTitleBased": true
   },
   {
+    "title": "He-Man and the Masters of the Universe: Dragon Pearl of Destruction",
+    "titleId": "1966934694",
+    "isTitleBased": false
+  },
+  {
     "title": "The Wandering Village",
     "titleId": "1967005422",
     "isTitleBased": true
@@ -43942,6 +43997,11 @@
   {
     "title": "fig.",
     "titleId": "1968122879",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tidy Up the Flower Shop",
+    "titleId": "1968135954",
     "isTitleBased": true
   },
   {
@@ -48382,6 +48442,11 @@
   {
     "title": "Micro Pico Racers",
     "titleId": "2008433443",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Zibbo Show",
+    "titleId": "2008451871",
     "isTitleBased": true
   },
   {
@@ -53292,6 +53357,11 @@
   {
     "title": "Atomicrops",
     "titleId": "2051565788",
+    "isTitleBased": true
+  },
+  {
+    "title": "GeoJelly",
+    "titleId": "2051572713",
     "isTitleBased": true
   },
   {

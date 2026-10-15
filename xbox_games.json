@@ -9925,6 +9925,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Cleaning Simulator",
+    "titleId": "1659607717",
+    "isTitleBased": true
+  },
+  {
     "title": "Paperly: Paper Plane Adventure",
     "titleId": "1659664271",
     "isTitleBased": true
@@ -15435,6 +15440,11 @@
     "isTitleBased": true
   },
   {
+    "title": "METRO 2039 Digital Art Book & Soundtrack",
+    "titleId": "1707411122",
+    "isTitleBased": false
+  },
+  {
     "title": "Jurassic World Evolution 3",
     "titleId": "1707431222",
     "isTitleBased": true
@@ -16382,6 +16392,11 @@
   {
     "title": "Five Nights at Freddy's 2",
     "titleId": "1715352825",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hidden Cats in Beijing",
+    "titleId": "1715407501",
     "isTitleBased": true
   },
   {
@@ -17342,6 +17357,11 @@
   {
     "title": "Space Frontier",
     "titleId": "1724027675",
+    "isTitleBased": true
+  },
+  {
+    "title": "Treasure Tiger",
+    "titleId": "1724110255",
     "isTitleBased": true
   },
   {
@@ -33045,6 +33065,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Battlefield™ 6 - PC",
+    "titleId": "1868170072",
+    "isTitleBased": false
+  },
+  {
     "title": "Robo Revenge Squad",
     "titleId": "1868177916",
     "isTitleBased": true
@@ -37980,6 +38005,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The End of the Sun",
+    "titleId": "1912821726",
+    "isTitleBased": true
+  },
+  {
     "title": "Sniper Elite: Resistance",
     "titleId": "1912862912",
     "isTitleBased": true
@@ -38750,6 +38780,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Full Metal Sergeant 2",
+    "titleId": "1920015253",
+    "isTitleBased": true
+  },
+  {
     "title": "Headbangers in Holiday Hell",
     "titleId": "1920102037",
     "isTitleBased": true
@@ -39317,6 +39352,11 @@
   {
     "title": "SubwaySim 2",
     "titleId": "1925739927",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cozy Radiation Cleaner",
+    "titleId": "1925847989",
     "isTitleBased": true
   },
   {
@@ -47100,6 +47140,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Dominus Gladiatus",
+    "titleId": "1996107937",
+    "isTitleBased": true
+  },
+  {
     "title": "Deconstruction Simulator",
     "titleId": "1996309372",
     "isTitleBased": true
@@ -52712,6 +52757,11 @@
   {
     "title": "Jet Set Knights",
     "titleId": "2044796053",
+    "isTitleBased": true
+  },
+  {
+    "title": "Love Beyond Differences: Riku & Lily",
+    "titleId": "2044812199",
     "isTitleBased": true
   },
   {
@@ -58855,6 +58905,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Mortal Sin",
+    "titleId": "2104290377",
+    "isTitleBased": true
+  },
+  {
     "title": "Fatum Betula",
     "titleId": "2104363067",
     "isTitleBased": true
@@ -60468,6 +60523,11 @@
     "title": "Somerville",
     "titleId": "2119197579",
     "isTitleBased": true
+  },
+  {
+    "title": "A Game About Breaking A Cube",
+    "titleId": "2119232452",
+    "isTitleBased": false
   },
   {
     "title": "A Night on the Farm",

@@ -6957,7 +6957,7 @@
   {
     "title": "SULFUR",
     "titleId": "1633204436",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Queen's Domain",
@@ -7032,6 +7032,11 @@
   {
     "title": "No More Room in Hell 2",
     "titleId": "1634088961",
+    "isTitleBased": true
+  },
+  {
+    "title": "Captain Coco: Treasure Island (Xbox Series)",
+    "titleId": "1634111095",
     "isTitleBased": true
   },
   {
@@ -9032,7 +9037,7 @@
   {
     "title": "Tales of Eternia Remastered",
     "titleId": "1651256517",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Gravity Escape From The Maze (Xbox Series)",
@@ -11007,6 +11012,11 @@
   {
     "title": "Azura's Crystals",
     "titleId": "1669559000",
+    "isTitleBased": true
+  },
+  {
+    "title": "Darkenstein 3D Director's cut",
+    "titleId": "1669572943",
     "isTitleBased": true
   },
   {
@@ -14325,6 +14335,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Ski Jumping World Cup",
+    "titleId": "1697845889",
+    "isTitleBased": true
+  },
+  {
     "title": "Quake III Arena",
     "titleId": "1697847173",
     "isTitleBased": false
@@ -14445,7 +14460,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Force of Warships: Naval Battles",
+    "title": "Force of Warships: Battleship War Game",
     "titleId": "1698823019",
     "isTitleBased": false
   },
@@ -16705,6 +16720,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Arcade Archives 2 STINGER",
+    "titleId": "1718030194",
+    "isTitleBased": true
+  },
+  {
     "title": "Airborne Kingdom",
     "titleId": "1718032869",
     "isTitleBased": true
@@ -18150,6 +18170,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Feed The Deep",
+    "titleId": "1730644296",
+    "isTitleBased": false
+  },
+  {
     "title": "Arcade Archives 2 FINAL LAP",
     "titleId": "1730666256",
     "isTitleBased": true
@@ -18255,7 +18280,7 @@
     "isTitleBased": true
   },
   {
-    "title": "NBA 2K27",
+    "title": "NBA 2K27 (XBOX Series X|S)",
     "titleId": "1731722945",
     "isTitleBased": true
   },
@@ -18485,7 +18510,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Farming Simulator 17 - Windows 10",
+    "title": "Farming Simulator 17 (PC)",
     "titleId": "1734069370",
     "isTitleBased": true
   },
@@ -20595,6 +20620,11 @@
     "isTitleBased": true
   },
   {
+    "title": "A Bird Story",
+    "titleId": "1753745949",
+    "isTitleBased": true
+  },
+  {
     "title": "Apidya' Special",
     "titleId": "1753762836",
     "isTitleBased": true
@@ -21028,6 +21058,11 @@
     "title": "Felix The Reaper",
     "titleId": "175755835",
     "isTitleBased": true
+  },
+  {
+    "title": "AFTERZERO - The last Drive",
+    "titleId": "1757577089",
+    "isTitleBased": false
   },
   {
     "title": "Sneaky Purr (Xbox Series)",
@@ -24090,6 +24125,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Heavy Metal Death Can",
+    "titleId": "1784717721",
+    "isTitleBased": true
+  },
+  {
     "title": "MIDNIGHT Remastered",
     "titleId": "1784809524",
     "isTitleBased": true
@@ -24117,7 +24157,7 @@
   {
     "title": "Planet Zoo 2",
     "titleId": "1784999896",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Lost Words: Beyond the Page",
@@ -24358,6 +24398,11 @@
     "title": "Let's Build a Dungeon",
     "titleId": "1786610519",
     "isTitleBased": false
+  },
+  {
+    "title": "Starlight Scouts",
+    "titleId": "1786700992",
+    "isTitleBased": true
   },
   {
     "title": "Charlatan",
@@ -30612,7 +30657,7 @@
   {
     "title": "Floppy-Ear Chaos",
     "titleId": "1844898606",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Cube Farmer",
@@ -33210,6 +33255,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Captain Coco: Treasure Island (Windows)",
+    "titleId": "1869710415",
+    "isTitleBased": true
+  },
+  {
     "title": "Dead Dungeon for Windows 10",
     "titleId": "1869817076",
     "isTitleBased": true
@@ -34802,7 +34852,7 @@
   {
     "title": "FIRE AND ASHES",
     "titleId": "1884057572",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Brain Storm: Tower Bombarde (for Windows 10)",
@@ -35872,7 +35922,7 @@
   {
     "title": "Beyond These Stars",
     "titleId": "1892943914",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Delivery of Us (Xbox Series)",
@@ -37557,7 +37607,7 @@
   {
     "title": "Beyond The Evil",
     "titleId": "1908291720",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Galaxy Champions TV",
@@ -37800,6 +37850,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Clutch*",
+    "titleId": "1910923051",
+    "isTitleBased": false
+  },
+  {
     "title": "Icy Gifts (Xbox One)",
     "titleId": "1910949734",
     "isTitleBased": true
@@ -37993,6 +38048,11 @@
     "title": "Anima Flux Demo",
     "titleId": "1912581219",
     "isTitleBased": false
+  },
+  {
+    "title": "Moto X",
+    "titleId": "1912674670",
+    "isTitleBased": true
   },
   {
     "title": "PAW Patrol The Movie: Adventure City Calls",
@@ -38687,7 +38747,7 @@
   {
     "title": "Escape Academy 2: Back 2 School",
     "titleId": "1919019459",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Doraemon Dorayaki Shop Story",
@@ -39295,6 +39355,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Eternal Castle [REMASTERED]",
+    "titleId": "1925069973",
+    "isTitleBased": true
+  },
+  {
     "title": "Q.U.B.E. 2 Ultimate Edition",
     "titleId": "1925131943",
     "isTitleBased": true
@@ -39627,7 +39692,7 @@
   {
     "title": "Alpha Nomos",
     "titleId": "1927608426",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Dual Bunnies (Xbox One)",
@@ -40380,6 +40445,11 @@
     "isTitleBased": true
   },
   {
+    "title": "When Sirens Fall Silent",
+    "titleId": "1935058164",
+    "isTitleBased": false
+  },
+  {
     "title": "United Assault - Battle of the Bulge",
     "titleId": "1935081325",
     "isTitleBased": true
@@ -40597,7 +40667,7 @@
   {
     "title": "Deep Dish Dungeon",
     "titleId": "1936835421",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Cities: Skylines - Remastered",
@@ -41347,7 +41417,7 @@
   {
     "title": "Bluey's Happy Snaps",
     "titleId": "1943249498",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Max Payne® 2: The Fall of Max Payne",
@@ -41413,6 +41483,11 @@
     "title": "Mass Effect 3 (2012 Edition)",
     "titleId": "1944019579",
     "isTitleBased": false
+  },
+  {
+    "title": "Outbreak: Dead City",
+    "titleId": "1944174900",
+    "isTitleBased": true
   },
   {
     "title": "Thief of Thieves: Season One",
@@ -43448,6 +43523,11 @@
     "title": "Imperator: Rome",
     "titleId": "1962390392",
     "isTitleBased": false
+  },
+  {
+    "title": "Kitties on Planets (Xbox Series)",
+    "titleId": "1962404429",
+    "isTitleBased": true
   },
   {
     "title": "KINGDOM HEARTS - HD 1.5+2.5 ReMIX -",
@@ -45672,7 +45752,7 @@
   {
     "title": "Valor Mortis",
     "titleId": "1982861109",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Unravel Two",
@@ -46167,7 +46247,7 @@
   {
     "title": "Dahlia View",
     "titleId": "1986873837",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Dark Steel Legends",
@@ -46655,6 +46735,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Weekend Solitaire: Voyage",
+    "titleId": "1991977974",
+    "isTitleBased": true
+  },
+  {
     "title": "Tallowmere 2: Curse of the Kittens (Xbox)",
     "titleId": "1991993415",
     "isTitleBased": true
@@ -47117,6 +47202,11 @@
   {
     "title": "Noctuary",
     "titleId": "1995973613",
+    "isTitleBased": true
+  },
+  {
+    "title": "Arcade Archives 2 THUNDERCADE",
+    "titleId": "1995980056",
     "isTitleBased": true
   },
   {
@@ -48110,6 +48200,11 @@
     "isTitleBased": true
   },
   {
+    "title": "HELLBOUND INC",
+    "titleId": "2004961811",
+    "isTitleBased": true
+  },
+  {
     "title": "White Shadows",
     "titleId": "2004998164",
     "isTitleBased": true
@@ -48212,7 +48307,7 @@
   {
     "title": "Hope in the City",
     "titleId": "2005840241",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Mystic Fate",
@@ -48947,7 +49042,7 @@
   {
     "title": "Curse of Resthaven",
     "titleId": "2012897672",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Kara Fantasy",
@@ -48997,6 +49092,11 @@
   {
     "title": "PAC-MAN Mega Tunnel Battle: Chomp Champs",
     "titleId": "2013199752",
+    "isTitleBased": true
+  },
+  {
+    "title": "NBA 2K27 (Windows PC)",
+    "titleId": "2013261268",
     "isTitleBased": true
   },
   {
@@ -49203,6 +49303,11 @@
     "title": "Madden NFL 17",
     "titleId": "2014880780",
     "isTitleBased": false
+  },
+  {
+    "title": "Supercar Collection Simulator",
+    "titleId": "2014903602",
+    "isTitleBased": true
   },
   {
     "title": "Dragon Bobby",
@@ -49652,6 +49757,11 @@
   {
     "title": "Mr. Prepper",
     "titleId": "2019203468",
+    "isTitleBased": true
+  },
+  {
+    "title": "Kitties on Planets (Windows)",
+    "titleId": "2019209646",
     "isTitleBased": true
   },
   {
@@ -51235,6 +51345,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Don Bradman Cricket JR",
+    "titleId": "2032439216",
+    "isTitleBased": false
+  },
+  {
     "title": "Scott Whiskers: the Search for the Golden Cat",
     "titleId": "2032487932",
     "isTitleBased": true
@@ -51672,7 +51787,7 @@
   {
     "title": "Chained Beasts",
     "titleId": "2036001782",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Little Misfortune",
@@ -51987,6 +52102,11 @@
   {
     "title": "Little Noah: Scion of Paradise",
     "titleId": "2038341591",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cat on the Jungle Path (Xbox One)",
+    "titleId": "2038348683",
     "isTitleBased": true
   },
   {
@@ -53925,6 +54045,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Castlevania: Belmont's Curse Digital Sound & Art Gallery",
+    "titleId": "2056609157",
+    "isTitleBased": false
+  },
+  {
     "title": "Pepper Grinder",
     "titleId": "2056610317",
     "isTitleBased": true
@@ -54030,6 +54155,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Empires Shall Fall",
+    "titleId": "2057428325",
+    "isTitleBased": true
+  },
+  {
     "title": "The Trolley Solution",
     "titleId": "2057431206",
     "isTitleBased": true
@@ -54062,6 +54192,11 @@
   {
     "title": "Truth",
     "titleId": "2057647292",
+    "isTitleBased": true
+  },
+  {
+    "title": "Cat on the Jungle Path (Xbox Series)",
+    "titleId": "2057647672",
     "isTitleBased": true
   },
   {
@@ -55482,7 +55617,7 @@
   {
     "title": "Warhammer 40,000: Boltgun 2",
     "titleId": "2072212025",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Tom Clancy’s Splinter Cell® Blacklist™",
@@ -55802,6 +55937,11 @@
   {
     "title": "The Valiant",
     "titleId": "2075337806",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tanks Sweet Tanks",
+    "titleId": "2075402781",
     "isTitleBased": true
   },
   {
@@ -61765,6 +61905,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Acts of Blood",
+    "titleId": "2130568675",
+    "isTitleBased": false
+  },
+  {
     "title": "Life is Strange: Double Exposure Chapters 1-2",
     "titleId": "2130570772",
     "isTitleBased": false
@@ -62012,6 +62157,11 @@
   {
     "title": "TerraTech",
     "titleId": "213257000",
+    "isTitleBased": true
+  },
+  {
+    "title": "Captain Coco: Treasure Island (Xbox One)",
+    "titleId": "2132668178",
     "isTitleBased": true
   },
   {
@@ -66170,7 +66320,7 @@
     "isTitleBased": false
   },
   {
-    "title": "Dungeon of the Endless",
+    "title": "Dungeon of the ENDLESS™",
     "titleId": "429018095",
     "isTitleBased": false
   },

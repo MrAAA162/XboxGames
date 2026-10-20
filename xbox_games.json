@@ -8045,6 +8045,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Warhounds",
+    "titleId": "1643270520",
+    "isTitleBased": false
+  },
+  {
     "title": "Bus Stop Shuffle",
     "titleId": "1643334678",
     "isTitleBased": true
@@ -9225,6 +9230,11 @@
     "isTitleBased": true
   },
   {
+    "title": "DERELIKT",
+    "titleId": "1652888438",
+    "isTitleBased": false
+  },
+  {
     "title": "Neon Blood",
     "titleId": "1652975016",
     "isTitleBased": true
@@ -10397,7 +10407,7 @@
   {
     "title": "BOMBANANA!",
     "titleId": "1664599867",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Arcade Archives 2 STEEL WORKER",
@@ -17705,7 +17715,7 @@
     "isTitleBased": true
   },
   {
-    "title": "Gravhounds",
+    "title": "GRAVHOUNDS (Game Preview)",
     "titleId": "1726988419",
     "isTitleBased": false
   },
@@ -19902,6 +19912,11 @@
   {
     "title": "DoubleDragon Advance",
     "titleId": "1747235781",
+    "isTitleBased": true
+  },
+  {
+    "title": "Vice: Magic City Mayhem",
+    "titleId": "1747324377",
     "isTitleBased": true
   },
   {
@@ -28822,7 +28837,7 @@
   {
     "title": "Dog Man: Bark in Action",
     "titleId": "1828125140",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Bytebond: Deluxe Edition",
@@ -39890,6 +39905,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Just a Stupid Room",
+    "titleId": "1929423011",
+    "isTitleBased": false
+  },
+  {
     "title": "Overloop",
     "titleId": "1929459270",
     "isTitleBased": true
@@ -40232,6 +40252,11 @@
   {
     "title": "DISTRAINT: Deluxe Edition",
     "titleId": "1932645237",
+    "isTitleBased": true
+  },
+  {
+    "title": "Time Machine : Hidden Objects",
+    "titleId": "1932653004",
     "isTitleBased": true
   },
   {
@@ -40782,6 +40807,11 @@
   {
     "title": "Nine Noir Lives",
     "titleId": "1937823248",
+    "isTitleBased": true
+  },
+  {
+    "title": "Honey Route (Windows)",
+    "titleId": "1937849229",
     "isTitleBased": true
   },
   {
@@ -44657,6 +44687,11 @@
   {
     "title": "Rogue Raccoon (Xbox One)",
     "titleId": "1972996505",
+    "isTitleBased": true
+  },
+  {
+    "title": "Supermarket - Tidy Up!",
+    "titleId": "1973003306",
     "isTitleBased": true
   },
   {
@@ -48815,6 +48850,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Honey Route (Xbox Series XS)",
+    "titleId": "2010890346",
+    "isTitleBased": true
+  },
+  {
     "title": "Hunting Simulator 2 Xbox Series X|S",
     "titleId": "2010890559",
     "isTitleBased": true
@@ -48853,6 +48893,11 @@
     "title": "F1® 2019 PC",
     "titleId": "2011233781",
     "isTitleBased": true
+  },
+  {
+    "title": "The Killing Stone",
+    "titleId": "2011365291",
+    "isTitleBased": false
   },
   {
     "title": "SHINOBI NON GRATA",
@@ -51925,6 +51970,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Squad",
+    "titleId": "2037181820",
+    "isTitleBased": false
+  },
+  {
     "title": "SpongeBob SquarePants: Titans of the Tide",
     "titleId": "2037196689",
     "isTitleBased": true
@@ -53435,6 +53485,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Entwined: Strings of Deception",
+    "titleId": "2050780004",
+    "isTitleBased": true
+  },
+  {
     "title": "Monster Prom 2: Monster Camp XXL",
     "titleId": "2050785251",
     "isTitleBased": true
@@ -53698,6 +53753,11 @@
     "title": "DOLLMAKER",
     "titleId": "2053175398",
     "isTitleBased": true
+  },
+  {
+    "title": "Cargo Hunters",
+    "titleId": "2053320464",
+    "isTitleBased": false
   },
   {
     "title": "PULMO",
@@ -57960,9 +58020,9 @@
     "isTitleBased": true
   },
   {
-    "title": "HorrorVale",
+    "title": "HorrorVale: Deadluxe Edition",
     "titleId": "2094677426",
-    "isTitleBased": false
+    "isTitleBased": true
   },
   {
     "title": "Golfing in Aether",
@@ -61105,6 +61165,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Tape to Tape",
+    "titleId": "2123273320",
+    "isTitleBased": true
+  },
+  {
     "title": "JoJo's Bizarre Adventure: All-Star Battle R",
     "titleId": "2123297300",
     "isTitleBased": true
@@ -62832,6 +62897,11 @@
   {
     "title": "Little Kingdom RTS (Windows)",
     "titleId": "2138600918",
+    "isTitleBased": true
+  },
+  {
+    "title": "Honey Route (Xbox One)",
+    "titleId": "2138656278",
     "isTitleBased": true
   },
   {

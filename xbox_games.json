@@ -8280,6 +8280,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Graytail",
+    "titleId": "1645306977",
+    "isTitleBased": false
+  },
+  {
     "title": "Zero Squares (Xbox One)",
     "titleId": "1645309277",
     "isTitleBased": true
@@ -9113,6 +9118,11 @@
     "title": "ザ・コロニスト",
     "titleId": "1651449311",
     "isTitleBased": true
+  },
+  {
+    "title": "CROAK",
+    "titleId": "1651461516",
+    "isTitleBased": false
   },
   {
     "title": "GINSHA",
@@ -16735,6 +16745,11 @@
     "isTitleBased": true
   },
   {
+    "title": "The Séance of Blake Manor",
+    "titleId": "1717482501",
+    "isTitleBased": true
+  },
+  {
     "title": "I Think I Saw a Kitten (Windows)",
     "titleId": "1717506221",
     "isTitleBased": true
@@ -18092,6 +18107,11 @@
   {
     "title": "Pet Shop Simulator",
     "titleId": "1729522353",
+    "isTitleBased": true
+  },
+  {
+    "title": "Bloom Busters",
+    "titleId": "1729547347",
     "isTitleBased": true
   },
   {
@@ -21070,6 +21090,11 @@
     "isTitleBased": true
   },
   {
+    "title": "AETHUS",
+    "titleId": "1756712625",
+    "isTitleBased": false
+  },
+  {
     "title": "Lulu's Temple",
     "titleId": "1756721343",
     "isTitleBased": true
@@ -21107,6 +21132,11 @@
   {
     "title": "#Funtime",
     "titleId": "1757128615",
+    "isTitleBased": true
+  },
+  {
+    "title": "Tidy Up the Halloween Shop",
+    "titleId": "1757149393",
     "isTitleBased": true
   },
   {
@@ -21622,6 +21652,11 @@
   {
     "title": "Ping Pong Up",
     "titleId": "1761818175",
+    "isTitleBased": true
+  },
+  {
+    "title": "Seahorse Soap Patrol",
+    "titleId": "1761818668",
     "isTitleBased": true
   },
   {
@@ -22147,6 +22182,11 @@
   {
     "title": "Heroine Anthem Zero 2 : Scalescars Oath",
     "titleId": "1766113023",
+    "isTitleBased": true
+  },
+  {
+    "title": "Math Duck+",
+    "titleId": "1766157796",
     "isTitleBased": true
   },
   {
@@ -22932,6 +22972,11 @@
   {
     "title": "Outbreak: The Nightmare Chronicles Definitive Edition",
     "titleId": "1772875348",
+    "isTitleBased": true
+  },
+  {
+    "title": "ZERO PARADES: Director's Cut",
+    "titleId": "1772936163",
     "isTitleBased": true
   },
   {
@@ -23777,6 +23822,11 @@
   {
     "title": "Demetrios - The BIG Cynical Adventure",
     "titleId": "1780055739",
+    "isTitleBased": false
+  },
+  {
+    "title": "WOOFY RUN",
+    "titleId": "1780095456",
     "isTitleBased": false
   },
   {
@@ -25732,6 +25782,11 @@
   {
     "title": "DYNASTY WARRIORS: ORIGINS",
     "titleId": "1797553917",
+    "isTitleBased": true
+  },
+  {
+    "title": "Karate Survivor",
+    "titleId": "1797601350",
     "isTitleBased": true
   },
   {
@@ -28712,6 +28767,11 @@
   {
     "title": "Find The Cats (Xbox One)",
     "titleId": "1826390129",
+    "isTitleBased": true
+  },
+  {
+    "title": "The Dark Queen of Mortholme",
+    "titleId": "1826390998",
     "isTitleBased": true
   },
   {
@@ -33500,6 +33560,11 @@
     "isTitleBased": false
   },
   {
+    "title": "Croc's World 5",
+    "titleId": "1870666951",
+    "isTitleBased": true
+  },
+  {
     "title": "Flee The Fallen",
     "titleId": "1870687932",
     "isTitleBased": true
@@ -34368,6 +34433,11 @@
     "title": "One Step After Fall (Xbox Series X|S)",
     "titleId": "1878673024",
     "isTitleBased": true
+  },
+  {
+    "title": "Paper Shredder",
+    "titleId": "1878703649",
+    "isTitleBased": false
   },
   {
     "title": "Truck Simulator Cargo Driver 2025 - USA",
@@ -35922,6 +35992,11 @@
   {
     "title": "MXGP 2021 - The Official Motocross Videogame - Xbox Series X|S",
     "titleId": "1891931390",
+    "isTitleBased": true
+  },
+  {
+    "title": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe",
+    "titleId": "1891948507",
     "isTitleBased": true
   },
   {
@@ -47310,6 +47385,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Magenta Down",
+    "titleId": "1995391270",
+    "isTitleBased": false
+  },
+  {
     "title": "Super Juicy Stack (Windows)",
     "titleId": "1995450845",
     "isTitleBased": true
@@ -51038,6 +51118,11 @@
     "title": "MIO: Memories in Orbit",
     "titleId": "2028249570",
     "isTitleBased": true
+  },
+  {
+    "title": "Microwave Simulator",
+    "titleId": "2028261598",
+    "isTitleBased": false
   },
   {
     "title": "Beer Manufacture Simulator",
@@ -59105,6 +59190,11 @@
     "isTitleBased": true
   },
   {
+    "title": "Pratfall",
+    "titleId": "2101791265",
+    "isTitleBased": false
+  },
+  {
     "title": "Back 4 Blood",
     "titleId": "210179407",
     "isTitleBased": true
@@ -61093,6 +61183,11 @@
     "title": "Spirit of the North 2",
     "titleId": "2120222634",
     "isTitleBased": true
+  },
+  {
+    "title": "DOOM Open Beta",
+    "titleId": "2120326849",
+    "isTitleBased": false
   },
   {
     "title": "The Smurfs - Village Party",
